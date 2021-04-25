@@ -1,0 +1,69 @@
+NYS_MI.csv: State and county level heart attack (acute 
+myocardial infarction) hospitalizations
+
+Hospitalization data was provided by the Bureau of Biometrics and 
+Health Statistics, New York State Department of Health. 
+For more information about hospitalization data please visit 
+http://www.health.ny.gov/statistics/sparcs/
+
+Data fields (in order of which they appear):
+
+VARIABLE	DESCRIPTION
+---------   	-----------
+Indictor 	Hospitalizations
+
+
+County		(County)   New York State   New York City  NYS excluding NYC
+
+
+YEAR		Year of admission to hospital
+
+
+Subgroup1	Agegroup   Month    Total
+
+
+Subgroup_cat1	Age Groups
+		0-34
+		35+
+		35-44
+		45-54
+		55-64
+		65-74
+		75-84
+		85+
+		
+		Months
+		01 through 12 indicate January to December 
+
+
+Subgroup2	Gender  Total
+
+
+Subgroup_cat2 	Gender
+		F: Female
+
+		M: Male	
+
+
+aaRate10K	Age-Adjusted rate per 10,000 person-years 
+
+
+count		Number of Hospitalizations 
+
+
+cRate10K 	Crude Rate per 10,000 person years
+
+
+dailyMean	Daily average number of hospitalizations
+
+--------------------------------------------------------------------
+
+State population:
+Annual State Population Estimates by Demographic Characteristics is 
+available at the Unites States Census Bureau website 
+https://www.census.gov/popest/data/.
+
+County population:
+Annual County Resident Population Estimates by Year, Age, Sex, Race 
+and Hispanic Origin is available at the Unites States Census Bureau 
+website https://www.census.gov/popest/data/.  

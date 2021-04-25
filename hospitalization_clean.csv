@@ -1,0 +1,2394 @@
+County,Year,subgroup1,subgroup_cat1,subgroup2,subgroup_cat2,aaRate10K,count,cRate10K,dailyMean
+Albany,2000-2002,AgeGroup,35+,Total,Total,108.794,1851,118.01,1.689
+Albany,2001-2003,AgeGroup,35+,Total,Total,101.815,1749,110.65,1.597
+Albany,2002-2004,AgeGroup,35+,Total,Total,92.198,1598,100.36,1.458
+Albany,2003-2005,AgeGroup,35+,Total,Total,85.739,1501,93.53,1.37
+Albany,2004-2006,AgeGroup,35+,Total,Total,80.24,1417,87.68,1.293
+Albany,2005-2007,AgeGroup,35+,Total,Total,77.349,1377,84.74,1.258
+Albany,2006-2008,AgeGroup,35+,Total,Total,74.021,1326,81.35,1.21
+Albany,2007-2009,AgeGroup,35+,Total,Total,71.056,1291,79.07,1.178
+Albany,2008-2010,AgeGroup,35+,Total,Total,72.75,1342,82.08,1.224
+Albany,2009-2011,AgeGroup,35+,Total,Total,67.016,1247,76.26,1.139
+Albany,2010-2012,AgeGroup,35+,Total,Total,62.592,1163,71.17,1.061
+Albany,2011-2013,AgeGroup,35+,Total,Total,59.909,1108,67.85,1.011
+Albany,2012-2014,AgeGroup,35+,Total,Total,64.223,1198,73.31,1.093
+Albany,2013-2015,AgeGroup,35+,Total,Total,67.236,1273,77.75,1.163
+Albany,2014-2016,AgeGroup,35+,Total,Total,69.966,1338,81.54,1.221
+Albany,2015-2017,AgeGroup,35+,Total,Total,71.554,1385,84.22,1.264
+Albany,2016-2018,AgeGroup,35+,Total,Total,71.5,1391,84.44,1.269
+Allegany,2000-2002,AgeGroup,35+,Total,Total,150.182,416,166.15,0.38
+Allegany,2001-2003,AgeGroup,35+,Total,Total,143.882,399,158.76,0.364
+Allegany,2002-2004,AgeGroup,35+,Total,Total,148.335,414,163.89,0.378
+Allegany,2003-2005,AgeGroup,35+,Total,Total,130.266,366,144.28,0.334
+Allegany,2004-2006,AgeGroup,35+,Total,Total,128.638,362,142.13,0.33
+Allegany,2005-2007,AgeGroup,35+,Total,Total,124.635,353,138.3,0.322
+Allegany,2006-2008,AgeGroup,35+,Total,Total,145.187,418,163.39,0.381
+Allegany,2007-2009,AgeGroup,35+,Total,Total,141.084,409,159.61,0.373
+Allegany,2008-2010,AgeGroup,35+,Total,Total,146.131,427,166.11,0.39
+Allegany,2009-2011,AgeGroup,35+,Total,Total,120.558,355,137.82,0.324
+Allegany,2010-2012,AgeGroup,35+,Total,Total,119.675,353,136.95,0.322
+Allegany,2011-2013,AgeGroup,35+,Total,Total,104.695,315,122.36,0.287
+Allegany,2012-2014,AgeGroup,35+,Total,Total,110.725,333,129.54,0.304
+Allegany,2013-2015,AgeGroup,35+,Total,Total,102.428,310,120.79,0.283
+Allegany,2014-2016,AgeGroup,35+,Total,Total,99.639,303,118.47,0.276
+Allegany,2015-2017,AgeGroup,35+,Total,Total,99.332,303,118.86,0.276
+Allegany,2016-2018,AgeGroup,35+,Total,Total,95.151,296,116.28,0.27
+Bronx,2000-2002,AgeGroup,35+,Total,Total,132.328,7549,126.15,6.888
+Bronx,2001-2003,AgeGroup,35+,Total,Total,136.871,7897,129.88,7.212
+Bronx,2002-2004,AgeGroup,35+,Total,Total,138.603,8089,131.43,7.38
+Bronx,2003-2005,AgeGroup,35+,Total,Total,132.513,7807,125.74,7.123
+Bronx,2004-2006,AgeGroup,35+,Total,Total,121.408,7230,115.72,6.597
+Bronx,2005-2007,AgeGroup,35+,Total,Total,112.157,6767,107.59,6.18
+Bronx,2006-2008,AgeGroup,35+,Total,Total,108.04,6623,104.53,6.043
+Bronx,2007-2009,AgeGroup,35+,Total,Total,103.81,6470,101.2,5.903
+Bronx,2008-2010,AgeGroup,35+,Total,Total,97.605,6193,95.87,5.651
+Bronx,2009-2011,AgeGroup,35+,Total,Total,93.07,6011,92.04,5.489
+Bronx,2010-2012,AgeGroup,35+,Total,Total,87.84,5806,87.85,5.297
+Bronx,2011-2013,AgeGroup,35+,Total,Total,83.552,5641,84.38,5.147
+Bronx,2012-2014,AgeGroup,35+,Total,Total,76.677,5308,78.46,4.843
+Bronx,2013-2015,AgeGroup,35+,Total,Total,71.675,5081,74.22,4.64
+Bronx,2014-2016,AgeGroup,35+,Total,Total,69.576,5043,72.85,4.601
+Bronx,2015-2017,AgeGroup,35+,Total,Total,69.753,5147,73.68,4.696
+Bronx,2016-2018,AgeGroup,35+,Total,Total,70.295,5283,75.2,4.82
+Broome,2000-2002,AgeGroup,35+,Total,Total,148.715,1877,170.67,1.713
+Broome,2001-2003,AgeGroup,35+,Total,Total,136.618,1740,157.78,1.589
+Broome,2002-2004,AgeGroup,35+,Total,Total,128.715,1657,149.94,1.512
+Broome,2003-2005,AgeGroup,35+,Total,Total,124.898,1622,146.57,1.48
+Broome,2004-2006,AgeGroup,35+,Total,Total,119.148,1547,139.39,1.411
+Broome,2005-2007,AgeGroup,35+,Total,Total,114.398,1486,133.64,1.357
+Broome,2006-2008,AgeGroup,35+,Total,Total,111.816,1455,130.73,1.328
+Broome,2007-2009,AgeGroup,35+,Total,Total,107.898,1427,128.31,1.302
+Broome,2008-2010,AgeGroup,35+,Total,Total,105.645,1420,127.86,1.296
+Broome,2009-2011,AgeGroup,35+,Total,Total,110.804,1516,136.97,1.384
+Broome,2010-2012,AgeGroup,35+,Total,Total,115.868,1603,145.62,1.463
+Broome,2011-2013,AgeGroup,35+,Total,Total,115.221,1595,145.88,1.455
+Broome,2012-2014,AgeGroup,35+,Total,Total,103.85,1434,131.92,1.308
+Broome,2013-2015,AgeGroup,35+,Total,Total,100.419,1363,126.11,1.245
+Broome,2014-2016,AgeGroup,35+,Total,Total,102.121,1368,127.24,1.248
+Broome,2015-2017,AgeGroup,35+,Total,Total,107.983,1442,134.85,1.316
+Broome,2016-2018,AgeGroup,35+,Total,Total,108.535,1457,136.97,1.329
+Cattaraugus,2000-2002,AgeGroup,35+,Total,Total,163.428,789,175.42,0.72
+Cattaraugus,2001-2003,AgeGroup,35+,Total,Total,167.532,813,180.11,0.742
+Cattaraugus,2002-2004,AgeGroup,35+,Total,Total,150.224,732,161.73,0.668
+Cattaraugus,2003-2005,AgeGroup,35+,Total,Total,144.768,709,156.52,0.647
+Cattaraugus,2004-2006,AgeGroup,35+,Total,Total,123.905,608,134.41,0.555
+Cattaraugus,2005-2007,AgeGroup,35+,Total,Total,117.929,581,128.52,0.531
+Cattaraugus,2006-2008,AgeGroup,35+,Total,Total,129.44,648,143.32,0.591
+Cattaraugus,2007-2009,AgeGroup,35+,Total,Total,132.4,678,149.94,0.619
+Cattaraugus,2008-2010,AgeGroup,35+,Total,Total,140.372,727,160.89,0.663
+Cattaraugus,2009-2011,AgeGroup,35+,Total,Total,121.821,627,139.04,0.573
+Cattaraugus,2010-2012,AgeGroup,35+,Total,Total,117.739,605,134.42,0.552
+Cattaraugus,2011-2013,AgeGroup,35+,Total,Total,109.945,562,125.11,0.513
+Cattaraugus,2012-2014,AgeGroup,35+,Total,Total,110.347,566,126.19,0.516
+Cattaraugus,2013-2015,AgeGroup,35+,Total,Total,105.691,546,121.99,0.499
+Cattaraugus,2014-2016,AgeGroup,35+,Total,Total,109.289,565,126.6,0.516
+Cattaraugus,2015-2017,AgeGroup,35+,Total,Total,114.613,589,132.18,0.537
+Cattaraugus,2016-2018,AgeGroup,35+,Total,Total,121.103,619,139.08,0.565
+Cayuga,2000-2002,AgeGroup,35+,Total,Total,204.415,964,217.31,0.88
+Cayuga,2001-2003,AgeGroup,35+,Total,Total,220.094,1054,235.98,0.963
+Cayuga,2002-2004,AgeGroup,35+,Total,Total,213.799,1042,231.43,0.951
+Cayuga,2003-2005,AgeGroup,35+,Total,Total,200.275,995,219.27,0.908
+Cayuga,2004-2006,AgeGroup,35+,Total,Total,186.397,930,203.51,0.849
+Cayuga,2005-2007,AgeGroup,35+,Total,Total,161.347,820,178.29,0.749
+Cayuga,2006-2008,AgeGroup,35+,Total,Total,139.071,713,154.23,0.651
+Cayuga,2007-2009,AgeGroup,35+,Total,Total,118.298,618,133.43,0.564
+Cayuga,2008-2010,AgeGroup,35+,Total,Total,106.42,554,119.62,0.505
+Cayuga,2009-2011,AgeGroup,35+,Total,Total,116.822,613,132.62,0.56
+Cayuga,2010-2012,AgeGroup,35+,Total,Total,134.971,715,154.92,0.652
+Cayuga,2011-2013,AgeGroup,35+,Total,Total,136.861,726,157.49,0.662
+Cayuga,2012-2014,AgeGroup,35+,Total,Total,117.424,624,135.39,0.569
+Cayuga,2013-2015,AgeGroup,35+,Total,Total,92.511,496,107.82,0.453
+Cayuga,2014-2016,AgeGroup,35+,Total,Total,80.751,444,96.84,0.405
+Cayuga,2015-2017,AgeGroup,35+,Total,Total,76.396,418,91.4,0.381
+Cayuga,2016-2018,AgeGroup,35+,Total,Total,76.653,421,92.01,0.384
+Chautauqua,2000-2002,AgeGroup,35+,Total,Total,120.973,1056,139.85,0.964
+Chautauqua,2001-2003,AgeGroup,35+,Total,Total,102.329,894,118.34,0.816
+Chautauqua,2002-2004,AgeGroup,35+,Total,Total,90.045,795,105.13,0.725
+Chautauqua,2003-2005,AgeGroup,35+,Total,Total,80.298,719,95,0.656
+Chautauqua,2004-2006,AgeGroup,35+,Total,Total,70.573,646,85.18,0.589
+Chautauqua,2005-2007,AgeGroup,35+,Total,Total,66.199,609,80.17,0.556
+Chautauqua,2006-2008,AgeGroup,35+,Total,Total,62.319,576,75.7,0.526
+Chautauqua,2007-2009,AgeGroup,35+,Total,Total,60.355,554,72.77,0.505
+Chautauqua,2008-2010,AgeGroup,35+,Total,Total,56.043,519,68.18,0.474
+Chautauqua,2009-2011,AgeGroup,35+,Total,Total,54.335,505,66.39,0.461
+Chautauqua,2010-2012,AgeGroup,35+,Total,Total,51.176,482,63.47,0.44
+Chautauqua,2011-2013,AgeGroup,35+,Total,Total,46.723,442,58.34,0.403
+Chautauqua,2012-2014,AgeGroup,35+,Total,Total,39.999,382,50.57,0.349
+Chautauqua,2013-2015,AgeGroup,35+,Total,Total,37.243,362,48.08,0.331
+Chautauqua,2014-2016,AgeGroup,35+,Total,Total,40.825,392,52.27,0.358
+Chautauqua,2015-2017,AgeGroup,35+,Total,Total,39.374,378,50.55,0.345
+Chautauqua,2016-2018,AgeGroup,35+,Total,Total,38.034,358,47.99,0.327
+Chemung,2000-2002,AgeGroup,35+,Total,Total,135.667,742,148.71,0.677
+Chemung,2001-2003,AgeGroup,35+,Total,Total,122.283,675,135.06,0.616
+Chemung,2002-2004,AgeGroup,35+,Total,Total,114.571,638,127.46,0.582
+Chemung,2003-2005,AgeGroup,35+,Total,Total,114.52,647,129.17,0.59
+Chemung,2004-2006,AgeGroup,35+,Total,Total,112.297,636,126.69,0.58
+Chemung,2005-2007,AgeGroup,35+,Total,Total,107.493,613,121.82,0.56
+Chemung,2006-2008,AgeGroup,35+,Total,Total,102.996,587,116.38,0.536
+Chemung,2007-2009,AgeGroup,35+,Total,Total,107.392,618,122.33,0.564
+Chemung,2008-2010,AgeGroup,35+,Total,Total,104.218,605,119.71,0.552
+Chemung,2009-2011,AgeGroup,35+,Total,Total,103.229,606,120,0.553
+Chemung,2010-2012,AgeGroup,35+,Total,Total,108.12,631,125.23,0.576
+Chemung,2011-2013,AgeGroup,35+,Total,Total,109.646,636,126.62,0.58
+Chemung,2012-2014,AgeGroup,35+,Total,Total,115.869,678,135.54,0.619
+Chemung,2013-2015,AgeGroup,35+,Total,Total,109.717,651,130.75,0.595
+Chemung,2014-2016,AgeGroup,35+,Total,Total,110.5,656,132.4,0.599
+Chemung,2015-2017,AgeGroup,35+,Total,Total,117.153,687,139.26,0.627
+Chemung,2016-2018,AgeGroup,35+,Total,Total,120.701,704,143.42,0.642
+Chenango,2000-2002,AgeGroup,35+,Total,Total,166.515,510,178.13,0.465
+Chenango,2001-2003,AgeGroup,35+,Total,Total,155.603,483,167.45,0.441
+Chenango,2002-2004,AgeGroup,35+,Total,Total,157.718,497,170.9,0.453
+Chenango,2003-2005,AgeGroup,35+,Total,Total,146.439,469,160.16,0.428
+Chenango,2004-2006,AgeGroup,35+,Total,Total,127.975,417,141.12,0.38
+Chenango,2005-2007,AgeGroup,35+,Total,Total,117.195,389,130.44,0.355
+Chenango,2006-2008,AgeGroup,35+,Total,Total,122.857,412,137.06,0.376
+Chenango,2007-2009,AgeGroup,35+,Total,Total,126.906,424,141.05,0.387
+Chenango,2008-2010,AgeGroup,35+,Total,Total,129.667,435,144.97,0.397
+Chenango,2009-2011,AgeGroup,35+,Total,Total,131.08,438,146.41,0.4
+Chenango,2010-2012,AgeGroup,35+,Total,Total,130.172,447,149.71,0.408
+Chenango,2011-2013,AgeGroup,35+,Total,Total,125.328,433,145.54,0.395
+Chenango,2012-2014,AgeGroup,35+,Total,Total,123.27,432,145.72,0.394
+Chenango,2013-2015,AgeGroup,35+,Total,Total,117.257,412,139.68,0.376
+Chenango,2014-2016,AgeGroup,35+,Total,Total,113.487,405,138.18,0.37
+Chenango,2015-2017,AgeGroup,35+,Total,Total,109.692,390,134.11,0.356
+Chenango,2016-2018,AgeGroup,35+,Total,Total,111.55,389,134.55,0.355
+Clinton,2000-2002,AgeGroup,35+,Total,Total,171.743,672,161.93,0.613
+Clinton,2001-2003,AgeGroup,35+,Total,Total,178.645,707,168.17,0.646
+Clinton,2002-2004,AgeGroup,35+,Total,Total,164.493,665,156.22,0.607
+Clinton,2003-2005,AgeGroup,35+,Total,Total,141.462,587,136.18,0.536
+Clinton,2004-2006,AgeGroup,35+,Total,Total,119.111,509,116.57,0.464
+Clinton,2005-2007,AgeGroup,35+,Total,Total,103.915,455,103.08,0.416
+Clinton,2006-2008,AgeGroup,35+,Total,Total,79.766,355,79.83,0.324
+Clinton,2007-2009,AgeGroup,35+,Total,Total,69.846,317,70.93,0.289
+Clinton,2008-2010,AgeGroup,35+,Total,Total,67.287,311,69.38,0.284
+Clinton,2009-2011,AgeGroup,35+,Total,Total,64.713,304,67.69,0.278
+Clinton,2010-2012,AgeGroup,35+,Total,Total,63.106,303,67.39,0.276
+Clinton,2011-2013,AgeGroup,35+,Total,Total,62.475,307,68.18,0.28
+Clinton,2012-2014,AgeGroup,35+,Total,Total,87.228,432,95.76,0.394
+Clinton,2013-2015,AgeGroup,35+,Total,Total,102.952,518,114.8,0.473
+Clinton,2014-2016,AgeGroup,35+,Total,Total,123.327,619,137.23,0.565
+Clinton,2015-2017,AgeGroup,35+,Total,Total,120.086,613,135.66,0.559
+Clinton,2016-2018,AgeGroup,35+,Total,Total,93.73,485,106.98,0.443
+Columbia,2000-2002,AgeGroup,35+,Total,Total,115.353,467,125.58,0.426
+Columbia,2001-2003,AgeGroup,35+,Total,Total,112.74,465,124.14,0.425
+Columbia,2002-2004,AgeGroup,35+,Total,Total,118.943,496,130.96,0.453
+Columbia,2003-2005,AgeGroup,35+,Total,Total,117.617,496,129.57,0.453
+Columbia,2004-2006,AgeGroup,35+,Total,Total,117.386,498,128.95,0.454
+Columbia,2005-2007,AgeGroup,35+,Total,Total,106.181,455,117.11,0.416
+Columbia,2006-2008,AgeGroup,35+,Total,Total,98.108,428,109.62,0.391
+Columbia,2007-2009,AgeGroup,35+,Total,Total,86.736,386,98.36,0.352
+Columbia,2008-2010,AgeGroup,35+,Total,Total,88.865,402,101.91,0.367
+Columbia,2009-2011,AgeGroup,35+,Total,Total,89.392,409,103.44,0.374
+Columbia,2010-2012,AgeGroup,35+,Total,Total,84.06,392,98.99,0.358
+Columbia,2011-2013,AgeGroup,35+,Total,Total,78.26,371,93.87,0.339
+Columbia,2012-2014,AgeGroup,35+,Total,Total,71.066,346,87.67,0.316
+Columbia,2013-2015,AgeGroup,35+,Total,Total,71.576,348,88.37,0.318
+Columbia,2014-2016,AgeGroup,35+,Total,Total,66.014,328,83.59,0.299
+Columbia,2015-2017,AgeGroup,35+,Total,Total,67.922,343,87.7,0.313
+Columbia,2016-2018,AgeGroup,35+,Total,Total,67.277,347,88.99,0.317
+Cortland,2000-2002,AgeGroup,35+,Total,Total,141.469,357,149.06,0.326
+Cortland,2001-2003,AgeGroup,35+,Total,Total,141.555,361,149.6,0.33
+Cortland,2002-2004,AgeGroup,35+,Total,Total,156.683,405,166.41,0.37
+Cortland,2003-2005,AgeGroup,35+,Total,Total,148.737,387,157.63,0.353
+Cortland,2004-2006,AgeGroup,35+,Total,Total,137.406,358,144.77,0.327
+Cortland,2005-2007,AgeGroup,35+,Total,Total,125.486,332,133.36,0.303
+Cortland,2006-2008,AgeGroup,35+,Total,Total,121.817,328,131,0.299
+Cortland,2007-2009,AgeGroup,35+,Total,Total,126.386,345,137.4,0.315
+Cortland,2008-2010,AgeGroup,35+,Total,Total,115.708,315,125.55,0.287
+Cortland,2009-2011,AgeGroup,35+,Total,Total,115.4,317,126.73,0.289
+Cortland,2010-2012,AgeGroup,35+,Total,Total,113.917,317,127.16,0.289
+Cortland,2011-2013,AgeGroup,35+,Total,Total,109.182,302,121.54,0.276
+Cortland,2012-2014,AgeGroup,35+,Total,Total,95.043,268,108.03,0.245
+Cortland,2013-2015,AgeGroup,35+,Total,Total,83.885,233,94.05,0.213
+Cortland,2014-2016,AgeGroup,35+,Total,Total,88.302,250,101.2,0.228
+Cortland,2015-2017,AgeGroup,35+,Total,Total,98.156,275,111.64,0.251
+Cortland,2016-2018,AgeGroup,35+,Total,Total,111.732,311,126.49,0.284
+Delaware,2000-2002,AgeGroup,35+,Total,Total,142.271,485,171.24,0.443
+Delaware,2001-2003,AgeGroup,35+,Total,Total,147.126,504,177,0.46
+Delaware,2002-2004,AgeGroup,35+,Total,Total,143.66,498,173.4,0.454
+Delaware,2003-2005,AgeGroup,35+,Total,Total,135.535,474,163.29,0.432
+Delaware,2004-2006,AgeGroup,35+,Total,Total,127.163,450,153.56,0.411
+Delaware,2005-2007,AgeGroup,35+,Total,Total,110.576,393,133.28,0.359
+Delaware,2006-2008,AgeGroup,35+,Total,Total,109.787,382,129.36,0.349
+Delaware,2007-2009,AgeGroup,35+,Total,Total,106.436,368,124.47,0.336
+Delaware,2008-2010,AgeGroup,35+,Total,Total,108.061,377,127.8,0.344
+Delaware,2009-2011,AgeGroup,35+,Total,Total,100.176,359,122.16,0.328
+Delaware,2010-2012,AgeGroup,35+,Total,Total,99.135,360,123.25,0.328
+Delaware,2011-2013,AgeGroup,35+,Total,Total,100.989,358,123.38,0.327
+Delaware,2012-2014,AgeGroup,35+,Total,Total,101.128,364,126.08,0.332
+Delaware,2013-2015,AgeGroup,35+,Total,Total,98.138,351,122.17,0.321
+Delaware,2014-2016,AgeGroup,35+,Total,Total,97.203,356,124.4,0.325
+Delaware,2015-2017,AgeGroup,35+,Total,Total,104.239,371,130.28,0.339
+Delaware,2016-2018,AgeGroup,35+,Total,Total,107.39,386,136.25,0.352
+Dutchess,2000-2002,AgeGroup,35+,Total,Total,131.878,1891,124.26,1.725
+Dutchess,2001-2003,AgeGroup,35+,Total,Total,131.418,1932,124.66,1.764
+Dutchess,2002-2004,AgeGroup,35+,Total,Total,125.465,1888,119.91,1.723
+Dutchess,2003-2005,AgeGroup,35+,Total,Total,117.162,1811,113.39,1.652
+Dutchess,2004-2006,AgeGroup,35+,Total,Total,103.749,1638,101.28,1.495
+Dutchess,2005-2007,AgeGroup,35+,Total,Total,92.124,1484,90.83,1.355
+Dutchess,2006-2008,AgeGroup,35+,Total,Total,82.595,1359,82.51,1.24
+Dutchess,2007-2009,AgeGroup,35+,Total,Total,75.849,1276,76.98,1.164
+Dutchess,2008-2010,AgeGroup,35+,Total,Total,73.003,1257,75.41,1.147
+Dutchess,2009-2011,AgeGroup,35+,Total,Total,70.697,1239,73.94,1.132
+Dutchess,2010-2012,AgeGroup,35+,Total,Total,71.373,1282,76.22,1.17
+Dutchess,2011-2013,AgeGroup,35+,Total,Total,70.44,1291,76.51,1.178
+Dutchess,2012-2014,AgeGroup,35+,Total,Total,75.286,1415,83.68,1.291
+Dutchess,2013-2015,AgeGroup,35+,Total,Total,76.775,1465,86.39,1.338
+Dutchess,2014-2016,AgeGroup,35+,Total,Total,78.07,1515,89.15,1.382
+Dutchess,2015-2017,AgeGroup,35+,Total,Total,80.212,1581,92.71,1.443
+Dutchess,2016-2018,AgeGroup,35+,Total,Total,78.9,1587,92.66,1.448
+Erie,2000-2002,AgeGroup,35+,Total,Total,144.981,8403,161.84,7.667
+Erie,2001-2003,AgeGroup,35+,Total,Total,147.534,8608,165.57,7.861
+Erie,2002-2004,AgeGroup,35+,Total,Total,142.027,8333,160.2,7.603
+Erie,2003-2005,AgeGroup,35+,Total,Total,132.549,7814,150.24,7.13
+Erie,2004-2006,AgeGroup,35+,Total,Total,121.262,7156,137.68,6.529
+Erie,2005-2007,AgeGroup,35+,Total,Total,112.413,6652,128.19,6.075
+Erie,2006-2008,AgeGroup,35+,Total,Total,105.57,6265,120.96,5.716
+Erie,2007-2009,AgeGroup,35+,Total,Total,98.953,5907,114.32,5.39
+Erie,2008-2010,AgeGroup,35+,Total,Total,97.106,5833,113.09,5.322
+Erie,2009-2011,AgeGroup,35+,Total,Total,93.232,5631,109.36,5.142
+Erie,2010-2012,AgeGroup,35+,Total,Total,93.808,5701,110.87,5.202
+Erie,2011-2013,AgeGroup,35+,Total,Total,90.681,5538,107.83,5.053
+Erie,2012-2014,AgeGroup,35+,Total,Total,90.675,5560,108.28,5.073
+Erie,2013-2015,AgeGroup,35+,Total,Total,89.736,5480,106.67,5.005
+Erie,2014-2016,AgeGroup,35+,Total,Total,90.993,5578,108.5,5.089
+Erie,2015-2017,AgeGroup,35+,Total,Total,91.707,5637,109.51,5.143
+Erie,2016-2018,AgeGroup,35+,Total,Total,91.161,5650,109.55,5.155
+Essex,2000-2002,AgeGroup,35+,Total,Total,94.865,231,102.47,0.211
+Essex,2001-2003,AgeGroup,35+,Total,Total,91.032,227,99.49,0.207
+Essex,2002-2004,AgeGroup,35+,Total,Total,84.88,216,93.46,0.197
+Essex,2003-2005,AgeGroup,35+,Total,Total,74.024,191,81.7,0.174
+Essex,2004-2006,AgeGroup,35+,Total,Total,71.131,186,78.69,0.17
+Essex,2005-2007,AgeGroup,35+,Total,Total,69.155,184,77.17,0.168
+Essex,2006-2008,AgeGroup,35+,Total,Total,63.255,173,72.02,0.158
+Essex,2007-2009,AgeGroup,35+,Total,Total,68.623,191,79.1,0.174
+Essex,2008-2010,AgeGroup,35+,Total,Total,75.076,210,86.54,0.192
+Essex,2009-2011,AgeGroup,35+,Total,Total,70.909,201,82.47,0.184
+Essex,2010-2012,AgeGroup,35+,Total,Total,68.099,195,79.88,0.178
+Essex,2011-2013,AgeGroup,35+,Total,Total,62.543,184,75.48,0.168
+Essex,2012-2014,AgeGroup,35+,Total,Total,78.309,226,92.97,0.206
+Essex,2013-2015,AgeGroup,35+,Total,Total,74.31,218,89.94,0.199
+Essex,2014-2016,AgeGroup,35+,Total,Total,74.572,218,90.06,0.199
+Essex,2015-2017,AgeGroup,35+,Total,Total,61.648,186,76.89,0.17
+Essex,2016-2018,AgeGroup,35+,Total,Total,51.691,155,64.04,0.141
+Franklin,2000-2002,AgeGroup,35+,Total,Total,125.334,331,122.46,0.302
+Franklin,2001-2003,AgeGroup,35+,Total,Total,124.716,334,122.59,0.305
+Franklin,2002-2004,AgeGroup,35+,Total,Total,110.741,301,109.57,0.275
+Franklin,2003-2005,AgeGroup,35+,Total,Total,96.491,263,94.92,0.24
+Franklin,2004-2006,AgeGroup,35+,Total,Total,88.985,245,87.59,0.224
+Franklin,2005-2007,AgeGroup,35+,Total,Total,95.133,264,93.53,0.241
+Franklin,2006-2008,AgeGroup,35+,Total,Total,92.124,261,91.79,0.238
+Franklin,2007-2009,AgeGroup,35+,Total,Total,91.296,264,92.64,0.241
+Franklin,2008-2010,AgeGroup,35+,Total,Total,88.06,259,90.89,0.236
+Franklin,2009-2011,AgeGroup,35+,Total,Total,82.789,247,86.88,0.226
+Franklin,2010-2012,AgeGroup,35+,Total,Total,96.076,284,99.73,0.259
+Franklin,2011-2013,AgeGroup,35+,Total,Total,104.144,311,109.26,0.284
+Franklin,2012-2014,AgeGroup,35+,Total,Total,125.485,384,134.66,0.35
+Franklin,2013-2015,AgeGroup,35+,Total,Total,126.212,396,139.23,0.362
+Franklin,2014-2016,AgeGroup,35+,Total,Total,126.75,405,141.98,0.37
+Franklin,2015-2017,AgeGroup,35+,Total,Total,120.957,392,137.45,0.358
+Franklin,2016-2018,AgeGroup,35+,Total,Total,105.8,346,121.1,0.316
+Fulton,2000-2002,AgeGroup,35+,Total,Total,175.986,599,194.38,0.547
+Fulton,2001-2003,AgeGroup,35+,Total,Total,154.576,534,172.04,0.488
+Fulton,2002-2004,AgeGroup,35+,Total,Total,147.548,516,164.9,0.471
+Fulton,2003-2005,AgeGroup,35+,Total,Total,137.964,490,155.2,0.447
+Fulton,2004-2006,AgeGroup,35+,Total,Total,127.253,455,142.91,0.415
+Fulton,2005-2007,AgeGroup,35+,Total,Total,112.924,403,125.62,0.368
+Fulton,2006-2008,AgeGroup,35+,Total,Total,117.508,420,130.29,0.383
+Fulton,2007-2009,AgeGroup,35+,Total,Total,128.897,465,143.82,0.424
+Fulton,2008-2010,AgeGroup,35+,Total,Total,135.593,494,152.46,0.451
+Fulton,2009-2011,AgeGroup,35+,Total,Total,135.694,500,154.36,0.457
+Fulton,2010-2012,AgeGroup,35+,Total,Total,129.452,479,148.12,0.437
+Fulton,2011-2013,AgeGroup,35+,Total,Total,119.737,452,140.26,0.412
+Fulton,2012-2014,AgeGroup,35+,Total,Total,105.649,399,124.14,0.364
+Fulton,2013-2015,AgeGroup,35+,Total,Total,103.307,397,123.67,0.363
+Fulton,2014-2016,AgeGroup,35+,Total,Total,111.345,423,131.83,0.386
+Fulton,2015-2017,AgeGroup,35+,Total,Total,116.039,437,135.84,0.399
+Fulton,2016-2018,AgeGroup,35+,Total,Total,117.599,438,135.89,0.4
+Genesee,2000-2002,AgeGroup,35+,Total,Total,153.893,538,163.4,0.491
+Genesee,2001-2003,AgeGroup,35+,Total,Total,141.619,499,150.61,0.456
+Genesee,2002-2004,AgeGroup,35+,Total,Total,142.464,507,151.94,0.463
+Genesee,2003-2005,AgeGroup,35+,Total,Total,134.806,485,144.23,0.443
+Genesee,2004-2006,AgeGroup,35+,Total,Total,121.451,446,131.57,0.407
+Genesee,2005-2007,AgeGroup,35+,Total,Total,105.256,394,115.35,0.36
+Genesee,2006-2008,AgeGroup,35+,Total,Total,102.779,393,114.41,0.359
+Genesee,2007-2009,AgeGroup,35+,Total,Total,101.31,393,113.87,0.359
+Genesee,2008-2010,AgeGroup,35+,Total,Total,102.691,400,115.56,0.365
+Genesee,2009-2011,AgeGroup,35+,Total,Total,100.603,394,113.79,0.36
+Genesee,2010-2012,AgeGroup,35+,Total,Total,105.738,417,120.55,0.38
+Genesee,2011-2013,AgeGroup,35+,Total,Total,106.517,430,124.68,0.392
+Genesee,2012-2014,AgeGroup,35+,Total,Total,109.173,441,128.21,0.402
+Genesee,2013-2015,AgeGroup,35+,Total,Total,104.913,422,123.08,0.385
+Genesee,2014-2016,AgeGroup,35+,Total,Total,100.124,400,116.97,0.365
+Genesee,2015-2017,AgeGroup,35+,Total,Total,103.747,413,121.07,0.377
+Genesee,2016-2018,AgeGroup,35+,Total,Total,109.204,441,129.63,0.402
+Greene,2000-2002,AgeGroup,35+,Total,Total,138.81,417,152.95,0.38
+Greene,2001-2003,AgeGroup,35+,Total,Total,138.185,423,153.13,0.386
+Greene,2002-2004,AgeGroup,35+,Total,Total,136.431,425,151.45,0.388
+Greene,2003-2005,AgeGroup,35+,Total,Total,122.79,389,136.56,0.355
+Greene,2004-2006,AgeGroup,35+,Total,Total,114.949,369,127.52,0.337
+Greene,2005-2007,AgeGroup,35+,Total,Total,102.971,334,113.89,0.305
+Greene,2006-2008,AgeGroup,35+,Total,Total,107.135,353,119.02,0.322
+Greene,2007-2009,AgeGroup,35+,Total,Total,107.593,358,119.76,0.327
+Greene,2008-2010,AgeGroup,35+,Total,Total,105.542,355,118.11,0.324
+Greene,2009-2011,AgeGroup,35+,Total,Total,95.795,322,106.9,0.294
+Greene,2010-2012,AgeGroup,35+,Total,Total,84.914,290,96.38,0.265
+Greene,2011-2013,AgeGroup,35+,Total,Total,84.799,294,97.9,0.268
+Greene,2012-2014,AgeGroup,35+,Total,Total,84.954,303,101.21,0.276
+Greene,2013-2015,AgeGroup,35+,Total,Total,84.073,305,102.15,0.279
+Greene,2014-2016,AgeGroup,35+,Total,Total,80.003,296,99.5,0.27
+Greene,2015-2017,AgeGroup,35+,Total,Total,82.258,307,103.39,0.28
+Greene,2016-2018,AgeGroup,35+,Total,Total,79.527,296,99.66,0.27
+Hamilton,2000-2002,AgeGroup,35+,Total,Total,116.35,48,137.67,0.044
+Hamilton,2001-2003,AgeGroup,35+,Total,Total,111.322,44,126.41,0.04
+Hamilton,2002-2004,AgeGroup,35+,Total,Total,100.793,40,114.68,0.036
+Hamilton,2003-2005,AgeGroup,35+,Total,Total,83.412,33,94.15,0.03
+Hamilton,2004-2006,AgeGroup,35+,Total,Total,86.571,33,94.29,0.03
+Hamilton,2005-2007,AgeGroup,35+,Total,Total,101.688,37,105.89,0.034
+Hamilton,2006-2008,AgeGroup,35+,Total,Total,116.775,45,129.14,0.041
+Hamilton,2007-2009,AgeGroup,35+,Total,Total,115.149,46,132.72,0.042
+Hamilton,2008-2010,AgeGroup,35+,Total,Total,102.924,43,124.53,0.039
+Hamilton,2009-2011,AgeGroup,35+,Total,Total,82.755,34,99.13,0.031
+Hamilton,2010-2012,AgeGroup,35+,Total,Total,72.685,29,84.78,0.026
+Hamilton,2011-2013,AgeGroup,35+,Total,Total,68.588,30,88.18,0.027
+Hamilton,2012-2014,AgeGroup,35+,Total,Total,70.072,30,88.52,0.027
+Hamilton,2013-2015,AgeGroup,35+,Total,Total,69.186,29,85.74,0.026
+Hamilton,2014-2016,AgeGroup,35+,Total,Total,76.216,29,86.42,0.026
+Hamilton,2015-2017,AgeGroup,35+,Total,Total,67.252,28,84.19,0.026
+Hamilton,2016-2018,AgeGroup,35+,Total,Total,66.808,30,91.21,0.027
+Herkimer,2000-2002,AgeGroup,35+,Total,Total,140.873,583,161.08,0.532
+Herkimer,2001-2003,AgeGroup,35+,Total,Total,134.142,557,153.44,0.509
+Herkimer,2002-2004,AgeGroup,35+,Total,Total,116.635,490,134.35,0.447
+Herkimer,2003-2005,AgeGroup,35+,Total,Total,101.223,432,117.82,0.394
+Herkimer,2004-2006,AgeGroup,35+,Total,Total,99.019,424,115.13,0.387
+Herkimer,2005-2007,AgeGroup,35+,Total,Total,93.501,404,109.23,0.369
+Herkimer,2006-2008,AgeGroup,35+,Total,Total,89.131,386,103.83,0.352
+Herkimer,2007-2009,AgeGroup,35+,Total,Total,83.543,362,96.82,0.33
+Herkimer,2008-2010,AgeGroup,35+,Total,Total,80.924,355,94.62,0.324
+Herkimer,2009-2011,AgeGroup,35+,Total,Total,81.694,363,96.63,0.332
+Herkimer,2010-2012,AgeGroup,35+,Total,Total,81.629,367,97.69,0.335
+Herkimer,2011-2013,AgeGroup,35+,Total,Total,83.225,374,99.72,0.341
+Herkimer,2012-2014,AgeGroup,35+,Total,Total,84.293,379,101.34,0.346
+Herkimer,2013-2015,AgeGroup,35+,Total,Total,83.789,372,99.89,0.34
+Herkimer,2014-2016,AgeGroup,35+,Total,Total,81.907,370,99.76,0.338
+Herkimer,2015-2017,AgeGroup,35+,Total,Total,75.492,349,94.35,0.318
+Herkimer,2016-2018,AgeGroup,35+,Total,Total,75.566,347,93.92,0.317
+Jefferson,2000-2002,AgeGroup,35+,Total,Total,142.712,730,140.33,0.666
+Jefferson,2001-2003,AgeGroup,35+,Total,Total,148.388,767,146.96,0.7
+Jefferson,2002-2004,AgeGroup,35+,Total,Total,143.187,748,142.72,0.682
+Jefferson,2003-2005,AgeGroup,35+,Total,Total,132.846,701,132.74,0.64
+Jefferson,2004-2006,AgeGroup,35+,Total,Total,126.162,676,126.72,0.617
+Jefferson,2005-2007,AgeGroup,35+,Total,Total,119.262,651,120.61,0.595
+Jefferson,2006-2008,AgeGroup,35+,Total,Total,115.79,643,118.48,0.587
+Jefferson,2007-2009,AgeGroup,35+,Total,Total,110.509,611,112.24,0.557
+Jefferson,2008-2010,AgeGroup,35+,Total,Total,115.062,635,116.67,0.579
+Jefferson,2009-2011,AgeGroup,35+,Total,Total,107.649,595,109.65,0.543
+Jefferson,2010-2012,AgeGroup,35+,Total,Total,109.022,613,113.39,0.559
+Jefferson,2011-2013,AgeGroup,35+,Total,Total,107.567,606,112.95,0.553
+Jefferson,2012-2014,AgeGroup,35+,Total,Total,104.034,592,110.88,0.54
+Jefferson,2013-2015,AgeGroup,35+,Total,Total,94.24,537,101.15,0.49
+Jefferson,2014-2016,AgeGroup,35+,Total,Total,87.429,509,96.33,0.464
+Jefferson,2015-2017,AgeGroup,35+,Total,Total,90.369,523,99.47,0.477
+Jefferson,2016-2018,AgeGroup,35+,Total,Total,92.116,541,103.36,0.494
+Kings,2000-2002,AgeGroup,35+,Total,Total,114.872,13446,114.57,12.268
+Kings,2001-2003,AgeGroup,35+,Total,Total,119.88,14159,119.87,12.931
+Kings,2002-2004,AgeGroup,35+,Total,Total,124.515,14801,124.84,13.505
+Kings,2003-2005,AgeGroup,35+,Total,Total,125.311,14968,125.98,13.657
+Kings,2004-2006,AgeGroup,35+,Total,Total,118.88,14242,119.78,12.995
+Kings,2005-2007,AgeGroup,35+,Total,Total,107.875,12999,109.18,11.871
+Kings,2006-2008,AgeGroup,35+,Total,Total,100.532,12169,101.93,11.103
+Kings,2007-2009,AgeGroup,35+,Total,Total,98.007,11985,99.76,10.935
+Kings,2008-2010,AgeGroup,35+,Total,Total,96.436,11930,98.47,10.885
+Kings,2009-2011,AgeGroup,35+,Total,Total,91.934,11562,94.38,10.559
+Kings,2010-2012,AgeGroup,35+,Total,Total,88.364,11317,91.2,10.326
+Kings,2011-2013,AgeGroup,35+,Total,Total,84.03,11000,87.47,10.036
+Kings,2012-2014,AgeGroup,35+,Total,Total,81.161,10835,85.11,9.886
+Kings,2013-2015,AgeGroup,35+,Total,Total,78.556,10668,82.9,9.742
+Kings,2014-2016,AgeGroup,35+,Total,Total,77.578,10686,82.32,9.75
+Kings,2015-2017,AgeGroup,35+,Total,Total,74.34,10354,79.3,9.447
+Kings,2016-2018,AgeGroup,35+,Total,Total,71.8,10106,77.21,9.221
+Lewis,2000-2002,AgeGroup,35+,Total,Total,121.471,179,124.7,0.163
+Lewis,2001-2003,AgeGroup,35+,Total,Total,129.587,195,134.9,0.178
+Lewis,2002-2004,AgeGroup,35+,Total,Total,123.97,189,129.91,0.172
+Lewis,2003-2005,AgeGroup,35+,Total,Total,104.061,162,110.47,0.148
+Lewis,2004-2006,AgeGroup,35+,Total,Total,97.146,153,103.53,0.14
+Lewis,2005-2007,AgeGroup,35+,Total,Total,97.916,157,105.34,0.143
+Lewis,2006-2008,AgeGroup,35+,Total,Total,90.245,147,97.93,0.134
+Lewis,2007-2009,AgeGroup,35+,Total,Total,94.758,157,103.99,0.143
+Lewis,2008-2010,AgeGroup,35+,Total,Total,94.715,155,102.31,0.141
+Lewis,2009-2011,AgeGroup,35+,Total,Total,101.525,167,109.92,0.153
+Lewis,2010-2012,AgeGroup,35+,Total,Total,95.987,159,104.46,0.145
+Lewis,2011-2013,AgeGroup,35+,Total,Total,100.686,173,113.39,0.158
+Lewis,2012-2014,AgeGroup,35+,Total,Total,99.009,172,112.33,0.157
+Lewis,2013-2015,AgeGroup,35+,Total,Total,88.968,156,101.76,0.142
+Lewis,2014-2016,AgeGroup,35+,Total,Total,78.96,143,93.21,0.13
+Lewis,2015-2017,AgeGroup,35+,Total,Total,71.465,130,84.8,0.119
+Lewis,2016-2018,AgeGroup,35+,Total,Total,78.178,139,90.59,0.127
+Livingston,2000-2002,AgeGroup,35+,Total,Total,167.739,526,158.92,0.48
+Livingston,2001-2003,AgeGroup,35+,Total,Total,149.62,480,143.37,0.438
+Livingston,2002-2004,AgeGroup,35+,Total,Total,132.065,435,128.37,0.397
+Livingston,2003-2005,AgeGroup,35+,Total,Total,119.001,403,117.43,0.368
+Livingston,2004-2006,AgeGroup,35+,Total,Total,106.106,369,106.19,0.337
+Livingston,2005-2007,AgeGroup,35+,Total,Total,107.523,381,108.42,0.348
+Livingston,2006-2008,AgeGroup,35+,Total,Total,91.252,332,93.45,0.303
+Livingston,2007-2009,AgeGroup,35+,Total,Total,90.247,334,93.28,0.305
+Livingston,2008-2010,AgeGroup,35+,Total,Total,82.486,314,87.39,0.286
+Livingston,2009-2011,AgeGroup,35+,Total,Total,82.204,318,88.67,0.29
+Livingston,2010-2012,AgeGroup,35+,Total,Total,78.916,310,86.68,0.283
+Livingston,2011-2013,AgeGroup,35+,Total,Total,78.385,312,87.41,0.285
+Livingston,2012-2014,AgeGroup,35+,Total,Total,75.455,306,85.71,0.279
+Livingston,2013-2015,AgeGroup,35+,Total,Total,74.662,311,87.07,0.284
+Livingston,2014-2016,AgeGroup,35+,Total,Total,71.032,297,83.14,0.271
+Livingston,2015-2017,AgeGroup,35+,Total,Total,73.331,306,85.71,0.279
+Livingston,2016-2018,AgeGroup,35+,Total,Total,72.251,306,85.74,0.279
+Madison,2000-2002,AgeGroup,35+,Total,Total,120.735,439,120.42,0.401
+Madison,2001-2003,AgeGroup,35+,Total,Total,115.523,430,116.23,0.393
+Madison,2002-2004,AgeGroup,35+,Total,Total,113.625,431,115.08,0.393
+Madison,2003-2005,AgeGroup,35+,Total,Total,103.728,398,105.08,0.363
+Madison,2004-2006,AgeGroup,35+,Total,Total,98.159,383,99.95,0.349
+Madison,2005-2007,AgeGroup,35+,Total,Total,87.479,349,89.87,0.319
+Madison,2006-2008,AgeGroup,35+,Total,Total,85.762,352,89.59,0.321
+Madison,2007-2009,AgeGroup,35+,Total,Total,79.898,334,84.27,0.305
+Madison,2008-2010,AgeGroup,35+,Total,Total,78.683,335,83.95,0.306
+Madison,2009-2011,AgeGroup,35+,Total,Total,72.741,314,78.26,0.287
+Madison,2010-2012,AgeGroup,35+,Total,Total,73.68,328,81.52,0.299
+Madison,2011-2013,AgeGroup,35+,Total,Total,71.656,322,79.88,0.294
+Madison,2012-2014,AgeGroup,35+,Total,Total,64.269,296,73.29,0.27
+Madison,2013-2015,AgeGroup,35+,Total,Total,62.142,290,71.66,0.265
+Madison,2014-2016,AgeGroup,35+,Total,Total,59.45,288,71.13,0.263
+Madison,2015-2017,AgeGroup,35+,Total,Total,64.372,310,76.55,0.283
+Madison,2016-2018,AgeGroup,35+,Total,Total,68.306,330,81.28,0.301
+Monroe,2000-2002,AgeGroup,35+,Total,Total,139.133,5618,145.46,5.126
+Monroe,2001-2003,AgeGroup,35+,Total,Total,127.73,5219,134.24,4.766
+Monroe,2002-2004,AgeGroup,35+,Total,Total,123.031,5069,129.6,4.625
+Monroe,2003-2005,AgeGroup,35+,Total,Total,114.92,4792,121.86,4.372
+Monroe,2004-2006,AgeGroup,35+,Total,Total,107.696,4545,114.94,4.147
+Monroe,2005-2007,AgeGroup,35+,Total,Total,99.387,4256,107.16,3.887
+Monroe,2006-2008,AgeGroup,35+,Total,Total,91.246,3956,99.24,3.609
+Monroe,2007-2009,AgeGroup,35+,Total,Total,88.362,3891,97.39,3.55
+Monroe,2008-2010,AgeGroup,35+,Total,Total,84.87,3786,94.58,3.454
+Monroe,2009-2011,AgeGroup,35+,Total,Total,81.809,3692,92.08,3.372
+Monroe,2010-2012,AgeGroup,35+,Total,Total,78.711,3586,89.27,3.272
+Monroe,2011-2013,AgeGroup,35+,Total,Total,75.907,3481,86.48,3.176
+Monroe,2012-2014,AgeGroup,35+,Total,Total,74.498,3440,85.28,3.139
+Monroe,2013-2015,AgeGroup,35+,Total,Total,71.304,3305,81.74,3.018
+Monroe,2014-2016,AgeGroup,35+,Total,Total,72.775,3403,83.97,3.105
+Monroe,2015-2017,AgeGroup,35+,Total,Total,73.163,3448,84.84,3.146
+Monroe,2016-2018,AgeGroup,35+,Total,Total,72.687,3478,85.32,3.173
+Montgomery,2000-2002,AgeGroup,35+,Total,Total,172.983,609,217.1,0.556
+Montgomery,2001-2003,AgeGroup,35+,Total,Total,171.689,600,214.13,0.548
+Montgomery,2002-2004,AgeGroup,35+,Total,Total,180.123,614,219.25,0.56
+Montgomery,2003-2005,AgeGroup,35+,Total,Total,174.209,593,211.27,0.541
+Montgomery,2004-2006,AgeGroup,35+,Total,Total,169.474,584,207.47,0.533
+Montgomery,2005-2007,AgeGroup,35+,Total,Total,154.546,545,192.68,0.498
+Montgomery,2006-2008,AgeGroup,35+,Total,Total,145.146,514,180.94,0.469
+Montgomery,2007-2009,AgeGroup,35+,Total,Total,134.027,472,165.89,0.431
+Montgomery,2008-2010,AgeGroup,35+,Total,Total,132.631,463,162.43,0.422
+Montgomery,2009-2011,AgeGroup,35+,Total,Total,126.92,434,152.35,0.396
+Montgomery,2010-2012,AgeGroup,35+,Total,Total,120.317,418,146.94,0.381
+Montgomery,2011-2013,AgeGroup,35+,Total,Total,115.603,396,139.8,0.361
+Montgomery,2012-2014,AgeGroup,35+,Total,Total,121.665,419,148.3,0.382
+Montgomery,2013-2015,AgeGroup,35+,Total,Total,131.742,459,162.92,0.419
+Montgomery,2014-2016,AgeGroup,35+,Total,Total,147.204,521,185.57,0.475
+Montgomery,2015-2017,AgeGroup,35+,Total,Total,141.413,505,180.43,0.461
+Montgomery,2016-2018,AgeGroup,35+,Total,Total,154.243,535,191.15,0.488
+Nassau,2000-2002,AgeGroup,35+,Total,Total,117.334,9317,123.69,8.501
+Nassau,2001-2003,AgeGroup,35+,Total,Total,116.111,9348,123.39,8.537
+Nassau,2002-2004,AgeGroup,35+,Total,Total,115.512,9415,123.78,8.59
+Nassau,2003-2005,AgeGroup,35+,Total,Total,110.543,9113,119.57,8.315
+Nassau,2004-2006,AgeGroup,35+,Total,Total,100.774,8372,109.83,7.639
+Nassau,2005-2007,AgeGroup,35+,Total,Total,93.282,7837,102.87,7.157
+Nassau,2006-2008,AgeGroup,35+,Total,Total,88.201,7498,98.38,6.841
+Nassau,2007-2009,AgeGroup,35+,Total,Total,84.742,7333,95.92,6.691
+Nassau,2008-2010,AgeGroup,35+,Total,Total,79.074,6953,90.48,6.344
+Nassau,2009-2011,AgeGroup,35+,Total,Total,75.083,6683,86.54,6.103
+Nassau,2010-2012,AgeGroup,35+,Total,Total,75.236,6777,87.4,6.183
+Nassau,2011-2013,AgeGroup,35+,Total,Total,75.828,6888,88.61,6.285
+Nassau,2012-2014,AgeGroup,35+,Total,Total,74.826,6865,88.1,6.264
+Nassau,2013-2015,AgeGroup,35+,Total,Total,72.075,6651,85.14,6.074
+Nassau,2014-2016,AgeGroup,35+,Total,Total,71.165,6619,84.52,6.039
+Nassau,2015-2017,AgeGroup,35+,Total,Total,74.217,6957,88.62,6.348
+Nassau,2016-2018,AgeGroup,35+,Total,Total,75.646,7147,90.84,6.521
+New York County,2000-2002,AgeGroup,35+,Total,Total,75.45,5973,74.55,5.45
+New York County,2001-2003,AgeGroup,35+,Total,Total,75.076,6028,74.65,5.505
+New York County,2002-2004,AgeGroup,35+,Total,Total,75.202,6125,75.36,5.589
+New York County,2003-2005,AgeGroup,35+,Total,Total,73.614,6076,74.22,5.544
+New York County,2004-2006,AgeGroup,35+,Total,Total,72.601,6069,73.66,5.537
+New York County,2005-2007,AgeGroup,35+,Total,Total,68.529,5792,70,5.289
+New York County,2006-2008,AgeGroup,35+,Total,Total,66.566,5685,68.57,5.187
+New York County,2007-2009,AgeGroup,35+,Total,Total,63.492,5482,66.12,5.002
+New York County,2008-2010,AgeGroup,35+,Total,Total,61.916,5419,65.28,4.944
+New York County,2009-2011,AgeGroup,35+,Total,Total,58.258,5181,62.02,4.732
+New York County,2010-2012,AgeGroup,35+,Total,Total,57.294,5187,61.38,4.733
+New York County,2011-2013,AgeGroup,35+,Total,Total,55.289,5120,59.86,4.672
+New York County,2012-2014,AgeGroup,35+,Total,Total,55.215,5225,60.48,4.767
+New York County,2013-2015,AgeGroup,35+,Total,Total,52.343,5054,58.03,4.616
+New York County,2014-2016,AgeGroup,35+,Total,Total,50.455,4949,56.41,4.516
+New York County,2015-2017,AgeGroup,35+,Total,Total,48.5,4829,54.76,4.406
+New York County,2016-2018,AgeGroup,35+,Total,Total,50.442,5077,57.41,4.632
+Niagara,2000-2002,AgeGroup,35+,Total,Total,197.967,2606,214.81,2.378
+Niagara,2001-2003,AgeGroup,35+,Total,Total,190.255,2527,207.4,2.308
+Niagara,2002-2004,AgeGroup,35+,Total,Total,188.205,2517,205.55,2.297
+Niagara,2003-2005,AgeGroup,35+,Total,Total,169.003,2281,185.35,2.081
+Niagara,2004-2006,AgeGroup,35+,Total,Total,158.844,2170,175.43,1.98
+Niagara,2005-2007,AgeGroup,35+,Total,Total,140.92,1947,156.73,1.778
+Niagara,2006-2008,AgeGroup,35+,Total,Total,138.993,1943,155.88,1.773
+Niagara,2007-2009,AgeGroup,35+,Total,Total,131.105,1851,148.13,1.689
+Niagara,2008-2010,AgeGroup,35+,Total,Total,128.735,1846,147.32,1.684
+Niagara,2009-2011,AgeGroup,35+,Total,Total,129.822,1891,150.69,1.727
+Niagara,2010-2012,AgeGroup,35+,Total,Total,131.787,1938,154.49,1.768
+Niagara,2011-2013,AgeGroup,35+,Total,Total,128.643,1898,151.59,1.732
+Niagara,2012-2014,AgeGroup,35+,Total,Total,122.168,1814,145.06,1.655
+Niagara,2013-2015,AgeGroup,35+,Total,Total,121.939,1814,145.18,1.657
+Niagara,2014-2016,AgeGroup,35+,Total,Total,126.854,1872,149.97,1.708
+Niagara,2015-2017,AgeGroup,35+,Total,Total,124.718,1840,147.58,1.679
+Niagara,2016-2018,AgeGroup,35+,Total,Total,121.944,1805,144.86,1.647
+Oneida,2000-2002,AgeGroup,35+,Total,Total,139.908,2075,159.88,1.893
+Oneida,2001-2003,AgeGroup,35+,Total,Total,138.181,2057,158.02,1.879
+Oneida,2002-2004,AgeGroup,35+,Total,Total,128.213,1918,146.76,1.75
+Oneida,2003-2005,AgeGroup,35+,Total,Total,121.821,1826,139.07,1.666
+Oneida,2004-2006,AgeGroup,35+,Total,Total,105.99,1604,121.56,1.464
+Oneida,2005-2007,AgeGroup,35+,Total,Total,100.346,1533,115.67,1.4
+Oneida,2006-2008,AgeGroup,35+,Total,Total,96.342,1481,111.42,1.351
+Oneida,2007-2009,AgeGroup,35+,Total,Total,91.721,1428,107.3,1.303
+Oneida,2008-2010,AgeGroup,35+,Total,Total,86.146,1343,100.87,1.225
+Oneida,2009-2011,AgeGroup,35+,Total,Total,77.738,1217,91.5,1.111
+Oneida,2010-2012,AgeGroup,35+,Total,Total,78.542,1224,92.2,1.117
+Oneida,2011-2013,AgeGroup,35+,Total,Total,79.263,1234,93.28,1.126
+Oneida,2012-2014,AgeGroup,35+,Total,Total,80.585,1257,95.31,1.147
+Oneida,2013-2015,AgeGroup,35+,Total,Total,79.376,1229,93.52,1.122
+Oneida,2014-2016,AgeGroup,35+,Total,Total,86.982,1353,103.33,1.234
+Oneida,2015-2017,AgeGroup,35+,Total,Total,89.989,1409,107.86,1.286
+Oneida,2016-2018,AgeGroup,35+,Total,Total,91.921,1465,112.23,1.337
+Onondaga,2000-2002,AgeGroup,35+,Total,Total,117.941,2961,123.45,2.702
+Onondaga,2001-2003,AgeGroup,35+,Total,Total,115.297,2931,121.31,2.677
+Onondaga,2002-2004,AgeGroup,35+,Total,Total,110.644,2850,117.08,2.6
+Onondaga,2003-2005,AgeGroup,35+,Total,Total,104.022,2709,110.58,2.472
+Onondaga,2004-2006,AgeGroup,35+,Total,Total,96.102,2536,102.89,2.314
+Onondaga,2005-2007,AgeGroup,35+,Total,Total,88.243,2356,95.17,2.152
+Onondaga,2006-2008,AgeGroup,35+,Total,Total,83.326,2262,90.98,2.064
+Onondaga,2007-2009,AgeGroup,35+,Total,Total,78.897,2173,87.07,1.983
+Onondaga,2008-2010,AgeGroup,35+,Total,Total,77.881,2177,86.83,1.986
+Onondaga,2009-2011,AgeGroup,35+,Total,Total,78.048,2201,87.45,2.01
+Onondaga,2010-2012,AgeGroup,35+,Total,Total,79.679,2271,89.98,2.072
+Onondaga,2011-2013,AgeGroup,35+,Total,Total,79.368,2287,90.43,2.087
+Onondaga,2012-2014,AgeGroup,35+,Total,Total,73.939,2165,85.46,1.975
+Onondaga,2013-2015,AgeGroup,35+,Total,Total,67.57,1987,78.28,1.815
+Onondaga,2014-2016,AgeGroup,35+,Total,Total,66.807,1965,77.36,1.793
+Onondaga,2015-2017,AgeGroup,35+,Total,Total,67.926,2004,78.89,1.828
+Onondaga,2016-2018,AgeGroup,35+,Total,Total,69.687,2071,81.48,1.89
+Ontario,2000-2002,AgeGroup,35+,Total,Total,143.964,812,145.73,0.741
+Ontario,2001-2003,AgeGroup,35+,Total,Total,143.18,828,146.2,0.756
+Ontario,2002-2004,AgeGroup,35+,Total,Total,130.53,775,134.7,0.707
+Ontario,2003-2005,AgeGroup,35+,Total,Total,119.237,728,124.44,0.664
+Ontario,2004-2006,AgeGroup,35+,Total,Total,109.719,684,115.13,0.624
+Ontario,2005-2007,AgeGroup,35+,Total,Total,106.307,684,113.44,0.625
+Ontario,2006-2008,AgeGroup,35+,Total,Total,99.489,649,106.15,0.592
+Ontario,2007-2009,AgeGroup,35+,Total,Total,92.046,617,99.64,0.563
+Ontario,2008-2010,AgeGroup,35+,Total,Total,84.09,576,91.85,0.526
+Ontario,2009-2011,AgeGroup,35+,Total,Total,84.198,597,94.41,0.545
+Ontario,2010-2012,AgeGroup,35+,Total,Total,82.864,593,93.24,0.541
+Ontario,2011-2013,AgeGroup,35+,Total,Total,87.302,634,99.36,0.578
+Ontario,2012-2014,AgeGroup,35+,Total,Total,83.232,615,95.98,0.561
+Ontario,2013-2015,AgeGroup,35+,Total,Total,79.036,602,93.53,0.55
+Ontario,2014-2016,AgeGroup,35+,Total,Total,73.639,572,88.57,0.522
+Ontario,2015-2017,AgeGroup,35+,Total,Total,71.34,558,86.07,0.509
+Ontario,2016-2018,AgeGroup,35+,Total,Total,72.582,576,88.45,0.526
+Orange,2000-2002,AgeGroup,35+,Total,Total,148.978,2350,135.62,2.144
+Orange,2001-2003,AgeGroup,35+,Total,Total,147.992,2399,135.83,2.191
+Orange,2002-2004,AgeGroup,35+,Total,Total,141.941,2332,129.67,2.128
+Orange,2003-2005,AgeGroup,35+,Total,Total,138.168,2303,125.99,2.101
+Orange,2004-2006,AgeGroup,35+,Total,Total,122.919,2086,112.54,1.903
+Orange,2005-2007,AgeGroup,35+,Total,Total,117.758,2051,109.31,1.873
+Orange,2006-2008,AgeGroup,35+,Total,Total,116.3,2070,109.21,1.889
+Orange,2007-2009,AgeGroup,35+,Total,Total,116.499,2102,110,1.918
+Orange,2008-2010,AgeGroup,35+,Total,Total,115.756,2128,110.56,1.942
+Orange,2009-2011,AgeGroup,35+,Total,Total,109.78,2057,106.3,1.879
+Orange,2010-2012,AgeGroup,35+,Total,Total,108.179,2073,106.74,1.891
+Orange,2011-2013,AgeGroup,35+,Total,Total,106.251,2064,106.07,1.883
+Orange,2012-2014,AgeGroup,35+,Total,Total,107.392,2128,109.08,1.942
+Orange,2013-2015,AgeGroup,35+,Total,Total,108.931,2207,112.73,2.016
+Orange,2014-2016,AgeGroup,35+,Total,Total,108.855,2254,114.62,2.057
+Orange,2015-2017,AgeGroup,35+,Total,Total,101.524,2155,109.09,1.966
+Orange,2016-2018,AgeGroup,35+,Total,Total,92.168,1994,100.43,1.819
+Orleans,2000-2002,AgeGroup,35+,Total,Total,190.195,433,186.57,0.395
+Orleans,2001-2003,AgeGroup,35+,Total,Total,176.625,411,175.77,0.375
+Orleans,2002-2004,AgeGroup,35+,Total,Total,170.535,404,171.19,0.369
+Orleans,2003-2005,AgeGroup,35+,Total,Total,151.546,365,153.26,0.333
+Orleans,2004-2006,AgeGroup,35+,Total,Total,142.136,346,143.75,0.316
+Orleans,2005-2007,AgeGroup,35+,Total,Total,132.928,332,136.75,0.303
+Orleans,2006-2008,AgeGroup,35+,Total,Total,143.395,365,149.3,0.333
+Orleans,2007-2009,AgeGroup,35+,Total,Total,144.453,371,151.15,0.339
+Orleans,2008-2010,AgeGroup,35+,Total,Total,145.397,377,153.37,0.344
+Orleans,2009-2011,AgeGroup,35+,Total,Total,126.946,331,134.7,0.302
+Orleans,2010-2012,AgeGroup,35+,Total,Total,139.199,375,152.89,0.342
+Orleans,2011-2013,AgeGroup,35+,Total,Total,141.156,382,155.87,0.349
+Orleans,2012-2014,AgeGroup,35+,Total,Total,158.132,432,176.86,0.394
+Orleans,2013-2015,AgeGroup,35+,Total,Total,144.305,395,162.52,0.361
+Orleans,2014-2016,AgeGroup,35+,Total,Total,139.141,389,160.95,0.355
+Orleans,2015-2017,AgeGroup,35+,Total,Total,122.163,347,144.17,0.317
+Orleans,2016-2018,AgeGroup,35+,Total,Total,105.328,304,126.47,0.277
+Oswego,2000-2002,AgeGroup,35+,Total,Total,167.782,996,160.78,0.909
+Oswego,2001-2003,AgeGroup,35+,Total,Total,156.52,946,151.06,0.864
+Oswego,2002-2004,AgeGroup,35+,Total,Total,153.158,940,148.5,0.858
+Oswego,2003-2005,AgeGroup,35+,Total,Total,153.076,949,148.58,0.866
+Oswego,2004-2006,AgeGroup,35+,Total,Total,151.542,949,147.43,0.866
+Oswego,2005-2007,AgeGroup,35+,Total,Total,144.432,915,141.35,0.836
+Oswego,2006-2008,AgeGroup,35+,Total,Total,141.271,902,138.67,0.823
+Oswego,2007-2009,AgeGroup,35+,Total,Total,129.341,841,128.92,0.767
+Oswego,2008-2010,AgeGroup,35+,Total,Total,127.595,834,127.4,0.761
+Oswego,2009-2011,AgeGroup,35+,Total,Total,130.624,869,132.4,0.794
+Oswego,2010-2012,AgeGroup,35+,Total,Total,140.599,948,143.98,0.865
+Oswego,2011-2013,AgeGroup,35+,Total,Total,143.819,988,149.81,0.901
+Oswego,2012-2014,AgeGroup,35+,Total,Total,127.948,899,136.09,0.82
+Oswego,2013-2015,AgeGroup,35+,Total,Total,112.981,799,120.89,0.73
+Oswego,2014-2016,AgeGroup,35+,Total,Total,107.75,768,116.24,0.701
+Oswego,2015-2017,AgeGroup,35+,Total,Total,112.834,819,124.08,0.747
+Oswego,2016-2018,AgeGroup,35+,Total,Total,120.366,895,135.71,0.817
+Otsego,2000-2002,AgeGroup,35+,Total,Total,165.88,617,187.74,0.563
+Otsego,2001-2003,AgeGroup,35+,Total,Total,160.144,601,181.46,0.549
+Otsego,2002-2004,AgeGroup,35+,Total,Total,154.247,587,175.63,0.536
+Otsego,2003-2005,AgeGroup,35+,Total,Total,141.87,544,161.09,0.496
+Otsego,2004-2006,AgeGroup,35+,Total,Total,127.495,495,145.16,0.452
+Otsego,2005-2007,AgeGroup,35+,Total,Total,115.776,449,130.65,0.41
+Otsego,2006-2008,AgeGroup,35+,Total,Total,104.771,418,120.97,0.381
+Otsego,2007-2009,AgeGroup,35+,Total,Total,102.429,419,120.82,0.382
+Otsego,2008-2010,AgeGroup,35+,Total,Total,105.156,436,125.46,0.398
+Otsego,2009-2011,AgeGroup,35+,Total,Total,103.782,435,125.2,0.397
+Otsego,2010-2012,AgeGroup,35+,Total,Total,104.964,446,128.6,0.407
+Otsego,2011-2013,AgeGroup,35+,Total,Total,90.255,394,113.94,0.359
+Otsego,2012-2014,AgeGroup,35+,Total,Total,90.325,399,115.78,0.364
+Otsego,2013-2015,AgeGroup,35+,Total,Total,89.704,399,116.12,0.364
+Otsego,2014-2016,AgeGroup,35+,Total,Total,106.907,472,137.7,0.431
+Otsego,2015-2017,AgeGroup,35+,Total,Total,110.963,494,144.22,0.451
+Otsego,2016-2018,AgeGroup,35+,Total,Total,111.625,498,145.43,0.454
+Putnam,2000-2002,AgeGroup,35+,Total,Total,123.433,555,103.15,0.506
+Putnam,2001-2003,AgeGroup,35+,Total,Total,118.992,549,100.13,0.501
+Putnam,2002-2004,AgeGroup,35+,Total,Total,120.786,552,99.16,0.504
+Putnam,2003-2005,AgeGroup,35+,Total,Total,109.084,505,89.57,0.461
+Putnam,2004-2006,AgeGroup,35+,Total,Total,100.666,474,83.22,0.432
+Putnam,2005-2007,AgeGroup,35+,Total,Total,79.763,395,68.71,0.361
+Putnam,2006-2008,AgeGroup,35+,Total,Total,74.587,386,66.57,0.352
+Putnam,2007-2009,AgeGroup,35+,Total,Total,74.126,391,66.84,0.357
+Putnam,2008-2010,AgeGroup,35+,Total,Total,78.438,430,72.96,0.392
+Putnam,2009-2011,AgeGroup,35+,Total,Total,73.724,408,68.84,0.373
+Putnam,2010-2012,AgeGroup,35+,Total,Total,69.49,403,67.78,0.368
+Putnam,2011-2013,AgeGroup,35+,Total,Total,71.679,420,70.46,0.383
+Putnam,2012-2014,AgeGroup,35+,Total,Total,74.026,445,74.54,0.406
+Putnam,2013-2015,AgeGroup,35+,Total,Total,71.923,444,74.3,0.405
+Putnam,2014-2016,AgeGroup,35+,Total,Total,64.295,414,69.28,0.378
+Putnam,2015-2017,AgeGroup,35+,Total,Total,68.52,453,75.72,0.413
+Putnam,2016-2018,AgeGroup,35+,Total,Total,74.544,496,82.79,0.453
+Queens,2000-2002,AgeGroup,35+,Total,Total,115.986,13412,117.36,12.237
+Queens,2001-2003,AgeGroup,35+,Total,Total,113.15,13197,114.73,12.052
+Queens,2002-2004,AgeGroup,35+,Total,Total,108.219,12697,109.99,11.585
+Queens,2003-2005,AgeGroup,35+,Total,Total,101.514,11970,103.45,10.922
+Queens,2004-2006,AgeGroup,35+,Total,Total,96.57,11415,98.58,10.415
+Queens,2005-2007,AgeGroup,35+,Total,Total,87.782,10423,89.89,9.519
+Queens,2006-2008,AgeGroup,35+,Total,Total,84.304,10052,86.45,9.172
+Queens,2007-2009,AgeGroup,35+,Total,Total,79.7,9607,82.11,8.766
+Queens,2008-2010,AgeGroup,35+,Total,Total,80.044,9776,82.81,8.92
+Queens,2009-2011,AgeGroup,35+,Total,Total,77.076,9590,80.3,8.758
+Queens,2010-2012,AgeGroup,35+,Total,Total,74.249,9419,77.88,8.594
+Queens,2011-2013,AgeGroup,35+,Total,Total,70.819,9166,74.8,8.363
+Queens,2012-2014,AgeGroup,35+,Total,Total,68.822,9094,73.28,8.297
+Queens,2013-2015,AgeGroup,35+,Total,Total,67.435,9077,72.29,8.289
+Queens,2014-2016,AgeGroup,35+,Total,Total,68.138,9378,73.95,8.557
+Queens,2015-2017,AgeGroup,35+,Total,Total,68.2,9530,74.65,8.695
+Queens,2016-2018,AgeGroup,35+,Total,Total,67.318,9546,74.57,8.71
+Rensselaer,2000-2002,AgeGroup,35+,Total,Total,118.19,983,121.09,0.897
+Rensselaer,2001-2003,AgeGroup,35+,Total,Total,113.023,948,115.85,0.866
+Rensselaer,2002-2004,AgeGroup,35+,Total,Total,111.242,947,114.54,0.864
+Rensselaer,2003-2005,AgeGroup,35+,Total,Total,106.565,916,109.53,0.836
+Rensselaer,2004-2006,AgeGroup,35+,Total,Total,101.322,886,104.58,0.808
+Rensselaer,2005-2007,AgeGroup,35+,Total,Total,93.33,833,97.22,0.761
+Rensselaer,2006-2008,AgeGroup,35+,Total,Total,88.258,803,92.75,0.733
+Rensselaer,2007-2009,AgeGroup,35+,Total,Total,83.405,766,87.89,0.699
+Rensselaer,2008-2010,AgeGroup,35+,Total,Total,79.583,738,84.39,0.673
+Rensselaer,2009-2011,AgeGroup,35+,Total,Total,75.592,709,80.97,0.647
+Rensselaer,2010-2012,AgeGroup,35+,Total,Total,77.576,745,84.91,0.68
+Rensselaer,2011-2013,AgeGroup,35+,Total,Total,78.909,764,86.8,0.697
+Rensselaer,2012-2014,AgeGroup,35+,Total,Total,77.016,757,85.65,0.691
+Rensselaer,2013-2015,AgeGroup,35+,Total,Total,76.793,758,85.49,0.692
+Rensselaer,2014-2016,AgeGroup,35+,Total,Total,83.982,838,94.23,0.765
+Rensselaer,2015-2017,AgeGroup,35+,Total,Total,87.426,880,98.72,0.803
+Rensselaer,2016-2018,AgeGroup,35+,Total,Total,81.591,835,93.42,0.762
+Richmond,2000-2002,AgeGroup,35+,Total,Total,154.111,3442,146.89,3.141
+Richmond,2001-2003,AgeGroup,35+,Total,Total,145.844,3319,139.38,3.031
+Richmond,2002-2004,AgeGroup,35+,Total,Total,135.751,3137,130.07,2.862
+Richmond,2003-2005,AgeGroup,35+,Total,Total,131.061,3073,126.18,2.804
+Richmond,2004-2006,AgeGroup,35+,Total,Total,124.153,2960,120.54,2.701
+Richmond,2005-2007,AgeGroup,35+,Total,Total,115.667,2814,113.7,2.57
+Richmond,2006-2008,AgeGroup,35+,Total,Total,108.898,2691,107.81,2.455
+Richmond,2007-2009,AgeGroup,35+,Total,Total,101.865,2558,101.61,2.334
+Richmond,2008-2010,AgeGroup,35+,Total,Total,97.944,2508,98.74,2.288
+Richmond,2009-2011,AgeGroup,35+,Total,Total,91.458,2392,93.42,2.184
+Richmond,2010-2012,AgeGroup,35+,Total,Total,84.046,2243,87,2.047
+Richmond,2011-2013,AgeGroup,35+,Total,Total,79.166,2159,83.18,1.97
+Richmond,2012-2014,AgeGroup,35+,Total,Total,76.824,2148,82.27,1.96
+Richmond,2013-2015,AgeGroup,35+,Total,Total,78.081,2230,84.88,2.037
+Richmond,2014-2016,AgeGroup,35+,Total,Total,81.393,2370,89.72,2.162
+Richmond,2015-2017,AgeGroup,35+,Total,Total,82.109,2417,91.01,2.205
+Richmond,2016-2018,AgeGroup,35+,Total,Total,80.445,2405,90.17,2.194
+Rockland,2000-2002,AgeGroup,35+,Total,Total,96.411,1401,92.41,1.278
+Rockland,2001-2003,AgeGroup,35+,Total,Total,88.07,1307,85.2,1.194
+Rockland,2002-2004,AgeGroup,35+,Total,Total,85.345,1290,83.31,1.177
+Rockland,2003-2005,AgeGroup,35+,Total,Total,82.496,1267,81.27,1.156
+Rockland,2004-2006,AgeGroup,35+,Total,Total,80.907,1272,81.15,1.161
+Rockland,2005-2007,AgeGroup,35+,Total,Total,78.743,1264,80.28,1.154
+Rockland,2006-2008,AgeGroup,35+,Total,Total,80.014,1323,83.57,1.207
+Rockland,2007-2009,AgeGroup,35+,Total,Total,76.624,1296,81.32,1.182
+Rockland,2008-2010,AgeGroup,35+,Total,Total,76.021,1312,81.66,1.197
+Rockland,2009-2011,AgeGroup,35+,Total,Total,72.923,1280,79.07,1.169
+Rockland,2010-2012,AgeGroup,35+,Total,Total,74.912,1343,82.38,1.225
+Rockland,2011-2013,AgeGroup,35+,Total,Total,74.106,1366,83.3,1.246
+Rockland,2012-2014,AgeGroup,35+,Total,Total,74.47,1399,84.84,1.276
+Rockland,2013-2015,AgeGroup,35+,Total,Total,73.167,1409,85.02,1.287
+Rockland,2014-2016,AgeGroup,35+,Total,Total,70.348,1378,82.91,1.257
+Rockland,2015-2017,AgeGroup,35+,Total,Total,65.821,1308,78.61,1.193
+Rockland,2016-2018,AgeGroup,35+,Total,Total,62.076,1238,74.46,1.13
+St. Lawrence,2000-2002,AgeGroup,35+,Total,Total,155.956,914,160.47,0.834
+St. Lawrence,2001-2003,AgeGroup,35+,Total,Total,152.783,905,158.26,0.826
+St. Lawrence,2002-2004,AgeGroup,35+,Total,Total,144.064,864,150.48,0.788
+St. Lawrence,2003-2005,AgeGroup,35+,Total,Total,132.257,804,139.31,0.734
+St. Lawrence,2004-2006,AgeGroup,35+,Total,Total,120.58,739,127.29,0.674
+St. Lawrence,2005-2007,AgeGroup,35+,Total,Total,109.721,678,116.17,0.619
+St. Lawrence,2006-2008,AgeGroup,35+,Total,Total,105.932,660,112.64,0.602
+St. Lawrence,2007-2009,AgeGroup,35+,Total,Total,101.669,642,109.28,0.586
+St. Lawrence,2008-2010,AgeGroup,35+,Total,Total,101.374,649,110.35,0.592
+St. Lawrence,2009-2011,AgeGroup,35+,Total,Total,93.422,605,102.8,0.553
+St. Lawrence,2010-2012,AgeGroup,35+,Total,Total,101.793,656,111.4,0.599
+St. Lawrence,2011-2013,AgeGroup,35+,Total,Total,102.312,666,112.93,0.608
+St. Lawrence,2012-2014,AgeGroup,35+,Total,Total,108.712,718,121.62,0.655
+St. Lawrence,2013-2015,AgeGroup,35+,Total,Total,100.354,683,115.59,0.624
+St. Lawrence,2014-2016,AgeGroup,35+,Total,Total,107.877,741,125.44,0.676
+St. Lawrence,2015-2017,AgeGroup,35+,Total,Total,118.918,827,140.02,0.755
+St. Lawrence,2016-2018,AgeGroup,35+,Total,Total,128.196,900,152.41,0.821
+Saratoga,2000-2002,AgeGroup,35+,Total,Total,120.616,1237,112.43,1.129
+Saratoga,2001-2003,AgeGroup,35+,Total,Total,113.605,1208,107.49,1.103
+Saratoga,2002-2004,AgeGroup,35+,Total,Total,109.935,1200,104.54,1.095
+Saratoga,2003-2005,AgeGroup,35+,Total,Total,107.078,1199,102.36,1.094
+Saratoga,2004-2006,AgeGroup,35+,Total,Total,103.285,1183,99.1,1.079
+Saratoga,2005-2007,AgeGroup,35+,Total,Total,97.219,1143,94.15,1.044
+Saratoga,2006-2008,AgeGroup,35+,Total,Total,86.726,1057,85.68,0.964
+Saratoga,2007-2009,AgeGroup,35+,Total,Total,82.421,1035,82.77,0.944
+Saratoga,2008-2010,AgeGroup,35+,Total,Total,79.503,1025,80.98,0.935
+Saratoga,2009-2011,AgeGroup,35+,Total,Total,75.159,983,76.93,0.898
+Saratoga,2010-2012,AgeGroup,35+,Total,Total,70.946,949,73.66,0.866
+Saratoga,2011-2013,AgeGroup,35+,Total,Total,66.028,908,69.91,0.828
+Saratoga,2012-2014,AgeGroup,35+,Total,Total,66.729,939,71.72,0.857
+Saratoga,2013-2015,AgeGroup,35+,Total,Total,65.996,957,72.44,0.874
+Saratoga,2014-2016,AgeGroup,35+,Total,Total,68.14,1009,75.76,0.921
+Saratoga,2015-2017,AgeGroup,35+,Total,Total,69.166,1052,78.24,0.96
+Saratoga,2016-2018,AgeGroup,35+,Total,Total,70.141,1098,80.88,1.002
+Schenectady,2000-2002,AgeGroup,35+,Total,Total,154.262,1449,176.28,1.322
+Schenectady,2001-2003,AgeGroup,35+,Total,Total,152.45,1432,173.2,1.308
+Schenectady,2002-2004,AgeGroup,35+,Total,Total,147.007,1396,167.76,1.274
+Schenectady,2003-2005,AgeGroup,35+,Total,Total,141.344,1359,162.21,1.24
+Schenectady,2004-2006,AgeGroup,35+,Total,Total,131.232,1280,151.57,1.168
+Schenectady,2005-2007,AgeGroup,35+,Total,Total,126.572,1230,144.63,1.123
+Schenectady,2006-2008,AgeGroup,35+,Total,Total,115.744,1136,132.71,1.036
+Schenectady,2007-2009,AgeGroup,35+,Total,Total,109.698,1086,126.39,0.991
+Schenectady,2008-2010,AgeGroup,35+,Total,Total,103.835,1046,121.31,0.954
+Schenectady,2009-2011,AgeGroup,35+,Total,Total,107,1076,124.67,0.983
+Schenectady,2010-2012,AgeGroup,35+,Total,Total,107.217,1073,124.19,0.979
+Schenectady,2011-2013,AgeGroup,35+,Total,Total,108.426,1081,125.12,0.986
+Schenectady,2012-2014,AgeGroup,35+,Total,Total,100.755,1003,115.97,0.915
+Schenectady,2013-2015,AgeGroup,35+,Total,Total,95.946,957,110.58,0.874
+Schenectady,2014-2016,AgeGroup,35+,Total,Total,95.7,959,110.69,0.875
+Schenectady,2015-2017,AgeGroup,35+,Total,Total,95.131,955,110.04,0.871
+Schenectady,2016-2018,AgeGroup,35+,Total,Total,94.286,952,109.32,0.869
+Schoharie,2000-2002,AgeGroup,35+,Total,Total,162.768,306,175.78,0.279
+Schoharie,2001-2003,AgeGroup,35+,Total,Total,172.66,328,185.95,0.3
+Schoharie,2002-2004,AgeGroup,35+,Total,Total,164.495,317,177.09,0.289
+Schoharie,2003-2005,AgeGroup,35+,Total,Total,134.798,263,144.72,0.24
+Schoharie,2004-2006,AgeGroup,35+,Total,Total,119.504,237,128.54,0.216
+Schoharie,2005-2007,AgeGroup,35+,Total,Total,109.737,219,117.24,0.2
+Schoharie,2006-2008,AgeGroup,35+,Total,Total,105.401,211,111.9,0.193
+Schoharie,2007-2009,AgeGroup,35+,Total,Total,106.728,217,114.35,0.198
+Schoharie,2008-2010,AgeGroup,35+,Total,Total,105.481,218,114.38,0.199
+Schoharie,2009-2011,AgeGroup,35+,Total,Total,97.951,209,109.33,0.191
+Schoharie,2010-2012,AgeGroup,35+,Total,Total,90.536,193,100.84,0.176
+Schoharie,2011-2013,AgeGroup,35+,Total,Total,81.123,179,93.64,0.163
+Schoharie,2012-2014,AgeGroup,35+,Total,Total,82.725,182,95.41,0.166
+Schoharie,2013-2015,AgeGroup,35+,Total,Total,89.557,204,107.22,0.186
+Schoharie,2014-2016,AgeGroup,35+,Total,Total,102.901,232,122.06,0.212
+Schoharie,2015-2017,AgeGroup,35+,Total,Total,115.981,261,137.17,0.238
+Schoharie,2016-2018,AgeGroup,35+,Total,Total,110.234,252,132.02,0.23
+Schuyler,2000-2002,AgeGroup,35+,Total,Total,136.139,155,144.18,0.141
+Schuyler,2001-2003,AgeGroup,35+,Total,Total,154.425,178,164.68,0.163
+Schuyler,2002-2004,AgeGroup,35+,Total,Total,137.276,160,146.91,0.146
+Schuyler,2003-2005,AgeGroup,35+,Total,Total,150.379,179,163.25,0.163
+Schuyler,2004-2006,AgeGroup,35+,Total,Total,134.023,159,143.81,0.145
+Schuyler,2005-2007,AgeGroup,35+,Total,Total,133.618,157,141.05,0.143
+Schuyler,2006-2008,AgeGroup,35+,Total,Total,122.188,146,130.41,0.133
+Schuyler,2007-2009,AgeGroup,35+,Total,Total,105.017,129,114.92,0.118
+Schuyler,2008-2010,AgeGroup,35+,Total,Total,94.271,120,106.76,0.109
+Schuyler,2009-2011,AgeGroup,35+,Total,Total,97.771,124,110.38,0.113
+Schuyler,2010-2012,AgeGroup,35+,Total,Total,108.237,136,120.86,0.124
+Schuyler,2011-2013,AgeGroup,35+,Total,Total,125.076,157,139.44,0.143
+Schuyler,2012-2014,AgeGroup,35+,Total,Total,107.628,134,119.03,0.122
+Schuyler,2013-2015,AgeGroup,35+,Total,Total,107.148,138,122.76,0.126
+Schuyler,2014-2016,AgeGroup,35+,Total,Total,100.531,130,115.8,0.119
+Schuyler,2015-2017,AgeGroup,35+,Total,Total,104.199,138,122.93,0.126
+Schuyler,2016-2018,AgeGroup,35+,Total,Total,85.317,116,103.34,0.106
+Seneca,2000-2002,AgeGroup,35+,Total,Total,139.55,282,149.34,0.257
+Seneca,2001-2003,AgeGroup,35+,Total,Total,135.524,281,145.81,0.257
+Seneca,2002-2004,AgeGroup,35+,Total,Total,118.976,249,127.86,0.227
+Seneca,2003-2005,AgeGroup,35+,Total,Total,123.328,263,133.78,0.24
+Seneca,2004-2006,AgeGroup,35+,Total,Total,117.045,253,127.48,0.231
+Seneca,2005-2007,AgeGroup,35+,Total,Total,116.413,252,125.92,0.23
+Seneca,2006-2008,AgeGroup,35+,Total,Total,96.986,212,105.43,0.193
+Seneca,2007-2009,AgeGroup,35+,Total,Total,95.795,209,103.72,0.191
+Seneca,2008-2010,AgeGroup,35+,Total,Total,93.026,206,102.16,0.188
+Seneca,2009-2011,AgeGroup,35+,Total,Total,99.227,221,109.47,0.202
+Seneca,2010-2012,AgeGroup,35+,Total,Total,95.262,211,104.51,0.193
+Seneca,2011-2013,AgeGroup,35+,Total,Total,86.079,193,95.73,0.176
+Seneca,2012-2014,AgeGroup,35+,Total,Total,78.992,179,89.04,0.163
+Seneca,2013-2015,AgeGroup,35+,Total,Total,75.493,174,86.87,0.159
+Seneca,2014-2016,AgeGroup,35+,Total,Total,76.208,180,90.16,0.164
+Seneca,2015-2017,AgeGroup,35+,Total,Total,83.467,199,100.06,0.182
+Seneca,2016-2018,AgeGroup,35+,Total,Total,81.157,195,98.17,0.178
+Steuben,2000-2002,AgeGroup,35+,Total,Total,148.799,874,159.88,0.797
+Steuben,2001-2003,AgeGroup,35+,Total,Total,132.43,786,142.94,0.718
+Steuben,2002-2004,AgeGroup,35+,Total,Total,121.009,726,131.36,0.662
+Steuben,2003-2005,AgeGroup,35+,Total,Total,112.527,682,122.77,0.622
+Steuben,2004-2006,AgeGroup,35+,Total,Total,110.006,671,120.18,0.612
+Steuben,2005-2007,AgeGroup,35+,Total,Total,105.231,649,115.66,0.593
+Steuben,2006-2008,AgeGroup,35+,Total,Total,101,626,111.11,0.571
+Steuben,2007-2009,AgeGroup,35+,Total,Total,105.023,660,116.61,0.602
+Steuben,2008-2010,AgeGroup,35+,Total,Total,107.907,684,120.26,0.624
+Steuben,2009-2011,AgeGroup,35+,Total,Total,110.935,716,125.45,0.654
+Steuben,2010-2012,AgeGroup,35+,Total,Total,105.098,689,120.44,0.629
+Steuben,2011-2013,AgeGroup,35+,Total,Total,99.38,667,116.59,0.609
+Steuben,2012-2014,AgeGroup,35+,Total,Total,91.088,620,108.49,0.566
+Steuben,2013-2015,AgeGroup,35+,Total,Total,91.787,627,109.89,0.573
+Steuben,2014-2016,AgeGroup,35+,Total,Total,93.848,641,112.45,0.585
+Steuben,2015-2017,AgeGroup,35+,Total,Total,99.76,687,120.64,0.627
+Steuben,2016-2018,AgeGroup,35+,Total,Total,94.748,664,116.73,0.606
+Suffolk,2000-2002,AgeGroup,35+,Total,Total,159.086,11507,149.59,10.499
+Suffolk,2001-2003,AgeGroup,35+,Total,Total,159.007,11763,150.08,10.742
+Suffolk,2002-2004,AgeGroup,35+,Total,Total,152.824,11538,144.96,10.527
+Suffolk,2003-2005,AgeGroup,35+,Total,Total,147.009,11326,140.57,10.334
+Suffolk,2004-2006,AgeGroup,35+,Total,Total,135.637,10654,131.06,9.721
+Suffolk,2005-2007,AgeGroup,35+,Total,Total,124.631,9990,122.09,9.123
+Suffolk,2006-2008,AgeGroup,35+,Total,Total,114.697,9398,114.18,8.575
+Suffolk,2007-2009,AgeGroup,35+,Total,Total,106.357,8904,107.5,8.124
+Suffolk,2008-2010,AgeGroup,35+,Total,Total,103.105,8805,105.56,8.034
+Suffolk,2009-2011,AgeGroup,35+,Total,Total,98.799,8607,102.49,7.86
+Suffolk,2010-2012,AgeGroup,35+,Total,Total,99.401,8831,104.57,8.057
+Suffolk,2011-2013,AgeGroup,35+,Total,Total,95.465,8650,101.94,7.892
+Suffolk,2012-2014,AgeGroup,35+,Total,Total,91.471,8483,99.61,7.74
+Suffolk,2013-2015,AgeGroup,35+,Total,Total,83.53,7890,92.37,7.205
+Suffolk,2014-2016,AgeGroup,35+,Total,Total,81.896,7880,92.08,7.19
+Suffolk,2015-2017,AgeGroup,35+,Total,Total,81.238,7904,92.23,7.212
+Suffolk,2016-2018,AgeGroup,35+,Total,Total,82.627,8144,94.95,7.431
+Sullivan,2000-2002,AgeGroup,35+,Total,Total,131.002,560,133.34,0.511
+Sullivan,2001-2003,AgeGroup,35+,Total,Total,122.36,529,124.49,0.483
+Sullivan,2002-2004,AgeGroup,35+,Total,Total,125.147,548,127.29,0.5
+Sullivan,2003-2005,AgeGroup,35+,Total,Total,112.248,502,115.05,0.458
+Sullivan,2004-2006,AgeGroup,35+,Total,Total,101.57,461,104.54,0.421
+Sullivan,2005-2007,AgeGroup,35+,Total,Total,98.084,451,101.26,0.412
+Sullivan,2006-2008,AgeGroup,35+,Total,Total,94.442,439,98.01,0.401
+Sullivan,2007-2009,AgeGroup,35+,Total,Total,97.142,458,101.97,0.418
+Sullivan,2008-2010,AgeGroup,35+,Total,Total,84.383,404,90,0.369
+Sullivan,2009-2011,AgeGroup,35+,Total,Total,83.531,406,90.48,0.371
+Sullivan,2010-2012,AgeGroup,35+,Total,Total,95.242,463,103.29,0.422
+Sullivan,2011-2013,AgeGroup,35+,Total,Total,106.315,519,116.02,0.474
+Sullivan,2012-2014,AgeGroup,35+,Total,Total,121.553,594,133.23,0.542
+Sullivan,2013-2015,AgeGroup,35+,Total,Total,125.341,626,140.98,0.572
+Sullivan,2014-2016,AgeGroup,35+,Total,Total,131.621,670,151.51,0.611
+Sullivan,2015-2017,AgeGroup,35+,Total,Total,135.552,699,158.29,0.638
+Sullivan,2016-2018,AgeGroup,35+,Total,Total,119.293,623,140.75,0.568
+Tioga,2000-2002,AgeGroup,35+,Total,Total,72.245,207,71.9,0.189
+Tioga,2001-2003,AgeGroup,35+,Total,Total,65.664,191,65.81,0.174
+Tioga,2002-2004,AgeGroup,35+,Total,Total,62.367,185,63.29,0.169
+Tioga,2003-2005,AgeGroup,35+,Total,Total,60.86,183,62.16,0.167
+Tioga,2004-2006,AgeGroup,35+,Total,Total,61.054,185,62.47,0.169
+Tioga,2005-2007,AgeGroup,35+,Total,Total,58.034,179,60.06,0.163
+Tioga,2006-2008,AgeGroup,35+,Total,Total,56.947,180,60.09,0.164
+Tioga,2007-2009,AgeGroup,35+,Total,Total,57.444,186,61.85,0.17
+Tioga,2008-2010,AgeGroup,35+,Total,Total,58.423,192,63.79,0.175
+Tioga,2009-2011,AgeGroup,35+,Total,Total,62.25,207,68.82,0.189
+Tioga,2010-2012,AgeGroup,35+,Total,Total,59.009,200,66.7,0.182
+Tioga,2011-2013,AgeGroup,35+,Total,Total,53.396,187,62.57,0.171
+Tioga,2012-2014,AgeGroup,35+,Total,Total,50.79,180,60.44,0.164
+Tioga,2013-2015,AgeGroup,35+,Total,Total,52.103,186,62.63,0.17
+Tioga,2014-2016,AgeGroup,35+,Total,Total,52.822,189,63.85,0.172
+Tioga,2015-2017,AgeGroup,35+,Total,Total,53.147,190,64.37,0.173
+Tioga,2016-2018,AgeGroup,35+,Total,Total,44.95,161,54.56,0.147
+Tompkins,2000-2002,AgeGroup,35+,Total,Total,120.322,482,118.65,0.44
+Tompkins,2001-2003,AgeGroup,35+,Total,Total,121.426,499,121.56,0.456
+Tompkins,2002-2004,AgeGroup,35+,Total,Total,106.553,447,107.62,0.408
+Tompkins,2003-2005,AgeGroup,35+,Total,Total,94.952,406,96.64,0.37
+Tompkins,2004-2006,AgeGroup,35+,Total,Total,82.226,357,83.98,0.326
+Tompkins,2005-2007,AgeGroup,35+,Total,Total,77.624,351,81.7,0.321
+Tompkins,2006-2008,AgeGroup,35+,Total,Total,73.361,338,77.75,0.308
+Tompkins,2007-2009,AgeGroup,35+,Total,Total,75.403,354,80.62,0.323
+Tompkins,2008-2010,AgeGroup,35+,Total,Total,75.86,361,81.55,0.329
+Tompkins,2009-2011,AgeGroup,35+,Total,Total,77.158,375,84.36,0.342
+Tompkins,2010-2012,AgeGroup,35+,Total,Total,76.954,381,85.21,0.348
+Tompkins,2011-2013,AgeGroup,35+,Total,Total,75.308,378,83.82,0.345
+Tompkins,2012-2014,AgeGroup,35+,Total,Total,76.337,378,82.96,0.345
+Tompkins,2013-2015,AgeGroup,35+,Total,Total,74.228,370,80.51,0.338
+Tompkins,2014-2016,AgeGroup,35+,Total,Total,70.493,359,77.57,0.328
+Tompkins,2015-2017,AgeGroup,35+,Total,Total,66.113,354,75.92,0.323
+Tompkins,2016-2018,AgeGroup,35+,Total,Total,56.12,306,65.09,0.279
+Ulster,2000-2002,AgeGroup,35+,Total,Total,162.231,1607,160.84,1.466
+Ulster,2001-2003,AgeGroup,35+,Total,Total,165.005,1659,163.86,1.515
+Ulster,2002-2004,AgeGroup,35+,Total,Total,160.807,1644,160.28,1.5
+Ulster,2003-2005,AgeGroup,35+,Total,Total,149.843,1556,149.93,1.42
+Ulster,2004-2006,AgeGroup,35+,Total,Total,129.696,1374,131.03,1.254
+Ulster,2005-2007,AgeGroup,35+,Total,Total,112.426,1211,114.63,1.106
+Ulster,2006-2008,AgeGroup,35+,Total,Total,99.689,1094,102.98,0.998
+Ulster,2007-2009,AgeGroup,35+,Total,Total,99.044,1104,103.48,1.007
+Ulster,2008-2010,AgeGroup,35+,Total,Total,93.15,1059,98.84,0.966
+Ulster,2009-2011,AgeGroup,35+,Total,Total,91.874,1070,99.54,0.977
+Ulster,2010-2012,AgeGroup,35+,Total,Total,86.962,1042,96.72,0.951
+Ulster,2011-2013,AgeGroup,35+,Total,Total,85.185,1040,96.44,0.949
+Ulster,2012-2014,AgeGroup,35+,Total,Total,85.489,1056,97.91,0.964
+Ulster,2013-2015,AgeGroup,35+,Total,Total,86.493,1083,100.43,0.989
+Ulster,2014-2016,AgeGroup,35+,Total,Total,88.527,1115,103.35,1.017
+Ulster,2015-2017,AgeGroup,35+,Total,Total,85.94,1102,102.06,1.005
+Ulster,2016-2018,AgeGroup,35+,Total,Total,84.444,1083,100.15,0.988
+Warren,2000-2002,AgeGroup,35+,Total,Total,141.142,542,149.54,0.495
+Warren,2001-2003,AgeGroup,35+,Total,Total,133.604,521,141.81,0.476
+Warren,2002-2004,AgeGroup,35+,Total,Total,125.851,498,133.54,0.454
+Warren,2003-2005,AgeGroup,35+,Total,Total,122.657,498,131.22,0.454
+Warren,2004-2006,AgeGroup,35+,Total,Total,114.615,476,123.38,0.434
+Warren,2005-2007,AgeGroup,35+,Total,Total,106.453,455,116.18,0.416
+Warren,2006-2008,AgeGroup,35+,Total,Total,106.34,462,116.59,0.422
+Warren,2007-2009,AgeGroup,35+,Total,Total,104.772,465,116.42,0.424
+Warren,2008-2010,AgeGroup,35+,Total,Total,107.628,491,122.29,0.448
+Warren,2009-2011,AgeGroup,35+,Total,Total,101.516,470,116.73,0.429
+Warren,2010-2012,AgeGroup,35+,Total,Total,95.089,446,110.58,0.407
+Warren,2011-2013,AgeGroup,35+,Total,Total,85.869,406,100.64,0.37
+Warren,2012-2014,AgeGroup,35+,Total,Total,82.213,396,98.34,0.361
+Warren,2013-2015,AgeGroup,35+,Total,Total,75.294,364,90.66,0.332
+Warren,2014-2016,AgeGroup,35+,Total,Total,72.574,352,87.8,0.321
+Warren,2015-2017,AgeGroup,35+,Total,Total,69.024,336,83.75,0.307
+Warren,2016-2018,AgeGroup,35+,Total,Total,72.282,354,87.99,0.323
+Washington,2000-2002,AgeGroup,35+,Total,Total,151.663,521,155.95,0.475
+Washington,2001-2003,AgeGroup,35+,Total,Total,151.035,526,155.3,0.48
+Washington,2002-2004,AgeGroup,35+,Total,Total,141.831,502,145.85,0.458
+Washington,2003-2005,AgeGroup,35+,Total,Total,135.533,488,139.34,0.445
+Washington,2004-2006,AgeGroup,35+,Total,Total,124.933,460,129.08,0.42
+Washington,2005-2007,AgeGroup,35+,Total,Total,117.302,442,122.31,0.404
+Washington,2006-2008,AgeGroup,35+,Total,Total,112.847,437,119.57,0.399
+Washington,2007-2009,AgeGroup,35+,Total,Total,110.258,434,118.01,0.396
+Washington,2008-2010,AgeGroup,35+,Total,Total,103.836,415,112.3,0.379
+Washington,2009-2011,AgeGroup,35+,Total,Total,98.92,401,108.23,0.366
+Washington,2010-2012,AgeGroup,35+,Total,Total,89.516,371,99.82,0.339
+Washington,2011-2013,AgeGroup,35+,Total,Total,86.895,366,98.38,0.334
+Washington,2012-2014,AgeGroup,35+,Total,Total,79.394,338,90.66,0.308
+Washington,2013-2015,AgeGroup,35+,Total,Total,76.333,324,86.81,0.296
+Washington,2014-2016,AgeGroup,35+,Total,Total,83.777,358,95.9,0.327
+Washington,2015-2017,AgeGroup,35+,Total,Total,77.76,338,90.61,0.308
+Washington,2016-2018,AgeGroup,35+,Total,Total,85.425,377,101.1,0.344
+Wayne,2000-2002,AgeGroup,35+,Total,Total,159.217,776,153.34,0.708
+Wayne,2001-2003,AgeGroup,35+,Total,Total,154.46,766,149.48,0.7
+Wayne,2002-2004,AgeGroup,35+,Total,Total,149.265,752,145.06,0.686
+Wayne,2003-2005,AgeGroup,35+,Total,Total,141.019,717,136.83,0.654
+Wayne,2004-2006,AgeGroup,35+,Total,Total,124.974,646,121.98,0.589
+Wayne,2005-2007,AgeGroup,35+,Total,Total,116.394,617,115.38,0.563
+Wayne,2006-2008,AgeGroup,35+,Total,Total,103.082,561,104.01,0.512
+Wayne,2007-2009,AgeGroup,35+,Total,Total,100.902,555,102.38,0.506
+Wayne,2008-2010,AgeGroup,35+,Total,Total,104.925,584,107.25,0.533
+Wayne,2009-2011,AgeGroup,35+,Total,Total,111.95,640,117.39,0.584
+Wayne,2010-2012,AgeGroup,35+,Total,Total,113.832,665,121.87,0.607
+Wayne,2011-2013,AgeGroup,35+,Total,Total,109.283,655,120.38,0.598
+Wayne,2012-2014,AgeGroup,35+,Total,Total,105.461,632,116.45,0.577
+Wayne,2013-2015,AgeGroup,35+,Total,Total,99.959,617,114.09,0.563
+Wayne,2014-2016,AgeGroup,35+,Total,Total,108.164,662,122.75,0.604
+Wayne,2015-2017,AgeGroup,35+,Total,Total,112.907,704,130.81,0.642
+Wayne,2016-2018,AgeGroup,35+,Total,Total,113.666,702,130.62,0.641
+Westchester,2000-2002,AgeGroup,35+,Total,Total,120.761,6394,125.38,5.834
+Westchester,2001-2003,AgeGroup,35+,Total,Total,118.42,6363,123.74,5.811
+Westchester,2002-2004,AgeGroup,35+,Total,Total,110.915,6033,116.6,5.505
+Westchester,2003-2005,AgeGroup,35+,Total,Total,99.49,5484,105.43,5.004
+Westchester,2004-2006,AgeGroup,35+,Total,Total,91.407,5079,97.25,4.634
+Westchester,2005-2007,AgeGroup,35+,Total,Total,84.557,4753,90.69,4.341
+Westchester,2006-2008,AgeGroup,35+,Total,Total,80.921,4612,87.69,4.208
+Westchester,2007-2009,AgeGroup,35+,Total,Total,76.042,4402,83.2,4.016
+Westchester,2008-2010,AgeGroup,35+,Total,Total,72.085,4253,79.82,3.88
+Westchester,2009-2011,AgeGroup,35+,Total,Total,69.007,4135,77.01,3.776
+Westchester,2010-2012,AgeGroup,35+,Total,Total,68.428,4174,77.21,3.808
+Westchester,2011-2013,AgeGroup,35+,Total,Total,68.907,4261,78.29,3.888
+Westchester,2012-2014,AgeGroup,35+,Total,Total,68.441,4295,78.43,3.919
+Westchester,2013-2015,AgeGroup,35+,Total,Total,66.353,4229,76.76,3.862
+Westchester,2014-2016,AgeGroup,35+,Total,Total,63.344,4105,74.12,3.745
+Westchester,2015-2017,AgeGroup,35+,Total,Total,62.789,4095,73.65,3.736
+Westchester,2016-2018,AgeGroup,35+,Total,Total,60.238,3948,70.78,3.602
+Wyoming,2000-2002,AgeGroup,35+,Total,Total,136.961,309,132.74,0.282
+Wyoming,2001-2003,AgeGroup,35+,Total,Total,137.595,314,133.81,0.287
+Wyoming,2002-2004,AgeGroup,35+,Total,Total,137.063,315,133.18,0.287
+Wyoming,2003-2005,AgeGroup,35+,Total,Total,131.167,306,128.37,0.279
+Wyoming,2004-2006,AgeGroup,35+,Total,Total,137.641,325,135.34,0.297
+Wyoming,2005-2007,AgeGroup,35+,Total,Total,134.837,321,132.8,0.293
+Wyoming,2006-2008,AgeGroup,35+,Total,Total,128.664,307,126.58,0.28
+Wyoming,2007-2009,AgeGroup,35+,Total,Total,118.022,283,116.28,0.258
+Wyoming,2008-2010,AgeGroup,35+,Total,Total,115.679,277,113.55,0.253
+Wyoming,2009-2011,AgeGroup,35+,Total,Total,107.2,257,105.16,0.235
+Wyoming,2010-2012,AgeGroup,35+,Total,Total,94.693,230,94.31,0.21
+Wyoming,2011-2013,AgeGroup,35+,Total,Total,85.811,213,87.72,0.194
+Wyoming,2012-2014,AgeGroup,35+,Total,Total,85.897,218,90.08,0.199
+Wyoming,2013-2015,AgeGroup,35+,Total,Total,88.627,229,94.86,0.209
+Wyoming,2014-2016,AgeGroup,35+,Total,Total,96.298,248,103.09,0.226
+Wyoming,2015-2017,AgeGroup,35+,Total,Total,105.994,275,114.74,0.251
+Wyoming,2016-2018,AgeGroup,35+,Total,Total,113.433,298,124.69,0.272
+Yates,2000-2002,AgeGroup,35+,Total,Total,157.876,239,177.57,0.218
+Yates,2001-2003,AgeGroup,35+,Total,Total,166.406,251,185.6,0.229
+Yates,2002-2004,AgeGroup,35+,Total,Total,170.702,258,189.33,0.235
+Yates,2003-2005,AgeGroup,35+,Total,Total,168.849,258,187.31,0.235
+Yates,2004-2006,AgeGroup,35+,Total,Total,142.619,222,159.95,0.203
+Yates,2005-2007,AgeGroup,35+,Total,Total,126.033,199,142.6,0.182
+Yates,2006-2008,AgeGroup,35+,Total,Total,118.536,186,132.92,0.17
+Yates,2007-2009,AgeGroup,35+,Total,Total,115.228,184,131.05,0.168
+Yates,2008-2010,AgeGroup,35+,Total,Total,114.79,186,132.11,0.17
+Yates,2009-2011,AgeGroup,35+,Total,Total,103.871,173,122.67,0.158
+Yates,2010-2012,AgeGroup,35+,Total,Total,85.601,144,102.01,0.131
+Yates,2011-2013,AgeGroup,35+,Total,Total,71.815,122,86.58,0.111
+Yates,2012-2014,AgeGroup,35+,Total,Total,73.38,123,87.47,0.112
+Yates,2013-2015,AgeGroup,35+,Total,Total,70.73,121,86.13,0.111
+Yates,2014-2016,AgeGroup,35+,Total,Total,67.457,115,81.94,0.105
+Yates,2015-2017,AgeGroup,35+,Total,Total,76.913,130,92.64,0.119
+Yates,2016-2018,AgeGroup,35+,Total,Total,68.49,118,84.19,0.108
+NYS excluding NYC,2000,Total,,Total,Total,24.125,28599,26.04,78.139
+NYS excluding NYC,2000-2002,AgeGroup,35+,Total,Total,137.965,84795,142.65,77.368
+NYS excluding NYC,2001,Total,,Total,Total,23.547,28267,25.64,77.444
+NYS excluding NYC,2001-2003,AgeGroup,35+,Total,Total,134.859,84045,140.09,76.753
+NYS excluding NYC,2002,Total,,Total,Total,23.401,28494,25.75,78.066
+NYS excluding NYC,2002-2004,AgeGroup,35+,Total,Total,129.483,81798,135.21,74.633
+NYS excluding NYC,2003,Total,,Total,Total,22.595,27883,25.1,76.392
+NYS excluding NYC,2003-2005,AgeGroup,35+,Total,Total,121.737,77908,127.85,71.084
+NYS excluding NYC,2004,Total,,Total,Total,20.801,25998,23.36,71.033
+NYS excluding NYC,2004-2006,AgeGroup,35+,Total,Total,112.205,72675,118.51,66.309
+NYS excluding NYC,2005,Total,,Total,Total,19.461,24607,22.13,67.416
+NYS excluding NYC,2005-2007,AgeGroup,35+,Total,Total,104.016,68251,110.73,62.33
+NYS excluding NYC,2006,Total,,Total,Total,17.665,22579,20.32,61.86
+NYS excluding NYC,2006-2008,AgeGroup,35+,Total,Total,98.272,65389,105.62,59.661
+NYS excluding NYC,2007,Total,,Total,Total,16.614,21559,19.39,59.066
+NYS excluding NYC,2007-2009,AgeGroup,35+,Total,Total,93.858,63391,101.98,57.839
+NYS excluding NYC,2008,Total,,Total,Total,16.423,21672,19.45,59.213
+NYS excluding NYC,2008-2010,AgeGroup,35+,Total,Total,91.097,62453,100.06,56.983
+NYS excluding NYC,2009,Total,,Total,Total,15.391,20567,18.4,56.348
+NYS excluding NYC,2009-2011,AgeGroup,35+,Total,Total,87.975,61100,97.57,55.799
+NYS excluding NYC,2010,Total,,Total,Total,15.214,20629,18.4,56.518
+NYS excluding NYC,2010-2012,AgeGroup,35+,Total,Total,87.831,61819,98.47,56.404
+NYS excluding NYC,2011,Total,,Total,Total,14.824,20329,18.11,55.696
+NYS excluding NYC,2011-2013,AgeGroup,35+,Total,Total,86.158,61316,97.5,55.945
+NYS excluding NYC,2012,Total,,Total,Total,15.32,21299,18.97,58.194
+NYS excluding NYC,2012-2014,AgeGroup,35+,Total,Total,84.734,61062,96.94,55.714
+NYS excluding NYC,2013,Total,,Total,Total,14.33,20095,17.9,55.055
+NYS excluding NYC,2013-2015,AgeGroup,35+,Total,Total,81.719,59478,94.28,54.318
+NYS excluding NYC,2014,Total,,Total,Total,14.066,20045,17.87,54.918
+NYS excluding NYC,2014-2016,AgeGroup,35+,Total,Total,81.974,60258,95.39,54.98
+NYS excluding NYC,2015,Total,,Total,Total,13.744,19694,17.59,53.956
+NYS excluding NYC,2015-2017,AgeGroup,35+,Total,Total,82.57,61216,96.79,55.854
+NYS excluding NYC,2016,Total,,Total,Total,14.457,20879,18.7,57.046
+NYS excluding NYC,2016-2018,AgeGroup,35+,Total,Total,82.043,61398,96.93,56.02
+NYS excluding NYC,2017,Total,,Total,Total,14.43,21069,18.89,57.723
+NYS excluding NYC,2018,Total,,Total,Total,13.525,19914,17.87,54.559
+New York City,2000,Total,,Total,Total,19.115,14477,18.06,39.555
+New York City,2000-2002,AgeGroup,35+,Total,Total,112.019,43822,110.93,39.984
+New York City,2001,Total,,Total,Total,19.426,14889,18.47,40.792
+New York City,2001-2003,AgeGroup,35+,Total,Total,112.786,44600,111.92,40.731
+New York City,2002,Total,,Total,Total,19.095,14823,18.36,40.611
+New York City,2002-2004,AgeGroup,35+,Total,Total,112.384,44849,111.86,40.921
+New York City,2003,Total,,Total,Total,19.504,15252,18.9,41.786
+New York City,2003-2005,AgeGroup,35+,Total,Total,109.127,43894,108.96,40.049
+New York City,2004,Total,,Total,Total,19.249,15159,18.85,41.418
+New York City,2004-2006,AgeGroup,35+,Total,Total,103.509,41916,103.72,38.245
+New York City,2005,Total,,Total,Total,17.41,13830,17.26,37.89
+New York City,2005-2007,AgeGroup,35+,Total,Total,95.008,38795,95.69,35.429
+New York City,2006,Total,,Total,Total,16.61,13264,16.59,36.34
+New York City,2006-2008,AgeGroup,35+,Total,Total,90.44,37220,91.48,33.96
+New York City,2007,Total,,Total,Total,14.891,12011,14.99,32.907
+New York City,2007-2009,AgeGroup,35+,Total,Total,86.711,36102,88.24,32.94
+New York City,2008,Total,,Total,Total,15.122,12296,15.24,33.596
+New York City,2008-2010,AgeGroup,35+,Total,Total,84.885,35826,86.91,32.688
+New York City,2009,Total,,Total,Total,14.664,12130,14.92,33.233
+New York City,2009-2011,AgeGroup,35+,Total,Total,80.869,34736,83.43,31.722
+New York City,2010,Total,,Total,Total,13.959,11730,14.32,32.137
+New York City,2010-2012,AgeGroup,35+,Total,Total,77.554,33972,80.61,30.996
+New York City,2011,Total,,Total,Total,13.08,11204,13.54,30.696
+New York City,2011-2013,AgeGroup,35+,Total,Total,73.944,33086,77.55,30.188
+New York City,2012,Total,,Total,Total,12.96,11375,13.63,31.079
+New York City,2012-2014,AgeGroup,35+,Total,Total,71.335,32610,75.56,29.754
+New York City,2013,Total,,Total,Total,12.086,10824,12.89,29.655
+New York City,2013-2015,AgeGroup,35+,Total,Total,68.905,32110,73.63,29.324
+New York City,2014,Total,,Total,Total,11.706,10688,12.67,29.282
+New York City,2014-2016,AgeGroup,35+,Total,Total,68.309,32426,73.69,29.586
+New York City,2015,Total,,Total,Total,11.714,10884,12.85,29.819
+New York City,2015-2017,AgeGroup,35+,Total,Total,67.035,32277,72.89,29.45
+New York City,2016,Total,,Total,Total,11.776,11150,13.15,30.464
+New York City,2016-2018,AgeGroup,35+,Total,Total,66.428,32417,72.97,29.578
+New York City,2017,Total,,Total,Total,11.071,10545,12.5,28.89
+New York City,2018,Total,,Total,Total,11.4,11019,13.12,30.189
+New York State,2000,AgeGroup,35+,Total,Total,43.079,42773,43.68,116.866
+New York State,2000,Month,1,AgeGroup,35+,3.793,3765,3.84,121.452
+New York State,2000,Month,1,Total,Total,1.949,3786,1.99,122.129
+New York State,2000,Month,10,AgeGroup,35+,3.809,3783,3.86,122.032
+New York State,2000,Month,10,Total,Total,1.962,3814,2.01,123.032
+New York State,2000,Month,11,AgeGroup,35+,3.866,3839,3.92,127.967
+New York State,2000,Month,11,Total,Total,1.991,3868,2.04,128.933
+New York State,2000,Month,12,AgeGroup,35+,4.054,4028,4.11,129.935
+New York State,2000,Month,12,Total,Total,2.092,4069,2.14,131.258
+New York State,2000,Month,2,AgeGroup,35+,3.323,3299,3.37,113.759
+New York State,2000,Month,2,Total,Total,1.707,3316,1.75,114.345
+New York State,2000,Month,3,AgeGroup,35+,3.504,3478,3.55,112.194
+New York State,2000,Month,3,Total,Total,1.801,3499,1.84,112.871
+New York State,2000,Month,4,AgeGroup,35+,3.325,3304,3.37,110.133
+New York State,2000,Month,4,Total,Total,1.709,3323,1.75,110.767
+New York State,2000,Month,5,AgeGroup,35+,3.63,3601,3.68,116.161
+New York State,2000,Month,5,Total,Total,1.87,3631,1.91,117.129
+New York State,2000,Month,6,AgeGroup,35+,3.478,3451,3.52,115.033
+New York State,2000,Month,6,Total,Total,1.792,3480,1.83,116
+New York State,2000,Month,7,AgeGroup,35+,3.477,3451,3.52,111.323
+New York State,2000,Month,7,Total,Total,1.788,3474,1.83,112.065
+New York State,2000,Month,8,AgeGroup,35+,3.437,3413,3.49,110.097
+New York State,2000,Month,8,Total,Total,1.766,3432,1.81,110.71
+New York State,2000,Month,9,AgeGroup,35+,3.384,3361,3.43,112.033
+New York State,2000,Month,9,Total,Total,1.741,3384,1.78,112.8
+New York State,2000,Total,,Total,Total,22.168,43076,22.67,117.694
+New York State,2000-2002,AgeGroup,35+,Total,Total,127.855,128617,129.99,117.351
+New York State,2000-2002,Month,1,AgeGroup,35+,11.585,11650,11.77,125.269
+New York State,2000-2002,Month,1,Total,Total,5.964,11735,6.15,126.183
+New York State,2000-2002,Month,10,AgeGroup,35+,11.029,11097,11.22,119.323
+New York State,2000-2002,Month,10,Total,Total,5.679,11181,5.86,120.226
+New York State,2000-2002,Month,11,AgeGroup,35+,10.749,10814,10.93,120.156
+New York State,2000-2002,Month,11,Total,Total,5.531,10888,5.71,120.978
+New York State,2000-2002,Month,12,AgeGroup,35+,11.608,11682,11.81,125.613
+New York State,2000-2002,Month,12,Total,Total,5.982,11781,6.18,126.677
+New York State,2000-2002,Month,2,AgeGroup,35+,10.002,10065,10.17,118.412
+New York State,2000-2002,Month,2,Total,Total,5.147,10134,5.31,119.224
+New York State,2000-2002,Month,3,AgeGroup,35+,10.755,10818,10.93,116.323
+New York State,2000-2002,Month,3,Total,Total,5.537,10898,5.71,117.183
+New York State,2000-2002,Month,4,AgeGroup,35+,10.359,10426,10.54,115.844
+New York State,2000-2002,Month,4,Total,Total,5.327,10492,5.5,116.578
+New York State,2000-2002,Month,5,AgeGroup,35+,10.963,11025,11.14,118.548
+New York State,2000-2002,Month,5,Total,Total,5.641,11100,5.82,119.355
+New York State,2000-2002,Month,6,AgeGroup,35+,10.249,10306,10.42,114.511
+New York State,2000-2002,Month,6,Total,Total,5.278,10385,5.44,115.389
+New York State,2000-2002,Month,7,AgeGroup,35+,10.311,10372,10.48,111.527
+New York State,2000-2002,Month,7,Total,Total,5.309,10450,5.48,112.366
+New York State,2000-2002,Month,8,AgeGroup,35+,10.066,10121,10.23,108.828
+New York State,2000-2002,Month,8,Total,Total,5.177,10186,5.34,109.527
+New York State,2000-2002,Month,9,AgeGroup,35+,10.178,10241,10.35,113.789
+New York State,2000-2002,Month,9,Total,Total,5.241,10319,5.41,114.656
+New York State,2001,AgeGroup,35+,Total,Total,42.604,42845,43.27,117.384
+New York State,2001,Month,1,AgeGroup,35+,3.959,3981,4.02,128.419
+New York State,2001,Month,1,Total,Total,2.038,4011,2.1,129.387
+New York State,2001,Month,10,AgeGroup,35+,3.639,3660,3.7,118.065
+New York State,2001,Month,10,Total,Total,1.873,3686,1.93,118.903
+New York State,2001,Month,11,AgeGroup,35+,3.432,3453,3.49,115.1
+New York State,2001,Month,11,Total,Total,1.763,3471,1.82,115.7
+New York State,2001,Month,12,AgeGroup,35+,3.708,3728,3.76,120.258
+New York State,2001,Month,12,Total,Total,1.912,3761,1.97,121.323
+New York State,2001,Month,2,AgeGroup,35+,3.293,3312,3.34,118.286
+New York State,2001,Month,2,Total,Total,1.697,3340,1.75,119.286
+New York State,2001,Month,3,AgeGroup,35+,3.682,3704,3.74,119.484
+New York State,2001,Month,3,Total,Total,1.896,3732,1.96,120.387
+New York State,2001,Month,4,AgeGroup,35+,3.613,3634,3.67,121.133
+New York State,2001,Month,4,Total,Total,1.854,3650,1.91,121.667
+New York State,2001,Month,5,AgeGroup,35+,3.698,3718,3.75,119.935
+New York State,2001,Month,5,Total,Total,1.903,3743,1.96,120.742
+New York State,2001,Month,6,AgeGroup,35+,3.42,3438,3.47,114.6
+New York State,2001,Month,6,Total,Total,1.76,3462,1.81,115.4
+New York State,2001,Month,7,AgeGroup,35+,3.407,3427,3.46,110.548
+New York State,2001,Month,7,Total,Total,1.757,3459,1.81,111.581
+New York State,2001,Month,8,AgeGroup,35+,3.366,3382,3.42,109.097
+New York State,2001,Month,8,Total,Total,1.732,3405,1.78,109.839
+New York State,2001,Month,9,AgeGroup,35+,3.388,3408,3.44,113.6
+New York State,2001,Month,9,Total,Total,1.746,3436,1.8,114.533
+New York State,2001,Total,,Total,Total,21.931,43156,22.62,118.236
+New York State,2001-2003,AgeGroup,35+,Total,Total,126.263,128645,128.84,117.484
+New York State,2001-2003,Month,1,AgeGroup,35+,11.493,11702,11.72,125.828
+New York State,2001-2003,Month,1,Total,Total,5.921,11795,6.17,126.828
+New York State,2001-2003,Month,10,AgeGroup,35+,10.811,11015,11.03,118.441
+New York State,2001-2003,Month,10,Total,Total,5.566,11094,5.8,119.29
+New York State,2001-2003,Month,11,AgeGroup,35+,10.192,10387,10.4,115.411
+New York State,2001-2003,Month,11,Total,Total,5.241,10451,5.46,116.122
+New York State,2001-2003,Month,12,AgeGroup,35+,11.375,11596,11.61,124.688
+New York State,2001-2003,Month,12,Total,Total,5.858,11683,6.11,125.624
+New York State,2001-2003,Month,2,AgeGroup,35+,10.029,10221,10.24,121.679
+New York State,2001-2003,Month,2,Total,Total,5.175,10317,5.39,122.821
+New York State,2001-2003,Month,3,AgeGroup,35+,10.706,10909,10.93,117.301
+New York State,2001-2003,Month,3,Total,Total,5.514,10992,5.75,118.194
+New York State,2001-2003,Month,4,AgeGroup,35+,10.565,10768,10.78,119.644
+New York State,2001-2003,Month,4,Total,Total,5.438,10843,5.67,120.478
+New York State,2001-2003,Month,5,AgeGroup,35+,10.875,11082,11.1,119.161
+New York State,2001-2003,Month,5,Total,Total,5.594,11154,5.83,119.935
+New York State,2001-2003,Month,6,AgeGroup,35+,10.12,10309,10.32,114.544
+New York State,2001-2003,Month,6,Total,Total,5.211,10385,5.43,115.389
+New York State,2001-2003,Month,7,AgeGroup,35+,10.01,10197,10.21,109.645
+New York State,2001-2003,Month,7,Total,Total,5.157,10278,5.37,110.516
+New York State,2001-2003,Month,8,AgeGroup,35+,9.833,10010,10.03,107.634
+New York State,2001-2003,Month,8,Total,Total,5.067,10091,5.27,108.505
+New York State,2001-2003,Month,9,AgeGroup,35+,10.253,10449,10.47,116.1
+New York State,2001-2003,Month,9,Total,Total,5.279,10525,5.5,116.944
+New York State,2002,AgeGroup,35+,Total,Total,42.187,42999,43.05,117.805
+New York State,2002,Month,1,AgeGroup,35+,3.834,3904,3.91,125.935
+New York State,2002,Month,1,Total,Total,1.977,3938,2.06,127.032
+New York State,2002,Month,10,AgeGroup,35+,3.583,3654,3.66,117.871
+New York State,2002,Month,10,Total,Total,1.845,3681,1.92,118.742
+New York State,2002,Month,11,AgeGroup,35+,3.457,3522,3.53,117.4
+New York State,2002,Month,11,Total,Total,1.78,3549,1.85,118.3
+New York State,2002,Month,12,AgeGroup,35+,3.845,3926,3.93,126.645
+New York State,2002,Month,12,Total,Total,1.978,3951,2.06,127.452
+New York State,2002,Month,2,AgeGroup,35+,3.385,3454,3.46,123.357
+New York State,2002,Month,2,Total,Total,1.742,3478,1.82,124.214
+New York State,2002,Month,3,AgeGroup,35+,3.574,3636,3.64,117.29
+New York State,2002,Month,3,Total,Total,1.842,3667,1.92,118.29
+New York State,2002,Month,4,AgeGroup,35+,3.422,3488,3.49,116.267
+New York State,2002,Month,4,Total,Total,1.765,3519,1.84,117.3
+New York State,2002,Month,5,AgeGroup,35+,3.633,3706,3.71,119.548
+New York State,2002,Month,5,Total,Total,1.867,3726,1.95,120.194
+New York State,2002,Month,6,AgeGroup,35+,3.354,3417,3.42,113.9
+New York State,2002,Month,6,Total,Total,1.727,3443,1.8,114.767
+New York State,2002,Month,7,AgeGroup,35+,3.43,3494,3.5,112.71
+New York State,2002,Month,7,Total,Total,1.764,3517,1.84,113.452
+New York State,2002,Month,8,AgeGroup,35+,3.265,3326,3.33,107.29
+New York State,2002,Month,8,Total,Total,1.68,3349,1.75,108.032
+New York State,2002,Month,9,AgeGroup,35+,3.406,3472,3.48,115.733
+New York State,2002,Month,9,Total,Total,1.755,3499,1.83,116.633
+New York State,2002,Total,,Total,Total,21.722,43317,22.63,118.677
+New York State,2002-2004,AgeGroup,35+,Total,Total,122.847,126647,125.91,115.554
+New York State,2002-2004,Month,1,AgeGroup,35+,11.191,11536,11.47,124.043
+New York State,2002-2004,Month,1,Total,Total,5.764,11622,6.07,124.968
+New York State,2002-2004,Month,10,AgeGroup,35+,10.444,10767,10.7,115.774
+New York State,2002-2004,Month,10,Total,Total,5.382,10852,5.66,116.688
+New York State,2002-2004,Month,11,AgeGroup,35+,9.929,10238,10.18,113.756
+New York State,2002-2004,Month,11,Total,Total,5.108,10304,5.38,114.489
+New York State,2002-2004,Month,12,AgeGroup,35+,11.172,11531,11.46,123.989
+New York State,2002-2004,Month,12,Total,Total,5.75,11608,6.06,124.817
+New York State,2002-2004,Month,2,AgeGroup,35+,9.774,10080,10.02,118.588
+New York State,2002-2004,Month,2,Total,Total,5.047,10180,5.31,119.765
+New York State,2002-2004,Month,3,AgeGroup,35+,10.498,10811,10.75,116.247
+New York State,2002-2004,Month,3,Total,Total,5.414,10906,5.69,117.269
+New York State,2002-2004,Month,4,AgeGroup,35+,10.33,10652,10.59,118.356
+New York State,2002-2004,Month,4,Total,Total,5.321,10733,5.6,119.256
+New York State,2002-2004,Month,5,AgeGroup,35+,10.454,10779,10.72,115.903
+New York State,2002-2004,Month,5,Total,Total,5.375,10842,5.66,116.581
+New York State,2002-2004,Month,6,AgeGroup,35+,9.942,10249,10.19,113.878
+New York State,2002-2004,Month,6,Total,Total,5.125,10333,5.39,114.811
+New York State,2002-2004,Month,7,AgeGroup,35+,9.59,9884,9.83,106.28
+New York State,2002-2004,Month,7,Total,Total,4.936,9952,5.19,107.011
+New York State,2002-2004,Month,8,AgeGroup,35+,9.516,9801,9.74,105.387
+New York State,2002-2004,Month,8,Total,Total,4.912,9896,5.16,106.409
+New York State,2002-2004,Month,9,AgeGroup,35+,10.008,10319,10.26,114.656
+New York State,2002-2004,Month,9,Total,Total,5.147,10381,5.42,115.344
+New York State,2003,AgeGroup,35+,Total,Total,41.492,42801,42.53,117.263
+New York State,2003,Month,1,AgeGroup,35+,3.702,3817,3.79,123.129
+New York State,2003,Month,1,Total,Total,1.907,3846,2.01,124.065
+New York State,2003,Month,10,AgeGroup,35+,3.591,3701,3.68,119.387
+New York State,2003,Month,10,Total,Total,1.849,3727,1.94,120.226
+New York State,2003,Month,11,AgeGroup,35+,3.305,3412,3.39,113.733
+New York State,2003,Month,11,Total,Total,1.699,3431,1.79,114.367
+New York State,2003,Month,12,AgeGroup,35+,3.819,3942,3.92,127.161
+New York State,2003,Month,12,Total,Total,1.967,3971,2.07,128.097
+New York State,2003,Month,2,AgeGroup,35+,3.354,3455,3.43,123.393
+New York State,2003,Month,2,Total,Total,1.737,3499,1.82,124.964
+New York State,2003,Month,3,AgeGroup,35+,3.458,3569,3.55,115.129
+New York State,2003,Month,3,Total,Total,1.78,3593,1.87,115.903
+New York State,2003,Month,4,AgeGroup,35+,3.536,3646,3.62,121.533
+New York State,2003,Month,4,Total,Total,1.821,3674,1.92,122.467
+New York State,2003,Month,5,AgeGroup,35+,3.546,3658,3.64,118
+New York State,2003,Month,5,Total,Total,1.826,3685,1.92,118.871
+New York State,2003,Month,6,AgeGroup,35+,3.345,3454,3.43,115.133
+New York State,2003,Month,6,Total,Total,1.723,3480,1.81,116
+New York State,2003,Month,7,AgeGroup,35+,3.175,3276,3.26,105.677
+New York State,2003,Month,7,Total,Total,1.636,3302,1.72,106.516
+New York State,2003,Month,8,AgeGroup,35+,3.203,3302,3.28,106.516
+New York State,2003,Month,8,Total,Total,1.655,3337,1.74,107.645
+New York State,2003,Month,9,AgeGroup,35+,3.458,3569,3.55,118.967
+New York State,2003,Month,9,Total,Total,1.778,3590,1.87,119.667
+New York State,2003,Total,,Total,Total,21.378,43135,22.49,118.178
+New York State,2003-2005,AgeGroup,35+,Total,Total,116.858,121802,120.33,111.133
+New York State,2003-2005,Month,1,AgeGroup,35+,10.914,11381,11.24,122.376
+New York State,2003-2005,Month,1,Total,Total,5.616,11453,5.98,123.151
+New York State,2003-2005,Month,10,AgeGroup,35+,9.868,10284,10.16,110.581
+New York State,2003-2005,Month,10,Total,Total,5.085,10361,5.41,111.409
+New York State,2003-2005,Month,11,AgeGroup,35+,9.341,9738,9.62,108.2
+New York State,2003-2005,Month,11,Total,Total,4.807,9800,5.11,108.889
+New York State,2003-2005,Month,12,AgeGroup,35+,10.549,10999,10.87,118.269
+New York State,2003-2005,Month,12,Total,Total,5.437,11087,5.79,119.215
+New York State,2003-2005,Month,2,AgeGroup,35+,9.505,9906,9.79,116.541
+New York State,2003-2005,Month,2,Total,Total,4.91,10006,5.22,117.718
+New York State,2003-2005,Month,3,AgeGroup,35+,10.112,10535,10.41,113.28
+New York State,2003-2005,Month,3,Total,Total,5.216,10626,5.55,114.258
+New York State,2003-2005,Month,4,AgeGroup,35+,9.909,10332,10.21,114.8
+New York State,2003-2005,Month,4,Total,Total,5.104,10408,5.43,115.644
+New York State,2003-2005,Month,5,AgeGroup,35+,9.909,10326,10.2,111.032
+New York State,2003-2005,Month,5,Total,Total,5.101,10395,5.43,111.774
+New York State,2003-2005,Month,6,AgeGroup,35+,9.467,9864,9.74,109.6
+New York State,2003-2005,Month,6,Total,Total,4.882,9948,5.19,110.533
+New York State,2003-2005,Month,7,AgeGroup,35+,8.88,9260,9.15,99.57
+New York State,2003-2005,Month,7,Total,Total,4.571,9322,4.87,100.237
+New York State,2003-2005,Month,8,AgeGroup,35+,9.015,9383,9.27,100.892
+New York State,2003-2005,Month,8,Total,Total,4.655,9473,4.94,101.86
+New York State,2003-2005,Month,9,AgeGroup,35+,9.39,9794,9.68,108.822
+New York State,2003-2005,Month,9,Total,Total,4.829,9850,5.14,109.444
+New York State,2004,AgeGroup,35+,Total,Total,39.21,40847,40.34,111.604
+New York State,2004,Month,1,AgeGroup,35+,3.654,3815,3.77,123.065
+New York State,2004,Month,1,Total,Total,1.88,3838,2,123.806
+New York State,2004,Month,10,AgeGroup,35+,3.275,3412,3.37,110.065
+New York State,2004,Month,10,Total,Total,1.691,3444,1.8,111.097
+New York State,2004,Month,11,AgeGroup,35+,3.171,3304,3.26,110.133
+New York State,2004,Month,11,Total,Total,1.631,3324,1.73,110.8
+New York State,2004,Month,12,AgeGroup,35+,3.513,3663,3.62,118.161
+New York State,2004,Month,12,Total,Total,1.808,3686,1.92,118.903
+New York State,2004,Month,2,AgeGroup,35+,3.039,3171,3.13,109.345
+New York State,2004,Month,2,Total,Total,1.57,3203,1.67,110.448
+New York State,2004,Month,3,AgeGroup,35+,3.467,3606,3.56,116.323
+New York State,2004,Month,3,Total,Total,1.793,3646,1.9,117.613
+New York State,2004,Month,4,AgeGroup,35+,3.371,3518,3.47,117.267
+New York State,2004,Month,4,Total,Total,1.735,3540,1.85,118
+New York State,2004,Month,5,AgeGroup,35+,3.282,3415,3.37,110.161
+New York State,2004,Month,5,Total,Total,1.686,3431,1.79,110.677
+New York State,2004,Month,6,AgeGroup,35+,3.245,3378,3.34,112.6
+New York State,2004,Month,6,Total,Total,1.675,3410,1.78,113.667
+New York State,2004,Month,7,AgeGroup,35+,2.991,3114,3.08,100.452
+New York State,2004,Month,7,Total,Total,1.538,3133,1.63,101.065
+New York State,2004,Month,8,AgeGroup,35+,3.051,3173,3.13,102.355
+New York State,2004,Month,8,Total,Total,1.579,3210,1.67,103.548
+New York State,2004,Month,9,AgeGroup,35+,3.149,3278,3.24,109.267
+New York State,2004,Month,9,Total,Total,1.617,3292,1.72,109.733
+New York State,2004,Total,,Total,Total,20.202,41157,21.47,112.451
+New York State,2004-2006,AgeGroup,35+,Total,Total,108.856,114591,112.64,104.554
+New York State,2004-2006,Month,1,AgeGroup,35+,10.213,10753,10.57,115.624
+New York State,2004-2006,Month,1,Total,Total,5.255,10819,5.65,116.333
+New York State,2004-2006,Month,10,AgeGroup,35+,9.177,9670,9.51,103.978
+New York State,2004-2006,Month,10,Total,Total,4.729,9741,5.09,104.742
+New York State,2004-2006,Month,11,AgeGroup,35+,8.652,9107,8.95,101.189
+New York State,2004-2006,Month,11,Total,Total,4.456,9170,4.79,101.889
+New York State,2004-2006,Month,12,AgeGroup,35+,9.476,9978,9.81,107.29
+New York State,2004-2006,Month,12,Total,Total,4.885,10057,5.26,108.14
+New York State,2004-2006,Month,2,AgeGroup,35+,8.875,9364,9.2,110.165
+New York State,2004-2006,Month,2,Total,Total,4.577,9441,4.93,111.071
+New York State,2004-2006,Month,3,AgeGroup,35+,9.63,10131,9.96,108.935
+New York State,2004-2006,Month,3,Total,Total,4.969,10220,5.34,109.892
+New York State,2004-2006,Month,4,AgeGroup,35+,9.194,9684,9.52,107.6
+New York State,2004-2006,Month,4,Total,Total,4.735,9752,5.1,108.356
+New York State,2004-2006,Month,5,AgeGroup,35+,9.34,9826,9.66,105.656
+New York State,2004-2006,Month,5,Total,Total,4.81,9894,5.17,106.387
+New York State,2004-2006,Month,6,AgeGroup,35+,8.846,9309,9.15,103.433
+New York State,2004-2006,Month,6,Total,Total,4.563,9388,4.91,104.311
+New York State,2004-2006,Month,7,AgeGroup,35+,8.33,8762,8.61,94.215
+New York State,2004-2006,Month,7,Total,Total,4.286,8817,4.61,94.806
+New York State,2004-2006,Month,8,AgeGroup,35+,8.524,8953,8.8,96.269
+New York State,2004-2006,Month,8,Total,Total,4.399,9032,4.72,97.118
+New York State,2004-2006,Month,9,AgeGroup,35+,8.597,9054,8.9,100.6
+New York State,2004-2006,Month,9,Total,Total,4.422,9106,4.76,101.178
+New York State,2005,AgeGroup,35+,Total,Total,36.208,38154,37.49,104.532
+New York State,2005,Month,1,AgeGroup,35+,3.56,3749,3.68,120.935
+New York State,2005,Month,1,Total,Total,1.83,3769,1.97,121.581
+New York State,2005,Month,10,AgeGroup,35+,3.007,3171,3.12,102.29
+New York State,2005,Month,10,Total,Total,1.547,3190,1.67,102.903
+New York State,2005,Month,11,AgeGroup,35+,2.871,3022,2.97,100.733
+New York State,2005,Month,11,Total,Total,1.479,3045,1.59,101.5
+New York State,2005,Month,12,AgeGroup,35+,3.221,3394,3.33,109.484
+New York State,2005,Month,12,Total,Total,1.665,3430,1.79,110.645
+New York State,2005,Month,2,AgeGroup,35+,3.112,3280,3.22,117.143
+New York State,2005,Month,2,Total,Total,1.603,3304,1.73,118
+New York State,2005,Month,3,AgeGroup,35+,3.19,3360,3.3,108.387
+New York State,2005,Month,3,Total,Total,1.645,3387,1.77,109.258
+New York State,2005,Month,4,AgeGroup,35+,3.006,3168,3.11,105.6
+New York State,2005,Month,4,Total,Total,1.55,3194,1.67,106.467
+New York State,2005,Month,5,AgeGroup,35+,3.085,3253,3.2,104.935
+New York State,2005,Month,5,Total,Total,1.591,3279,1.71,105.774
+New York State,2005,Month,6,AgeGroup,35+,2.884,3032,2.98,101.067
+New York State,2005,Month,6,Total,Total,1.488,3058,1.6,101.933
+New York State,2005,Month,7,AgeGroup,35+,2.72,2870,2.82,92.581
+New York State,2005,Month,7,Total,Total,1.399,2887,1.51,93.129
+New York State,2005,Month,8,AgeGroup,35+,2.765,2908,2.86,93.806
+New York State,2005,Month,8,Total,Total,1.423,2926,1.53,94.387
+New York State,2005,Month,9,AgeGroup,35+,2.789,2947,2.9,98.233
+New York State,2005,Month,9,Total,Total,1.437,2968,1.55,98.933
+New York State,2005,Total,,Total,Total,18.658,38437,20.09,105.307
+New York State,2005-2007,AgeGroup,35+,Total,Total,100.548,107046,104.77,97.759
+New York State,2005-2007,Month,1,AgeGroup,35+,9.375,9959,9.75,107.086
+New York State,2005-2007,Month,1,Total,Total,4.827,10025,5.24,107.796
+New York State,2005-2007,Month,10,AgeGroup,35+,8.47,9028,8.84,97.075
+New York State,2005-2007,Month,10,Total,Total,4.364,9092,4.75,97.763
+New York State,2005-2007,Month,11,AgeGroup,35+,7.843,8350,8.17,92.778
+New York State,2005-2007,Month,11,Total,Total,4.046,8419,4.4,93.544
+New York State,2005-2007,Month,12,AgeGroup,35+,8.384,8928,8.74,96
+New York State,2005-2007,Month,12,Total,Total,4.322,8996,4.7,96.731
+New York State,2005-2007,Month,2,AgeGroup,35+,8.397,8954,8.76,106.595
+New York State,2005-2007,Month,2,Total,Total,4.329,9023,4.72,107.417
+New York State,2005-2007,Month,3,AgeGroup,35+,9.008,9601,9.4,103.237
+New York State,2005-2007,Month,3,Total,Total,4.645,9675,5.06,104.032
+New York State,2005-2007,Month,4,AgeGroup,35+,8.4,8951,8.76,99.456
+New York State,2005-2007,Month,4,Total,Total,4.331,9021,4.72,100.233
+New York State,2005-2007,Month,5,AgeGroup,35+,8.676,9240,9.04,99.355
+New York State,2005-2007,Month,5,Total,Total,4.472,9309,4.87,100.097
+New York State,2005-2007,Month,6,AgeGroup,35+,8.098,8620,8.44,95.778
+New York State,2005-2007,Month,6,Total,Total,4.179,8694,4.55,96.6
+New York State,2005-2007,Month,7,AgeGroup,35+,7.996,8502,8.32,91.419
+New York State,2005-2007,Month,7,Total,Total,4.121,8564,4.48,92.086
+New York State,2005-2007,Month,8,AgeGroup,35+,8.065,8567,8.38,92.118
+New York State,2005-2007,Month,8,Total,Total,4.156,8629,4.51,92.785
+New York State,2005-2007,Month,9,AgeGroup,35+,7.836,8346,8.17,92.733
+New York State,2005-2007,Month,9,Total,Total,4.036,8403,4.39,93.367
+New York State,2006,AgeGroup,35+,Total,Total,33.478,35590,34.83,97.507
+New York State,2006,Month,1,AgeGroup,35+,3.008,3189,3.12,102.871
+New York State,2006,Month,1,Total,Total,1.55,3212,1.68,103.613
+New York State,2006,Month,10,AgeGroup,35+,2.896,3087,3.02,99.581
+New York State,2006,Month,10,Total,Total,1.491,3107,1.63,100.226
+New York State,2006,Month,11,AgeGroup,35+,2.616,2781,2.72,92.7
+New York State,2006,Month,11,Total,Total,1.348,2801,1.47,93.367
+New York State,2006,Month,12,AgeGroup,35+,2.747,2921,2.86,94.226
+New York State,2006,Month,12,Total,Total,1.415,2941,1.54,94.871
+New York State,2006,Month,2,AgeGroup,35+,2.723,2913,2.85,104.036
+New York State,2006,Month,2,Total,Total,1.403,2934,1.54,104.786
+New York State,2006,Month,3,AgeGroup,35+,2.974,3165,3.1,102.097
+New York State,2006,Month,3,Total,Total,1.532,3187,1.67,102.806
+New York State,2006,Month,4,AgeGroup,35+,2.823,2998,2.93,99.933
+New York State,2006,Month,4,Total,Total,1.453,3018,1.58,100.6
+New York State,2006,Month,5,AgeGroup,35+,2.975,3158,3.09,101.871
+New York State,2006,Month,5,Total,Total,1.534,3184,1.67,102.71
+New York State,2006,Month,6,AgeGroup,35+,2.718,2899,2.84,96.633
+New York State,2006,Month,6,Total,Total,1.401,2920,1.53,97.333
+New York State,2006,Month,7,AgeGroup,35+,2.624,2778,2.72,89.613
+New York State,2006,Month,7,Total,Total,1.351,2797,1.46,90.226
+New York State,2006,Month,8,AgeGroup,35+,2.712,2872,2.81,92.645
+New York State,2006,Month,8,Total,Total,1.399,2896,1.52,93.419
+New York State,2006,Month,9,AgeGroup,35+,2.663,2829,2.77,94.3
+New York State,2006,Month,9,Total,Total,1.37,2846,1.49,94.867
+New York State,2006,Total,,Total,Total,17.249,35843,18.76,98.2
+New York State,2006-2008,AgeGroup,35+,Total,Total,95.267,102609,100.01,93.621
+New York State,2006-2008,Month,1,AgeGroup,35+,8.382,9006,8.78,96.839
+New York State,2006-2008,Month,1,Total,Total,4.318,9068,4.74,97.505
+New York State,2006-2008,Month,10,AgeGroup,35+,8.211,8852,8.63,95.183
+New York State,2006-2008,Month,10,Total,Total,4.229,8911,4.65,95.817
+New York State,2006-2008,Month,11,AgeGroup,35+,7.505,8094,7.89,89.933
+New York State,2006-2008,Month,11,Total,Total,3.872,8160,4.26,90.667
+New York State,2006-2008,Month,12,AgeGroup,35+,7.955,8560,8.34,92.043
+New York State,2006-2008,Month,12,Total,Total,4.097,8618,4.5,92.667
+New York State,2006-2008,Month,2,AgeGroup,35+,7.882,8508,8.29,100.094
+New York State,2006-2008,Month,2,Total,Total,4.072,8589,4.49,101.047
+New York State,2006-2008,Month,3,AgeGroup,35+,8.529,9218,8.98,99.118
+New York State,2006-2008,Month,3,Total,Total,4.394,9282,4.85,99.806
+New York State,2006-2008,Month,4,AgeGroup,35+,7.91,8522,8.31,94.689
+New York State,2006-2008,Month,4,Total,Total,4.076,8585,4.48,95.389
+New York State,2006-2008,Month,5,AgeGroup,35+,8.266,8911,8.69,95.817
+New York State,2006-2008,Month,5,Total,Total,4.261,8978,4.69,96.538
+New York State,2006-2008,Month,6,AgeGroup,35+,7.641,8229,8.02,91.433
+New York State,2006-2008,Month,6,Total,Total,3.944,8300,4.33,92.222
+New York State,2006-2008,Month,7,AgeGroup,35+,7.722,8294,8.08,89.183
+New York State,2006-2008,Month,7,Total,Total,3.981,8356,4.36,89.849
+New York State,2006-2008,Month,8,AgeGroup,35+,7.743,8326,8.12,89.527
+New York State,2006-2008,Month,8,Total,Total,3.991,8387,4.38,90.183
+New York State,2006-2008,Month,9,AgeGroup,35+,7.52,8089,7.88,89.878
+New York State,2006-2008,Month,9,Total,Total,3.874,8147,4.25,90.522
+New York State,2007,AgeGroup,35+,Total,Total,30.914,33302,32.47,91.238
+New York State,2007,Month,1,AgeGroup,35+,2.815,3021,2.95,97.452
+New York State,2007,Month,1,Total,Total,1.451,3044,1.59,98.194
+New York State,2007,Month,10,AgeGroup,35+,2.572,2770,2.7,89.355
+New York State,2007,Month,10,Total,Total,1.328,2795,1.46,90.161
+New York State,2007,Month,11,AgeGroup,35+,2.362,2547,2.48,84.9
+New York State,2007,Month,11,Total,Total,1.221,2573,1.34,85.767
+New York State,2007,Month,12,AgeGroup,35+,2.422,2613,2.55,84.29
+New York State,2007,Month,12,Total,Total,1.244,2625,1.37,84.677
+New York State,2007,Month,2,AgeGroup,35+,2.567,2761,2.69,98.607
+New York State,2007,Month,2,Total,Total,1.325,2785,1.46,99.464
+New York State,2007,Month,3,AgeGroup,35+,2.844,3076,3,99.226
+New York State,2007,Month,3,Total,Total,1.467,3101,1.62,100.032
+New York State,2007,Month,4,AgeGroup,35+,2.575,2785,2.72,92.833
+New York State,2007,Month,4,Total,Total,1.329,2809,1.47,93.633
+New York State,2007,Month,5,AgeGroup,35+,2.622,2829,2.76,91.258
+New York State,2007,Month,5,Total,Total,1.35,2846,1.49,91.806
+New York State,2007,Month,6,AgeGroup,35+,2.5,2689,2.62,89.633
+New York State,2007,Month,6,Total,Total,1.293,2716,1.42,90.533
+New York State,2007,Month,7,AgeGroup,35+,2.655,2854,2.78,92.065
+New York State,2007,Month,7,Total,Total,1.372,2880,1.51,92.903
+New York State,2007,Month,8,AgeGroup,35+,2.59,2787,2.72,89.903
+New York State,2007,Month,8,Total,Total,1.335,2807,1.47,90.548
+New York State,2007,Month,9,AgeGroup,35+,2.39,2570,2.51,85.667
+New York State,2007,Month,9,Total,Total,1.232,2589,1.35,86.3
+New York State,2007,Total,,Total,Total,15.947,33570,17.55,91.973
+New York State,2007-2009,AgeGroup,35+,Total,Total,91.13,99493,96.52,90.778
+New York State,2007-2009,Month,1,AgeGroup,35+,8.033,8759,8.5,94.183
+New York State,2007-2009,Month,1,Total,Total,4.139,8820,4.59,94.839
+New York State,2007-2009,Month,10,AgeGroup,35+,7.754,8458,8.21,90.946
+New York State,2007-2009,Month,10,Total,Total,3.995,8519,4.43,91.602
+New York State,2007-2009,Month,11,AgeGroup,35+,7.282,7949,7.71,88.322
+New York State,2007-2009,Month,11,Total,Total,3.755,8010,4.17,89
+New York State,2007-2009,Month,12,AgeGroup,35+,7.803,8510,8.26,91.505
+New York State,2007-2009,Month,12,Total,Total,4.016,8562,4.46,92.065
+New York State,2007-2009,Month,2,AgeGroup,35+,7.44,8130,7.89,95.647
+New York State,2007-2009,Month,2,Total,Total,3.842,8205,4.27,96.529
+New York State,2007-2009,Month,3,AgeGroup,35+,8.068,8842,8.58,95.075
+New York State,2007-2009,Month,3,Total,Total,4.158,8905,4.63,95.753
+New York State,2007-2009,Month,4,AgeGroup,35+,7.539,8239,7.99,91.544
+New York State,2007-2009,Month,4,Total,Total,3.888,8304,4.32,92.267
+New York State,2007-2009,Month,5,AgeGroup,35+,7.786,8515,8.26,91.559
+New York State,2007-2009,Month,5,Total,Total,4.014,8578,4.46,92.237
+New York State,2007-2009,Month,6,AgeGroup,35+,7.331,7990,7.75,88.778
+New York State,2007-2009,Month,6,Total,Total,3.785,8061,4.19,89.567
+New York State,2007-2009,Month,7,AgeGroup,35+,7.533,8202,7.96,88.194
+New York State,2007-2009,Month,7,Total,Total,3.884,8264,4.3,88.86
+New York State,2007-2009,Month,8,AgeGroup,35+,7.361,8041,7.8,86.462
+New York State,2007-2009,Month,8,Total,Total,3.794,8100,4.21,87.097
+New York State,2007-2009,Month,9,AgeGroup,35+,7.2,7858,7.62,87.311
+New York State,2007-2009,Month,9,Total,Total,3.706,7907,4.11,87.856
+New York State,2008,AgeGroup,35+,Total,Total,30.913,33717,32.72,92.123
+New York State,2008,Month,1,AgeGroup,35+,2.564,2796,2.71,90.194
+New York State,2008,Month,1,Total,Total,1.319,2812,1.46,90.71
+New York State,2008,Month,10,AgeGroup,35+,2.745,2995,2.91,96.613
+New York State,2008,Month,10,Total,Total,1.411,3009,1.57,97.065
+New York State,2008,Month,11,AgeGroup,35+,2.53,2766,2.68,92.2
+New York State,2008,Month,11,Total,Total,1.303,2786,1.45,92.867
+New York State,2008,Month,12,AgeGroup,35+,2.785,3026,2.94,97.613
+New York State,2008,Month,12,Total,Total,1.437,3052,1.59,98.452
+New York State,2008,Month,2,AgeGroup,35+,2.599,2834,2.75,97.724
+New York State,2008,Month,2,Total,Total,1.347,2870,1.49,98.966
+New York State,2008,Month,3,AgeGroup,35+,2.714,2977,2.89,96.032
+New York State,2008,Month,3,Total,Total,1.396,2994,1.56,96.581
+New York State,2008,Month,4,AgeGroup,35+,2.517,2739,2.66,91.3
+New York State,2008,Month,4,Total,Total,1.297,2758,1.44,91.933
+New York State,2008,Month,5,AgeGroup,35+,2.672,2924,2.84,94.323
+New York State,2008,Month,5,Total,Total,1.378,2948,1.53,95.097
+New York State,2008,Month,6,AgeGroup,35+,2.432,2641,2.56,88.033
+New York State,2008,Month,6,Total,Total,1.255,2664,1.39,88.8
+New York State,2008,Month,7,AgeGroup,35+,2.442,2662,2.58,85.871
+New York State,2008,Month,7,Total,Total,1.257,2679,1.39,86.419
+New York State,2008,Month,8,AgeGroup,35+,2.444,2667,2.59,86.032
+New York State,2008,Month,8,Total,Total,1.258,2684,1.4,86.581
+New York State,2008,Month,9,AgeGroup,35+,2.47,2690,2.61,89.667
+New York State,2008,Month,9,Total,Total,1.274,2712,1.41,90.4
+New York State,2008,Total,,Total,Total,15.933,33968,17.68,92.809
+New York State,2008-2010,AgeGroup,35+,Total,Total,88.739,98279,94.83,89.671
+New York State,2008-2010,Month,1,AgeGroup,35+,7.644,8465,8.17,91.022
+New York State,2008-2010,Month,1,Total,Total,3.94,8528,4.42,91.699
+New York State,2008-2010,Month,10,AgeGroup,35+,7.664,8484,8.19,91.226
+New York State,2008-2010,Month,10,Total,Total,3.945,8536,4.42,91.785
+New York State,2008-2010,Month,11,AgeGroup,35+,7.249,8026,7.74,89.178
+New York State,2008-2010,Month,11,Total,Total,3.736,8084,4.19,89.822
+New York State,2008-2010,Month,12,AgeGroup,35+,7.994,8853,8.54,95.194
+New York State,2008-2010,Month,12,Total,Total,4.12,8918,4.62,95.892
+New York State,2008-2010,Month,2,AgeGroup,35+,7.151,7926,7.65,93.247
+New York State,2008-2010,Month,2,Total,Total,3.691,7995,4.14,94.059
+New York State,2008-2010,Month,3,AgeGroup,35+,7.701,8551,8.25,91.946
+New York State,2008-2010,Month,3,Total,Total,3.965,8606,4.46,92.538
+New York State,2008-2010,Month,4,AgeGroup,35+,7.315,8084,7.8,89.822
+New York State,2008-2010,Month,4,Total,Total,3.779,8159,4.23,90.656
+New York State,2008-2010,Month,5,AgeGroup,35+,7.55,8373,8.08,90.032
+New York State,2008-2010,Month,5,Total,Total,3.897,8446,4.37,90.817
+New York State,2008-2010,Month,6,AgeGroup,35+,7.077,7817,7.54,86.856
+New York State,2008-2010,Month,6,Total,Total,3.655,7888,4.09,87.644
+New York State,2008-2010,Month,7,AgeGroup,35+,7.242,8010,7.73,86.129
+New York State,2008-2010,Month,7,Total,Total,3.726,8056,4.17,86.624
+New York State,2008-2010,Month,8,AgeGroup,35+,7.057,7827,7.55,84.161
+New York State,2008-2010,Month,8,Total,Total,3.637,7884,4.08,84.774
+New York State,2008-2010,Month,9,AgeGroup,35+,7.095,7863,7.59,87.367
+New York State,2008-2010,Month,9,Total,Total,3.658,7924,4.1,88.044
+New York State,2009,AgeGroup,35+,Total,Total,29.32,32474,31.34,88.97
+New York State,2009,Month,1,AgeGroup,35+,2.654,2942,2.84,94.903
+New York State,2009,Month,1,Total,Total,1.368,2964,1.54,95.613
+New York State,2009,Month,10,AgeGroup,35+,2.439,2693,2.6,86.871
+New York State,2009,Month,10,Total,Total,1.258,2715,1.41,87.581
+New York State,2009,Month,11,AgeGroup,35+,2.392,2636,2.54,87.867
+New York State,2009,Month,11,Total,Total,1.231,2651,1.37,88.367
+New York State,2009,Month,12,AgeGroup,35+,2.595,2871,2.77,92.613
+New York State,2009,Month,12,Total,Total,1.334,2885,1.49,93.065
+New York State,2009,Month,2,AgeGroup,35+,2.276,2535,2.45,90.536
+New York State,2009,Month,2,Total,Total,1.171,2550,1.32,91.071
+New York State,2009,Month,3,AgeGroup,35+,2.516,2789,2.69,89.968
+New York State,2009,Month,3,Total,Total,1.297,2810,1.46,90.645
+New York State,2009,Month,4,AgeGroup,35+,2.449,2715,2.62,90.5
+New York State,2009,Month,4,Total,Total,1.264,2737,1.42,91.233
+New York State,2009,Month,5,AgeGroup,35+,2.495,2762,2.67,89.097
+New York State,2009,Month,5,Total,Total,1.287,2784,1.44,89.806
+New York State,2009,Month,6,AgeGroup,35+,2.398,2660,2.57,88.667
+New York State,2009,Month,6,Total,Total,1.237,2681,1.39,89.367
+New York State,2009,Month,7,AgeGroup,35+,2.437,2686,2.59,86.645
+New York State,2009,Month,7,Total,Total,1.256,2705,1.4,87.258
+New York State,2009,Month,8,AgeGroup,35+,2.329,2587,2.5,83.452
+New York State,2009,Month,8,Total,Total,1.202,2609,1.35,84.161
+New York State,2009,Month,9,AgeGroup,35+,2.339,2598,2.51,86.6
+New York State,2009,Month,9,Total,Total,1.2,2606,1.35,86.867
+New York State,2009,Total,,Total,Total,15.104,32697,16.94,89.581
+New York State,2009-2011,AgeGroup,35+,Total,Total,85.277,95836,91.92,87.521
+New York State,2009-2011,Month,1,AgeGroup,35+,7.623,8574,8.22,92.194
+New York State,2009-2011,Month,1,Total,Total,3.928,8635,4.45,92.849
+New York State,2009-2011,Month,10,AgeGroup,35+,7.245,8130,7.8,87.419
+New York State,2009-2011,Month,10,Total,Total,3.732,8186,4.22,88.022
+New York State,2009-2011,Month,11,AgeGroup,35+,7.026,7888,7.57,87.644
+New York State,2009-2011,Month,11,Total,Total,3.621,7945,4.09,88.278
+New York State,2009-2011,Month,12,AgeGroup,35+,7.515,8453,8.11,90.892
+New York State,2009-2011,Month,12,Total,Total,3.879,8525,4.39,91.667
+New York State,2009-2011,Month,2,AgeGroup,35+,6.753,7601,7.29,90.488
+New York State,2009-2011,Month,2,Total,Total,3.481,7658,3.95,91.167
+New York State,2009-2011,Month,3,AgeGroup,35+,7.44,8365,8.02,89.946
+New York State,2009-2011,Month,3,Total,Total,3.835,8427,4.34,90.613
+New York State,2009-2011,Month,4,AgeGroup,35+,7.019,7898,7.58,87.756
+New York State,2009-2011,Month,4,Total,Total,3.626,7971,4.11,88.567
+New York State,2009-2011,Month,5,AgeGroup,35+,7.403,8304,7.96,89.29
+New York State,2009-2011,Month,5,Total,Total,3.823,8379,4.32,90.097
+New York State,2009-2011,Month,6,AgeGroup,35+,6.828,7662,7.35,85.133
+New York State,2009-2011,Month,6,Total,Total,3.526,7731,3.98,85.9
+New York State,2009-2011,Month,7,AgeGroup,35+,6.9,7741,7.42,83.237
+New York State,2009-2011,Month,7,Total,Total,3.554,7793,4.02,83.796
+New York State,2009-2011,Month,8,AgeGroup,35+,6.753,7605,7.29,81.774
+New York State,2009-2011,Month,8,Total,Total,3.482,7664,3.95,82.409
+New York State,2009-2011,Month,9,AgeGroup,35+,6.77,7615,7.3,84.611
+New York State,2009-2011,Month,9,Total,Total,3.492,7675,3.96,85.278
+New York State,2010,AgeGroup,35+,Total,Total,28.537,32088,30.77,87.912
+New York State,2010,Month,1,AgeGroup,35+,2.426,2727,2.62,87.968
+New York State,2010,Month,1,Total,Total,1.253,2752,1.42,88.774
+New York State,2010,Month,10,AgeGroup,35+,2.483,2796,2.68,90.194
+New York State,2010,Month,10,Total,Total,1.277,2812,1.45,90.71
+New York State,2010,Month,11,AgeGroup,35+,2.33,2624,2.52,87.467
+New York State,2010,Month,11,Total,Total,1.203,2647,1.36,88.233
+New York State,2010,Month,12,AgeGroup,35+,2.614,2956,2.84,95.355
+New York State,2010,Month,12,Total,Total,1.349,2981,1.54,96.161
+New York State,2010,Month,2,AgeGroup,35+,2.28,2557,2.45,91.321
+New York State,2010,Month,2,Total,Total,1.175,2575,1.33,91.964
+New York State,2010,Month,3,AgeGroup,35+,2.475,2785,2.67,89.839
+New York State,2010,Month,3,Total,Total,1.274,2802,1.44,90.387
+New York State,2010,Month,4,AgeGroup,35+,2.35,2630,2.52,87.667
+New York State,2010,Month,4,Total,Total,1.219,2664,1.37,88.8
+New York State,2010,Month,5,AgeGroup,35+,2.389,2687,2.58,86.677
+New York State,2010,Month,5,Total,Total,1.235,2714,1.4,87.548
+New York State,2010,Month,6,AgeGroup,35+,2.249,2516,2.41,83.867
+New York State,2010,Month,6,Total,Total,1.164,2543,1.31,84.767
+New York State,2010,Month,7,AgeGroup,35+,2.364,2662,2.55,85.871
+New York State,2010,Month,7,Total,Total,1.214,2672,1.38,86.194
+New York State,2010,Month,8,AgeGroup,35+,2.287,2573,2.47,83
+New York State,2010,Month,8,Total,Total,1.178,2591,1.34,83.581
+New York State,2010,Month,9,AgeGroup,35+,2.29,2575,2.47,85.833
+New York State,2010,Month,9,Total,Total,1.187,2606,1.34,86.867
+New York State,2010,Total,,Total,Total,14.728,32359,16.68,88.655
+New York State,2010-2012,AgeGroup,35+,Total,Total,83.904,95791,91.3,87.401
+New York State,2010-2012,Month,1,AgeGroup,35+,7.316,8369,7.98,89.989
+New York State,2010-2012,Month,1,Total,Total,3.771,8431,4.33,90.656
+New York State,2010-2012,Month,10,AgeGroup,35+,7.197,8204,7.82,88.215
+New York State,2010-2012,Month,10,Total,Total,3.705,8255,4.24,88.763
+New York State,2010-2012,Month,11,AgeGroup,35+,7.101,8113,7.73,90.144
+New York State,2010-2012,Month,11,Total,Total,3.665,8181,4.2,90.9
+New York State,2010-2012,Month,12,AgeGroup,35+,7.517,8596,8.19,92.43
+New York State,2010-2012,Month,12,Total,Total,3.882,8672,4.45,93.247
+New York State,2010-2012,Month,2,AgeGroup,35+,6.674,7623,7.27,89.682
+New York State,2010-2012,Month,2,Total,Total,3.444,7687,3.94,90.435
+New York State,2010-2012,Month,3,AgeGroup,35+,7.354,8392,8,90.237
+New York State,2010-2012,Month,3,Total,Total,3.792,8456,4.34,90.925
+New York State,2010-2012,Month,4,AgeGroup,35+,6.816,7781,7.42,86.456
+New York State,2010-2012,Month,4,Total,Total,3.521,7853,4.03,87.256
+New York State,2010-2012,Month,5,AgeGroup,35+,7.274,8291,7.9,89.151
+New York State,2010-2012,Month,5,Total,Total,3.755,8363,4.29,89.925
+New York State,2010-2012,Month,6,AgeGroup,35+,6.671,7592,7.24,84.356
+New York State,2010-2012,Month,6,Total,Total,3.445,7662,3.93,85.133
+New York State,2010-2012,Month,7,AgeGroup,35+,6.747,7707,7.35,82.871
+New York State,2010-2012,Month,7,Total,Total,3.473,7756,3.98,83.398
+New York State,2010-2012,Month,8,AgeGroup,35+,6.591,7544,7.19,81.118
+New York State,2010-2012,Month,8,Total,Total,3.397,7598,3.9,81.699
+New York State,2010-2012,Month,9,AgeGroup,35+,6.646,7579,7.22,84.211
+New York State,2010-2012,Month,9,Total,Total,3.434,7652,3.93,85.022
+New York State,2011,AgeGroup,35+,Total,Total,27.451,31274,29.81,85.682
+New York State,2011,Month,1,AgeGroup,35+,2.546,2905,2.77,93.71
+New York State,2011,Month,1,Total,Total,1.308,2919,1.5,94.161
+New York State,2011,Month,10,AgeGroup,35+,2.324,2641,2.52,85.194
+New York State,2011,Month,10,Total,Total,1.197,2659,1.36,85.774
+New York State,2011,Month,11,AgeGroup,35+,2.304,2628,2.5,87.6
+New York State,2011,Month,11,Total,Total,1.187,2647,1.36,88.233
+New York State,2011,Month,12,AgeGroup,35+,2.31,2626,2.5,84.71
+New York State,2011,Month,12,Total,Total,1.198,2659,1.36,85.774
+New York State,2011,Month,2,AgeGroup,35+,2.2,2509,2.39,89.607
+New York State,2011,Month,2,Total,Total,1.137,2533,1.3,90.464
+New York State,2011,Month,3,AgeGroup,35+,2.451,2791,2.66,90.032
+New York State,2011,Month,3,Total,Total,1.265,2815,1.44,90.806
+New York State,2011,Month,4,AgeGroup,35+,2.223,2553,2.43,85.1
+New York State,2011,Month,4,Total,Total,1.145,2570,1.32,85.667
+New York State,2011,Month,5,AgeGroup,35+,2.519,2855,2.72,92.097
+New York State,2011,Month,5,Total,Total,1.301,2881,1.48,92.935
+New York State,2011,Month,6,AgeGroup,35+,2.185,2486,2.37,82.867
+New York State,2011,Month,6,Total,Total,1.128,2507,1.29,83.567
+New York State,2011,Month,7,AgeGroup,35+,2.103,2393,2.28,77.194
+New York State,2011,Month,7,Total,Total,1.086,2416,1.24,77.935
+New York State,2011,Month,8,AgeGroup,35+,2.14,2445,2.33,78.871
+New York State,2011,Month,8,Total,Total,1.104,2464,1.26,79.484
+New York State,2011,Month,9,AgeGroup,35+,2.145,2442,2.33,81.4
+New York State,2011,Month,9,Total,Total,1.107,2463,1.26,82.1
+New York State,2011,Total,,Total,Total,14.163,31533,16.17,86.392
+New York State,2011-2013,AgeGroup,35+,Total,Total,81.444,94402,89.44,86.133
+New York State,2011-2013,Month,1,AgeGroup,35+,7.41,8624,8.17,92.731
+New York State,2011-2013,Month,1,Total,Total,3.815,8679,4.44,93.323
+New York State,2011-2013,Month,10,AgeGroup,35+,6.918,8003,7.58,86.054
+New York State,2011-2013,Month,10,Total,Total,3.561,8054,4.12,86.602
+New York State,2011-2013,Month,11,AgeGroup,35+,6.827,7922,7.51,88.022
+New York State,2011-2013,Month,11,Total,Total,3.522,7986,4.08,88.733
+New York State,2011-2013,Month,12,AgeGroup,35+,7.177,8305,7.87,89.301
+New York State,2011-2013,Month,12,Total,Total,3.706,8377,4.28,90.075
+New York State,2011-2013,Month,2,AgeGroup,35+,6.375,7416,7.03,87.247
+New York State,2011-2013,Month,2,Total,Total,3.291,7480,3.82,88
+New York State,2011-2013,Month,3,AgeGroup,35+,7.043,8151,7.72,87.645
+New York State,2011-2013,Month,3,Total,Total,3.631,8214,4.2,88.323
+New York State,2011-2013,Month,4,AgeGroup,35+,6.641,7696,7.29,85.511
+New York State,2011-2013,Month,4,Total,Total,3.427,7761,3.97,86.233
+New York State,2011-2013,Month,5,AgeGroup,35+,7.224,8343,7.9,89.71
+New York State,2011-2013,Month,5,Total,Total,3.729,8415,4.3,90.484
+New York State,2011-2013,Month,6,AgeGroup,35+,6.429,7451,7.06,82.789
+New York State,2011-2013,Month,6,Total,Total,3.315,7509,3.84,83.433
+New York State,2011-2013,Month,7,AgeGroup,35+,6.469,7495,7.1,80.591
+New York State,2011-2013,Month,7,Total,Total,3.332,7547,3.86,81.151
+New York State,2011-2013,Month,8,AgeGroup,35+,6.434,7488,7.09,80.516
+New York State,2011-2013,Month,8,Total,Total,3.317,7543,3.85,81.108
+New York State,2011-2013,Month,9,AgeGroup,35+,6.496,7508,7.11,83.422
+New York State,2011-2013,Month,9,Total,Total,3.347,7561,3.86,84.011
+New York State,2012,AgeGroup,35+,Total,Total,27.93,32429,30.71,88.604
+New York State,2012,Month,1,AgeGroup,35+,2.346,2737,2.59,88.29
+New York State,2012,Month,1,Total,Total,1.211,2760,1.41,89.032
+New York State,2012,Month,10,AgeGroup,35+,2.393,2767,2.62,89.258
+New York State,2012,Month,10,Total,Total,1.231,2784,1.42,89.806
+New York State,2012,Month,11,AgeGroup,35+,2.466,2861,2.71,95.367
+New York State,2012,Month,11,Total,Total,1.274,2887,1.47,96.233
+New York State,2012,Month,12,AgeGroup,35+,2.594,3014,2.85,97.226
+New York State,2012,Month,12,Total,Total,1.335,3032,1.55,97.806
+New York State,2012,Month,2,AgeGroup,35+,2.196,2557,2.42,88.172
+New York State,2012,Month,2,Total,Total,1.134,2579,1.32,88.931
+New York State,2012,Month,3,AgeGroup,35+,2.43,2816,2.67,90.839
+New York State,2012,Month,3,Total,Total,1.254,2839,1.45,91.581
+New York State,2012,Month,4,AgeGroup,35+,2.244,2598,2.46,86.6
+New York State,2012,Month,4,Total,Total,1.158,2619,1.34,87.3
+New York State,2012,Month,5,AgeGroup,35+,2.367,2749,2.6,88.677
+New York State,2012,Month,5,Total,Total,1.219,2768,1.41,89.29
+New York State,2012,Month,6,AgeGroup,35+,2.236,2590,2.45,86.333
+New York State,2012,Month,6,Total,Total,1.154,2612,1.33,87.067
+New York State,2012,Month,7,AgeGroup,35+,2.281,2652,2.51,85.548
+New York State,2012,Month,7,Total,Total,1.174,2668,1.36,86.065
+New York State,2012,Month,8,AgeGroup,35+,2.165,2526,2.39,81.484
+New York State,2012,Month,8,Total,Total,1.115,2543,1.3,82.032
+New York State,2012,Month,9,AgeGroup,35+,2.212,2562,2.43,85.4
+New York State,2012,Month,9,Total,Total,1.141,2583,1.32,86.1
+New York State,2012,Total,,Total,Total,14.399,32674,16.69,89.273
+New York State,2012-2014,AgeGroup,35+,Total,Total,79.507,93672,88.25,85.467
+New York State,2012-2014,Month,1,AgeGroup,35+,7.178,8484,7.99,91.226
+New York State,2012-2014,Month,1,Total,Total,3.695,8537,4.35,91.796
+New York State,2012-2014,Month,10,AgeGroup,35+,6.709,7906,7.45,85.011
+New York State,2012-2014,Month,10,Total,Total,3.453,7954,4.05,85.527
+New York State,2012-2014,Month,11,AgeGroup,35+,6.586,7767,7.32,86.3
+New York State,2012-2014,Month,11,Total,Total,3.396,7827,3.99,86.967
+New York State,2012-2014,Month,12,AgeGroup,35+,7.041,8301,7.82,89.258
+New York State,2012-2014,Month,12,Total,Total,3.628,8359,4.26,89.882
+New York State,2012-2014,Month,2,AgeGroup,35+,6.24,7366,6.94,86.659
+New York State,2012-2014,Month,2,Total,Total,3.213,7414,3.78,87.224
+New York State,2012-2014,Month,3,AgeGroup,35+,6.756,7939,7.48,85.366
+New York State,2012-2014,Month,3,Total,Total,3.478,7988,4.07,85.892
+New York State,2012-2014,Month,4,AgeGroup,35+,6.597,7757,7.31,86.189
+New York State,2012-2014,Month,4,Total,Total,3.402,7816,3.98,86.844
+New York State,2012-2014,Month,5,AgeGroup,35+,6.825,8030,7.56,86.344
+New York State,2012-2014,Month,5,Total,Total,3.525,8102,4.13,87.118
+New York State,2012-2014,Month,6,AgeGroup,35+,6.352,7481,7.05,83.122
+New York State,2012-2014,Month,6,Total,Total,3.275,7540,3.84,83.778
+New York State,2012-2014,Month,7,AgeGroup,35+,6.476,7603,7.16,81.753
+New York State,2012-2014,Month,7,Total,Total,3.331,7646,3.9,82.215
+New York State,2012-2014,Month,8,AgeGroup,35+,6.266,7417,6.99,79.753
+New York State,2012-2014,Month,8,Total,Total,3.229,7471,3.81,80.333
+New York State,2012-2014,Month,9,AgeGroup,35+,6.481,7621,7.18,84.678
+New York State,2012-2014,Month,9,Total,Total,3.338,7672,3.91,85.244
+New York State,2013,AgeGroup,35+,Total,Total,26.09,30699,28.92,84.107
+New York State,2013,Month,1,AgeGroup,35+,2.518,2982,2.81,96.194
+New York State,2013,Month,1,Total,Total,1.296,3000,1.53,96.774
+New York State,2013,Month,10,AgeGroup,35+,2.204,2595,2.44,83.71
+New York State,2013,Month,10,Total,Total,1.135,2611,1.33,84.226
+New York State,2013,Month,11,AgeGroup,35+,2.062,2433,2.29,81.1
+New York State,2013,Month,11,Total,Total,1.063,2452,1.25,81.733
+New York State,2013,Month,12,AgeGroup,35+,2.273,2665,2.51,85.968
+New York State,2013,Month,12,Total,Total,1.172,2686,1.37,86.645
+New York State,2013,Month,2,AgeGroup,35+,1.983,2350,2.21,83.929
+New York State,2013,Month,2,Total,Total,1.022,2368,1.21,84.571
+New York State,2013,Month,3,AgeGroup,35+,2.165,2544,2.4,82.065
+New York State,2013,Month,3,Total,Total,1.114,2560,1.3,82.581
+New York State,2013,Month,4,AgeGroup,35+,2.175,2545,2.4,84.833
+New York State,2013,Month,4,Total,Total,1.125,2572,1.31,85.733
+New York State,2013,Month,5,AgeGroup,35+,2.341,2739,2.58,88.355
+New York State,2013,Month,5,Total,Total,1.21,2766,1.41,89.226
+New York State,2013,Month,6,AgeGroup,35+,2.013,2375,2.24,79.167
+New York State,2013,Month,6,Total,Total,1.036,2390,1.22,79.667
+New York State,2013,Month,7,AgeGroup,35+,2.087,2450,2.31,79.032
+New York State,2013,Month,7,Total,Total,1.073,2463,1.25,79.452
+New York State,2013,Month,8,AgeGroup,35+,2.129,2517,2.37,81.194
+New York State,2013,Month,8,Total,Total,1.098,2536,1.29,81.806
+New York State,2013,Month,9,AgeGroup,35+,2.141,2504,2.36,83.467
+New York State,2013,Month,9,Total,Total,1.099,2515,1.28,83.833
+New York State,2013,Total,,Total,Total,13.445,30919,15.75,84.71
+New York State,2013-2015,AgeGroup,35+,Total,Total,76.685,91588,85.84,83.642
+New York State,2013-2015,Month,1,AgeGroup,35+,7.081,8485,7.95,91.237
+New York State,2013-2015,Month,1,Total,Total,3.643,8533,4.34,91.753
+New York State,2013-2015,Month,10,AgeGroup,35+,6.434,7702,7.22,82.817
+New York State,2013-2015,Month,10,Total,Total,3.312,7751,3.94,83.344
+New York State,2013-2015,Month,11,AgeGroup,35+,6.167,7382,6.92,82.022
+New York State,2013-2015,Month,11,Total,Total,3.175,7429,3.78,82.544
+New York State,2013-2015,Month,12,AgeGroup,35+,6.628,7936,7.44,85.333
+New York State,2013-2015,Month,12,Total,Total,3.417,7993,4.07,85.946
+New York State,2013-2015,Month,2,AgeGroup,35+,6.064,7263,6.81,86.464
+New York State,2013-2015,Month,2,Total,Total,3.123,7311,3.72,87.036
+New York State,2013-2015,Month,3,AgeGroup,35+,6.547,7800,7.31,83.871
+New York State,2013-2015,Month,3,Total,Total,3.37,7847,3.99,84.376
+New York State,2013-2015,Month,4,AgeGroup,35+,6.393,7628,7.15,84.756
+New York State,2013-2015,Month,4,Total,Total,3.295,7684,3.91,85.378
+New York State,2013-2015,Month,5,AgeGroup,35+,6.545,7818,7.33,84.065
+New York State,2013-2015,Month,5,Total,Total,3.386,7900,4.02,84.946
+New York State,2013-2015,Month,6,AgeGroup,35+,6.189,7390,6.93,82.111
+New York State,2013-2015,Month,6,Total,Total,3.194,7453,3.79,82.811
+New York State,2013-2015,Month,7,AgeGroup,35+,6.222,7390,6.93,79.462
+New York State,2013-2015,Month,7,Total,Total,3.203,7437,3.79,79.968
+New York State,2013-2015,Month,8,AgeGroup,35+,6.111,7299,6.84,78.484
+New York State,2013-2015,Month,8,Total,Total,3.15,7353,3.74,79.065
+New York State,2013-2015,Month,9,AgeGroup,35+,6.304,7495,7.02,83.278
+New York State,2013-2015,Month,9,Total,Total,3.244,7539,3.84,83.767
+New York State,2014,AgeGroup,35+,Total,Total,25.525,30544,28.63,83.682
+New York State,2014,Month,1,AgeGroup,35+,2.315,2765,2.59,89.194
+New York State,2014,Month,1,Total,Total,1.189,2777,1.41,89.581
+New York State,2014,Month,10,AgeGroup,35+,2.113,2544,2.38,82.065
+New York State,2014,Month,10,Total,Total,1.087,2559,1.3,82.548
+New York State,2014,Month,11,AgeGroup,35+,2.064,2473,2.32,82.433
+New York State,2014,Month,11,Total,Total,1.062,2488,1.27,82.933
+New York State,2014,Month,12,AgeGroup,35+,2.182,2622,2.46,84.581
+New York State,2014,Month,12,Total,Total,1.125,2641,1.34,85.194
+New York State,2014,Month,2,AgeGroup,35+,2.063,2459,2.3,87.821
+New York State,2014,Month,2,Total,Total,1.058,2467,1.26,88.107
+New York State,2014,Month,3,AgeGroup,35+,2.165,2579,2.42,83.194
+New York State,2014,Month,3,Total,Total,1.111,2589,1.32,83.516
+New York State,2014,Month,4,AgeGroup,35+,2.178,2614,2.45,87.133
+New York State,2014,Month,4,Total,Total,1.119,2625,1.34,87.5
+New York State,2014,Month,5,AgeGroup,35+,2.121,2542,2.38,82
+New York State,2014,Month,5,Total,Total,1.097,2568,1.31,82.839
+New York State,2014,Month,6,AgeGroup,35+,2.108,2516,2.36,83.867
+New York State,2014,Month,6,Total,Total,1.088,2538,1.29,84.6
+New York State,2014,Month,7,AgeGroup,35+,2.112,2501,2.34,80.677
+New York State,2014,Month,7,Total,Total,1.086,2515,1.28,81.129
+New York State,2014,Month,8,AgeGroup,35+,1.974,2374,2.22,76.581
+New York State,2014,Month,8,Total,Total,1.018,2392,1.22,77.161
+New York State,2014,Month,9,AgeGroup,35+,2.131,2555,2.39,85.167
+New York State,2014,Month,9,Total,Total,1.099,2574,1.31,85.8
+New York State,2014,Total,,Total,Total,13.14,30733,15.64,84.2
+New York State,2014-2016,AgeGroup,35+,Total,Total,76.57,92684,86.48,84.566
+New York State,2014-2016,Month,1,AgeGroup,35+,6.842,8278,7.72,89.011
+New York State,2014-2016,Month,1,Total,Total,3.519,8322,4.23,89.484
+New York State,2014-2016,Month,10,AgeGroup,35+,6.368,7709,7.19,82.892
+New York State,2014-2016,Month,10,Total,Total,3.28,7760,3.95,83.441
+New York State,2014-2016,Month,11,AgeGroup,35+,6.236,7580,7.07,84.222
+New York State,2014-2016,Month,11,Total,Total,3.212,7630,3.88,84.778
+New York State,2014-2016,Month,12,AgeGroup,35+,6.69,8125,7.58,87.366
+New York State,2014-2016,Month,12,Total,Total,3.447,8181,4.16,87.968
+New York State,2014-2016,Month,2,AgeGroup,35+,6.133,7439,6.94,87.518
+New York State,2014-2016,Month,2,Total,Total,3.158,7486,3.81,88.071
+New York State,2014-2016,Month,3,AgeGroup,35+,6.696,8098,7.56,87.075
+New York State,2014-2016,Month,3,Total,Total,3.448,8151,4.15,87.645
+New York State,2014-2016,Month,4,AgeGroup,35+,6.329,7662,7.15,85.133
+New York State,2014-2016,Month,4,Total,Total,3.259,7710,3.92,85.667
+New York State,2014-2016,Month,5,AgeGroup,35+,6.453,7836,7.31,84.258
+New York State,2014-2016,Month,5,Total,Total,3.336,7913,4.03,85.086
+New York State,2014-2016,Month,6,AgeGroup,35+,6.24,7545,7.04,83.833
+New York State,2014-2016,Month,6,Total,Total,3.223,7614,3.87,84.6
+New York State,2014-2016,Month,7,AgeGroup,35+,6.248,7523,7.02,80.892
+New York State,2014-2016,Month,7,Total,Total,3.217,7571,3.85,81.409
+New York State,2014-2016,Month,8,AgeGroup,35+,6.108,7366,6.87,79.204
+New York State,2014-2016,Month,8,Total,Total,3.148,7420,3.78,79.785
+New York State,2014-2016,Month,9,AgeGroup,35+,6.227,7523,7.02,83.589
+New York State,2014-2016,Month,9,Total,Total,3.212,7582,3.86,84.244
+New York State,2015,AgeGroup,35+,Total,Total,25.094,30345,28.3,83.137
+New York State,2015,Month,1,AgeGroup,35+,2.254,2738,2.55,88.323
+New York State,2015,Month,1,Total,Total,1.161,2756,1.4,88.903
+New York State,2015,Month,10,AgeGroup,35+,2.119,2563,2.39,82.677
+New York State,2015,Month,10,Total,Total,1.092,2581,1.31,83.258
+New York State,2015,Month,11,AgeGroup,35+,2.041,2476,2.31,82.533
+New York State,2015,Month,11,Total,Total,1.05,2489,1.27,82.967
+New York State,2015,Month,12,AgeGroup,35+,2.177,2649,2.47,85.452
+New York State,2015,Month,12,Total,Total,1.121,2666,1.36,86
+New York State,2015,Month,2,AgeGroup,35+,2.019,2454,2.29,87.643
+New York State,2015,Month,2,Total,Total,1.042,2476,1.26,88.429
+New York State,2015,Month,3,AgeGroup,35+,2.218,2677,2.5,86.355
+New York State,2015,Month,3,Total,Total,1.144,2698,1.37,87.032
+New York State,2015,Month,4,AgeGroup,35+,2.041,2469,2.3,82.3
+New York State,2015,Month,4,Total,Total,1.052,2487,1.26,82.9
+New York State,2015,Month,5,AgeGroup,35+,2.088,2537,2.37,81.839
+New York State,2015,Month,5,Total,Total,1.082,2566,1.31,82.774
+New York State,2015,Month,6,AgeGroup,35+,2.068,2499,2.33,83.3
+New York State,2015,Month,6,Total,Total,1.07,2525,1.28,84.167
+New York State,2015,Month,7,AgeGroup,35+,2.024,2439,2.27,78.677
+New York State,2015,Month,7,Total,Total,1.044,2459,1.25,79.323
+New York State,2015,Month,8,AgeGroup,35+,2.011,2408,2.25,77.677
+New York State,2015,Month,8,Total,Total,1.036,2425,1.23,78.226
+New York State,2015,Month,9,AgeGroup,35+,2.035,2436,2.27,81.2
+New York State,2015,Month,9,Total,Total,1.047,2450,1.25,81.667
+New York State,2015,Total,,Total,Total,12.941,30578,15.55,83.775
+New York State,2015-2017,AgeGroup,35+,Total,Total,76.392,93493,86.95,85.304
+New York State,2015-2017,Month,1,AgeGroup,35+,6.788,8300,7.72,89.247
+New York State,2015-2017,Month,1,Total,Total,3.498,8358,4.26,89.871
+New York State,2015-2017,Month,10,AgeGroup,35+,6.365,7764,7.22,83.484
+New York State,2015-2017,Month,10,Total,Total,3.28,7819,3.98,84.075
+New York State,2015-2017,Month,11,AgeGroup,35+,6.315,7758,7.21,86.2
+New York State,2015-2017,Month,11,Total,Total,3.253,7809,3.98,86.767
+New York State,2015-2017,Month,12,AgeGroup,35+,6.605,8103,7.54,87.129
+New York State,2015-2017,Month,12,Total,Total,3.406,8164,4.16,87.785
+New York State,2015-2017,Month,2,AgeGroup,35+,6.102,7515,6.99,88.412
+New York State,2015-2017,Month,2,Total,Total,3.149,7577,3.86,89.141
+New York State,2015-2017,Month,3,AgeGroup,35+,6.796,8311,7.73,89.366
+New York State,2015-2017,Month,3,Total,Total,3.504,8374,4.27,90.043
+New York State,2015-2017,Month,4,AgeGroup,35+,6.288,7679,7.14,85.322
+New York State,2015-2017,Month,4,Total,Total,3.244,7740,3.94,86
+New York State,2015-2017,Month,5,AgeGroup,35+,6.53,8015,7.45,86.183
+New York State,2015-2017,Month,5,Total,Total,3.376,8092,4.12,87.011
+New York State,2015-2017,Month,6,AgeGroup,35+,6.199,7575,7.04,84.167
+New York State,2015-2017,Month,6,Total,Total,3.202,7642,3.89,84.911
+New York State,2015-2017,Month,7,AgeGroup,35+,6.147,7522,7,80.882
+New York State,2015-2017,Month,7,Total,Total,3.17,7579,3.86,81.495
+New York State,2015-2017,Month,8,AgeGroup,35+,6.144,7486,6.96,80.495
+New York State,2015-2017,Month,8,Total,Total,3.169,7545,3.84,81.129
+New York State,2015-2017,Month,9,AgeGroup,35+,6.113,7465,6.94,82.944
+New York State,2015-2017,Month,9,Total,Total,3.152,7522,3.83,83.578
+New York State,2016,AgeGroup,35+,Total,Total,25.954,31795,29.56,86.872
+New York State,2016,Month,1,AgeGroup,35+,2.274,2775,2.58,89.516
+New York State,2016,Month,1,Total,Total,1.169,2789,1.42,89.968
+New York State,2016,Month,10,AgeGroup,35+,2.137,2602,2.42,83.935
+New York State,2016,Month,10,Total,Total,1.101,2620,1.33,84.516
+New York State,2016,Month,11,AgeGroup,35+,2.13,2631,2.45,87.7
+New York State,2016,Month,11,Total,Total,1.1,2653,1.35,88.433
+New York State,2016,Month,12,AgeGroup,35+,2.33,2854,2.65,92.065
+New York State,2016,Month,12,Total,Total,1.201,2874,1.46,92.71
+New York State,2016,Month,2,AgeGroup,35+,2.053,2526,2.35,87.103
+New York State,2016,Month,2,Total,Total,1.058,2543,1.29,87.69
+New York State,2016,Month,3,AgeGroup,35+,2.312,2842,2.64,91.677
+New York State,2016,Month,3,Total,Total,1.192,2864,1.46,92.387
+New York State,2016,Month,4,AgeGroup,35+,2.112,2579,2.4,85.967
+New York State,2016,Month,4,Total,Total,1.089,2598,1.32,86.6
+New York State,2016,Month,5,AgeGroup,35+,2.243,2757,2.56,88.935
+New York State,2016,Month,5,Total,Total,1.157,2779,1.41,89.645
+New York State,2016,Month,6,AgeGroup,35+,2.064,2530,2.35,84.333
+New York State,2016,Month,6,Total,Total,1.066,2551,1.3,85.033
+New York State,2016,Month,7,AgeGroup,35+,2.113,2583,2.4,83.323
+New York State,2016,Month,7,Total,Total,1.087,2597,1.32,83.774
+New York State,2016,Month,8,AgeGroup,35+,2.122,2584,2.4,83.355
+New York State,2016,Month,8,Total,Total,1.094,2603,1.33,83.968
+New York State,2016,Month,9,AgeGroup,35+,2.062,2532,2.35,84.4
+New York State,2016,Month,9,Total,Total,1.067,2558,1.3,85.267
+New York State,2016,Total,,Total,Total,13.379,32029,16.31,87.511
+New York State,2016-2018,AgeGroup,35+,Total,Total,75.796,93815,87.05,85.598
+New York State,2016-2018,Month,1,AgeGroup,35+,6.832,8447,7.84,90.828
+New York State,2016-2018,Month,1,Total,Total,3.527,8518,4.35,91.591
+New York State,2016-2018,Month,10,AgeGroup,35+,6.36,7839,7.27,84.29
+New York State,2016-2018,Month,10,Total,Total,3.276,7892,4.03,84.86
+New York State,2016-2018,Month,11,AgeGroup,35+,6.284,7817,7.25,86.856
+New York State,2016-2018,Month,11,Total,Total,3.242,7877,4.02,87.522
+New York State,2016-2018,Month,12,AgeGroup,35+,6.389,7912,7.34,85.075
+New York State,2016-2018,Month,12,Total,Total,3.299,7981,4.07,85.817
+New York State,2016-2018,Month,2,AgeGroup,35+,6.033,7507,6.97,88.318
+New York State,2016-2018,Month,2,Total,Total,3.115,7571,3.86,89.071
+New York State,2016-2018,Month,3,AgeGroup,35+,6.653,8228,7.63,88.473
+New York State,2016-2018,Month,3,Total,Total,3.43,8289,4.23,89.129
+New York State,2016-2018,Month,4,AgeGroup,35+,6.327,7817,7.25,86.856
+New York State,2016-2018,Month,4,Total,Total,3.264,7879,4.02,87.544
+New York State,2016-2018,Month,5,AgeGroup,35+,6.548,8114,7.53,87.247
+New York State,2016-2018,Month,5,Total,Total,3.38,8181,4.18,87.968
+New York State,2016-2018,Month,6,AgeGroup,35+,6.079,7517,6.98,83.522
+New York State,2016-2018,Month,6,Total,Total,3.14,7583,3.87,84.256
+New York State,2016-2018,Month,7,AgeGroup,35+,6.128,7593,7.05,81.645
+New York State,2016-2018,Month,7,Total,Total,3.161,7652,3.91,82.28
+New York State,2016-2018,Month,8,AgeGroup,35+,6.147,7572,7.03,81.419
+New York State,2016-2018,Month,8,Total,Total,3.175,7639,3.9,82.14
+New York State,2016-2018,Month,9,AgeGroup,35+,6.016,7452,6.91,82.8
+New York State,2016-2018,Month,9,Total,Total,3.105,7514,3.84,83.489
+New York State,2017,AgeGroup,35+,Total,Total,25.351,31353,29.09,85.899
+New York State,2017,Month,1,AgeGroup,35+,2.26,2787,2.59,89.903
+New York State,2017,Month,1,Total,Total,1.168,2813,1.44,90.742
+New York State,2017,Month,10,AgeGroup,35+,2.11,2599,2.41,83.839
+New York State,2017,Month,10,Total,Total,1.088,2618,1.34,84.452
+New York State,2017,Month,11,AgeGroup,35+,2.144,2651,2.46,88.367
+New York State,2017,Month,11,Total,Total,1.104,2667,1.36,88.9
+New York State,2017,Month,12,AgeGroup,35+,2.099,2600,2.41,83.871
+New York State,2017,Month,12,Total,Total,1.085,2624,1.34,84.645
+New York State,2017,Month,2,AgeGroup,35+,2.031,2535,2.35,90.536
+New York State,2017,Month,2,Total,Total,1.049,2558,1.31,91.357
+New York State,2017,Month,3,AgeGroup,35+,2.27,2792,2.59,90.065
+New York State,2017,Month,3,Total,Total,1.17,2812,1.44,90.71
+New York State,2017,Month,4,AgeGroup,35+,2.136,2631,2.44,87.7
+New York State,2017,Month,4,Total,Total,1.103,2655,1.36,88.5
+New York State,2017,Month,5,AgeGroup,35+,2.199,2721,2.52,87.774
+New York State,2017,Month,5,Total,Total,1.137,2747,1.4,88.613
+New York State,2017,Month,6,AgeGroup,35+,2.065,2546,2.36,84.867
+New York State,2017,Month,6,Total,Total,1.066,2566,1.31,85.533
+New York State,2017,Month,7,AgeGroup,35+,2.009,2500,2.32,80.645
+New York State,2017,Month,7,Total,Total,1.039,2523,1.29,81.387
+New York State,2017,Month,8,AgeGroup,35+,2.011,2494,2.31,80.452
+New York State,2017,Month,8,Total,Total,1.039,2517,1.28,81.194
+New York State,2017,Month,9,AgeGroup,35+,2.017,2497,2.32,83.233
+New York State,2017,Month,9,Total,Total,1.039,2514,1.28,83.8
+New York State,2017,Total,,Total,Total,13.085,31614,16.14,86.614
+New York State,2018,AgeGroup,35+,Total,Total,24.517,30667,28.41,84.019
+New York State,2018,Month,1,AgeGroup,35+,2.3,2885,2.67,93.065
+New York State,2018,Month,1,Total,Total,1.191,2916,1.49,94.065
+New York State,2018,Month,10,AgeGroup,35+,2.114,2638,2.44,85.097
+New York State,2018,Month,10,Total,Total,1.088,2654,1.36,85.613
+New York State,2018,Month,11,AgeGroup,35+,2.015,2535,2.35,84.5
+New York State,2018,Month,11,Total,Total,1.041,2557,1.31,85.233
+New York State,2018,Month,12,AgeGroup,35+,1.965,2458,2.28,79.29
+New York State,2018,Month,12,Total,Total,1.017,2483,1.27,80.097
+New York State,2018,Month,2,AgeGroup,35+,1.951,2446,2.27,87.357
+New York State,2018,Month,2,Total,Total,1.009,2470,1.26,88.214
+New York State,2018,Month,3,AgeGroup,35+,2.073,2594,2.4,83.677
+New York State,2018,Month,3,Total,Total,1.069,2613,1.34,84.29
+New York State,2018,Month,4,AgeGroup,35+,2.079,2607,2.41,86.9
+New York State,2018,Month,4,Total,Total,1.072,2626,1.34,87.533
+New York State,2018,Month,5,AgeGroup,35+,2.11,2636,2.44,85.032
+New York State,2018,Month,5,Total,Total,1.088,2655,1.36,85.645
+New York State,2018,Month,6,AgeGroup,35+,1.95,2441,2.26,81.367
+New York State,2018,Month,6,Total,Total,1.009,2466,1.26,82.2
+New York State,2018,Month,7,AgeGroup,35+,2.005,2510,2.33,80.968
+New York State,2018,Month,7,Total,Total,1.035,2532,1.3,81.677
+New York State,2018,Month,8,AgeGroup,35+,2.015,2494,2.31,80.452
+New York State,2018,Month,8,Total,Total,1.042,2519,1.29,81.258
+New York State,2018,Month,9,AgeGroup,35+,1.94,2423,2.24,80.767
+New York State,2018,Month,9,Total,Total,1.001,2442,1.25,81.4
+New York State,2018,Total,,Total,Total,12.662,30933,15.83,84.748
+New York State,2000,AgeGroup,0-34,Total,Total,57.19247249,303,0.33,0.828
+New York State,2000-2002,AgeGroup,0-34,Total,Total,175.9187603,932,1.02,0.85
+New York State,2001,AgeGroup,0-34,Total,Total,58.70250477,311,0.34,0.852
+New York State,2001-2003,AgeGroup,0-34,Total,Total,181.7701353,963,1.05,0.879
+New York State,2002,AgeGroup,0-34,Total,Total,60.02378301,318,0.35,0.871
+New York State,2002-2004,AgeGroup,0-34,Total,Total,181.5813813,962,1.06,0.878
+New York State,2003,AgeGroup,0-34,Total,Total,63.04384756,334,0.37,0.915
+New York State,2003-2005,AgeGroup,0-34,Total,Total,174.9749901,927,1.03,0.846
+New York State,2004,AgeGroup,0-34,Total,Total,58.51375073,310,0.34,0.847
+New York State,2004-2006,AgeGroup,0-34,Total,Total,159.6859133,846,0.94,0.772
+New York State,2005,AgeGroup,0-34,Total,Total,53.4173918,283,0.32,0.775
+New York State,2005-2007,AgeGroup,0-34,Total,Total,151.7582438,804,0.9,0.734
+New York State,2006,AgeGroup,0-34,Total,Total,47.75477076,253,0.28,0.693
+New York State,2006-2008,AgeGroup,0-34,Total,Total,145.7181147,772,0.87,0.704
+New York State,2007,AgeGroup,0-34,Total,Total,50.58608128,268,0.3,0.734
+New York State,2007-2009,AgeGroup,0-34,Total,Total,140.0554937,742,0.83,0.677
+New York State,2008,AgeGroup,0-34,Total,Total,47.37726269,251,0.28,0.686
+New York State,2008-2010,AgeGroup,0-34,Total,Total,140.6217558,745,0.83,0.68
+New York State,2009,AgeGroup,0-34,Total,Total,42.09214972,223,0.25,0.611
+New York State,2009-2011,AgeGroup,0-34,Total,Total,142.1317881,753,0.84,0.688
+New York State,2010,AgeGroup,0-34,Total,Total,51.15234338,271,0.3,0.742
+New York State,2010-2012,AgeGroup,0-34,Total,Total,146.2843768,775,0.86,0.707
+New York State,2011,AgeGroup,0-34,Total,Total,48.88729497,259,0.29,0.71
+New York State,2011-2013,AgeGroup,0-34,Total,Total,136.6579211,724,0.8,0.661
+New York State,2012,AgeGroup,0-34,Total,Total,46.24473848,245,0.27,0.669
+New York State,2012-2014,AgeGroup,0-34,Total,Total,123.4451386,654,0.73,0.597
+New York State,2013,AgeGroup,0-34,Total,Total,41.52588762,220,0.24,0.603
+New York State,2013-2015,AgeGroup,0-34,Total,Total,121.1800902,642,0.72,0.586
+New York State,2014,AgeGroup,0-34,Total,Total,35.67451254,189,0.21,0.518
+New York State,2014-2016,AgeGroup,0-34,Total,Total,123.8226467,656,0.73,0.599
+New York State,2015,AgeGroup,0-34,Total,Total,43.97969007,233,0.26,0.638
+New York State,2015-2017,AgeGroup,0-34,Total,Total,137.4129372,728,0.82,0.664
+New York State,2016,AgeGroup,0-34,Total,Total,44.1684441,234,0.26,0.639
+New York State,2016-2018,AgeGroup,0-34,Total,Total,143.6418203,761,0.86,0.694
+New York State,2017,AgeGroup,0-34,Total,Total,49.26480304,261,0.3,0.715
+New York State,2018,AgeGroup,0-34,Total,Total,50.20857321,266,0.3,0.729
+New York State,2000,AgeGroup,35-44,Total,Total,140.3065904,1912,6.22,5.224
+New York State,2000,AgeGroup,45-54,Total,Total,406.4634961,5539,21.55,15.134
+New York State,2000-2002,AgeGroup,35-44,Total,Total,426.9371042,5818,19.01,5.308
+New York State,2000-2002,AgeGroup,45-54,Total,Total,1232.379121,16794,64.06,15.323
+New York State,2001,AgeGroup,35-44,Total,Total,143.0951106,1950,6.35,5.342
+New York State,2001,AgeGroup,45-54,Total,Total,412.3340647,5619,21.3,15.395
+New York State,2001-2003,AgeGroup,35-44,Total,Total,426.5701937,5813,19.14,5.309
+New York State,2001-2003,AgeGroup,45-54,Total,Total,1221.371805,16644,62.54,15.2
+New York State,2002,AgeGroup,35-44,Total,Total,143.5354032,1956,6.43,5.359
+New York State,2002,AgeGroup,45-54,Total,Total,413.5815605,5636,21.22,15.441
+New York State,2002-2004,AgeGroup,35-44,Total,Total,427.0104863,5819,19.39,5.309
+New York State,2002-2004,AgeGroup,45-54,Total,Total,1182.992963,16121,59.93,14.709
+New York State,2003,AgeGroup,35-44,Total,Total,139.9396799,1907,6.35,5.225
+New York State,2003,AgeGroup,45-54,Total,Total,395.4561799,5389,20.03,14.764
+New York State,2003-2005,AgeGroup,35-44,Total,Total,419.2319829,5713,19.32,5.213
+New York State,2003-2005,AgeGroup,45-54,Total,Total,1126.782268,15355,56.36,14.01
+New York State,2004,AgeGroup,35-44,Total,Total,143.5354032,1956,6.61,5.344
+New York State,2004,AgeGroup,45-54,Total,Total,373.9552222,5096,18.71,13.923
+New York State,2004-2006,AgeGroup,35-44,Total,Total,403.6015939,5500,18.91,5.018
+New York State,2004-2006,AgeGroup,45-54,Total,Total,1094.861051,14920,54.12,13.613
+New York State,2005,AgeGroup,35-44,Total,Total,135.7568998,1850,6.36,5.068
+New York State,2005,AgeGroup,45-54,Total,Total,357.3708658,4870,17.66,13.342
+New York State,2005-2007,AgeGroup,35-44,Total,Total,375.2027181,5113,17.92,4.669
+New York State,2005-2007,AgeGroup,45-54,Total,Total,1060.518224,14452,51.86,13.198
+New York State,2006,AgeGroup,35-44,Total,Total,124.3092909,1694,5.93,4.641
+New York State,2006,AgeGroup,45-54,Total,Total,363.5349629,4954,17.77,13.573
+New York State,2006-2008,AgeGroup,35-44,Total,Total,349.0053055,4756,17.04,4.339
+New York State,2006-2008,AgeGroup,45-54,Total,Total,1051.638989,14331,50.92,13.076
+New York State,2007,AgeGroup,35-44,Total,Total,115.1365274,1569,5.62,4.299
+New York State,2007,AgeGroup,45-54,Total,Total,339.6123957,4628,16.45,12.679
+New York State,2007-2009,AgeGroup,35-44,Total,Total,333.4482986,4544,16.68,4.146
+New York State,2007-2009,AgeGroup,45-54,Total,Total,1016.048667,13846,48.73,12.633
+New York State,2008,AgeGroup,35-44,Total,Total,109.5594872,1493,5.48,4.079
+New York State,2008,AgeGroup,45-54,Total,Total,348.4916308,4749,16.71,12.975
+New York State,2008-2010,AgeGroup,35-44,Total,Total,319.0654055,4348,16.35,3.967
+New York State,2008-2010,AgeGroup,45-54,Total,Total,1002.179449,13657,47.7,12.461
+New York State,2009,AgeGroup,35-44,Total,Total,108.752284,1482,5.58,4.06
+New York State,2009,AgeGroup,45-54,Total,Total,327.9446405,4469,15.57,12.244
+New York State,2009-2011,AgeGroup,35-44,Total,Total,305.4897155,4163,15.98,3.802
+New York State,2009-2011,AgeGroup,45-54,Total,Total,979.5777594,13349,46.47,12.191
+New York State,2010,AgeGroup,35-44,Total,Total,100.7536342,1373,5.28,3.762
+New York State,2010,AgeGroup,45-54,Total,Total,325.7431773,4439,15.42,12.162
+New York State,2010-2012,AgeGroup,35-44,Total,Total,292.3543182,3984,15.54,3.635
+New York State,2010-2012,AgeGroup,45-54,Total,Total,975.4683613,13293,46.43,12.129
+New York State,2011,AgeGroup,35-44,Total,Total,95.98379723,1308,5.11,3.584
+New York State,2011,AgeGroup,45-54,Total,Total,325.8899415,4441,15.48,12.167
+New York State,2011-2013,AgeGroup,35-44,Total,Total,282.4477336,3849,15.19,3.512
+New York State,2011-2013,AgeGroup,45-54,Total,Total,961.7459071,13106,46.16,11.958
+New York State,2012,AgeGroup,35-44,Total,Total,95.61688669,1303,5.14,3.56
+New York State,2012,AgeGroup,45-54,Total,Total,323.8352425,4413,15.53,12.057
+New York State,2012-2014,AgeGroup,35-44,Total,Total,276.7239292,3771,15.04,3.441
+New York State,2012-2014,AgeGroup,45-54,Total,Total,940.1715674,12812,45.66,11.69
+New York State,2013,AgeGroup,35-44,Total,Total,90.84704967,1238,4.94,3.392
+New York State,2013,AgeGroup,45-54,Total,Total,312.0207231,4252,15.15,11.649
+New York State,2013-2015,AgeGroup,35-44,Total,Total,268.7252794,3662,14.75,3.344
+New York State,2013-2015,AgeGroup,45-54,Total,Total,928.0635196,12647,45.66,11.55
+New York State,2014,AgeGroup,35-44,Total,Total,90.25999281,1230,4.96,3.37
+New York State,2014,AgeGroup,45-54,Total,Total,304.3156018,4147,14.97,11.362
+New York State,2014-2016,AgeGroup,35-44,Total,Total,268.2116046,3655,14.87,3.335
+New York State,2014-2016,AgeGroup,45-54,Total,Total,928.0635196,12647,46.33,11.539
+New York State,2015,AgeGroup,35-44,Total,Total,87.61823692,1194,4.86,3.271
+New York State,2015,AgeGroup,45-54,Total,Total,311.7271947,4248,15.55,11.638
+New York State,2015-2017,AgeGroup,35-44,Total,Total,264.4691171,3604,14.78,3.288
+New York State,2015-2017,AgeGroup,45-54,Total,Total,941.1989169,12826,47.81,11.703
+New York State,2016,AgeGroup,35-44,Total,Total,90.33337492,1231,5.06,3.363
+New York State,2016,AgeGroup,45-54,Total,Total,312.0207231,4252,15.82,11.617
+New York State,2016-2018,AgeGroup,35-44,Total,Total,262.5611823,3578,14.72,3.265
+New York State,2016-2018,AgeGroup,45-54,Total,Total,924.1742678,12594,48,11.491
+New York State,2017,AgeGroup,35-44,Total,Total,86.5175053,1179,4.86,3.23
+New York State,2017,AgeGroup,45-54,Total,Total,317.4509991,4326,16.46,11.852
+New York State,2018,AgeGroup,35-44,Total,Total,85.71030211,1168,4.8,3.2
+New York State,2018,AgeGroup,45-54,Total,Total,294.7025456,4016,15.72,11.003
+New York State,2000,AgeGroup,55-64,Total,Total,673.4179002,7634,45.01,20.858
+New York State,2000-2002,AgeGroup,55-64,Total,Total,2035.690972,23077,131.9,21.056
+New York State,2001,AgeGroup,55-64,Total,Total,676.4171415,7668,44.28,21.008
+New York State,2001-2003,AgeGroup,55-64,Total,Total,2038.337362,23107,127.39,21.102
+New York State,2002,AgeGroup,55-64,Total,Total,685.8559306,7775,42.69,21.301
+New York State,2002-2004,AgeGroup,55-64,Total,Total,2027.92823,22989,121.77,20.975
+New York State,2003,AgeGroup,55-64,Total,Total,676.0642896,7664,40.58,20.997
+New York State,2003-2005,AgeGroup,55-64,Total,Total,1960.092447,22220,113.75,20.274
+New York State,2004,AgeGroup,55-64,Total,Total,666.0080097,7550,38.65,20.628
+New York State,2004-2006,AgeGroup,55-64,Total,Total,1886.169969,21382,106.01,19.509
+New York State,2005,AgeGroup,55-64,Total,Total,618.0201478,7006,34.73,19.195
+New York State,2005-2007,AgeGroup,55-64,Total,Total,1797.251283,20374,98.09,18.606
+New York State,2006,AgeGroup,55-64,Total,Total,602.1418112,6826,32.82,18.701
+New York State,2006-2008,AgeGroup,55-64,Total,Total,1767.347083,20035,94.04,18.28
+New York State,2007,AgeGroup,55-64,Total,Total,577.0893245,6542,30.66,17.923
+New York State,2007-2009,AgeGroup,55-64,Total,Total,1750.233764,19841,90.79,18.103
+New York State,2008,AgeGroup,55-64,Total,Total,588.1159471,6667,30.61,18.216
+New York State,2008-2010,AgeGroup,55-64,Total,Total,1767.25887,20034,89.15,18.279
+New York State,2009,AgeGroup,55-64,Total,Total,585.0284928,6632,29.55,18.17
+New York State,2009-2011,AgeGroup,55-64,Total,Total,1751.204107,19852,85.65,18.13
+New York State,2010,AgeGroup,55-64,Total,Total,594.1144299,6735,29.04,18.452
+New York State,2010-2012,AgeGroup,55-64,Total,Total,1787.98892,20269,85.34,18.494
+New York State,2011,AgeGroup,55-64,Total,Total,572.0611845,6485,27.14,17.767
+New York State,2011-2013,AgeGroup,55-64,Total,Total,1787.98892,20269,83.74,18.494
+New York State,2012,AgeGroup,55-64,Total,Total,621.813306,7049,29.18,19.26
+New York State,2012-2014,AgeGroup,55-64,Total,Total,1825.126586,20690,84.27,18.878
+New York State,2013,AgeGroup,55-64,Total,Total,594.1144299,6735,27.43,18.452
+New York State,2013-2015,AgeGroup,55-64,Total,Total,1828.919744,20733,83.11,18.934
+New York State,2014,AgeGroup,55-64,Total,Total,609.1988497,6906,27.69,18.921
+New York State,2014-2016,AgeGroup,55-64,Total,Total,1897.990508,21516,85.03,19.631
+New York State,2015,AgeGroup,55-64,Total,Total,625.6064642,7092,27.98,19.43
+New York State,2015-2017,AgeGroup,55-64,Total,Total,1939.715248,21989,85.92,20.063
+New York State,2016,AgeGroup,55-64,Total,Total,663.1851943,7518,29.34,20.541
+New York State,2016-2018,AgeGroup,55-64,Total,Total,1963.268115,22256,86.29,20.307
+New York State,2017,AgeGroup,55-64,Total,Total,650.9235899,7379,28.6,20.216
+New York State,2018,AgeGroup,55-64,Total,Total,649.1593303,7359,28.36,20.162
+New York State,2000,AgeGroup,65-74,Total,Total,522.6781631,9990,78.38,27.295
+New York State,2000-2002,AgeGroup,65-74,Total,Total,1522.35901,29097,229.57,26.548
+New York State,2001,AgeGroup,65-74,Total,Total,509.8074096,9744,76.9,26.696
+New York State,2001-2003,AgeGroup,65-74,Total,Total,1482.072505,28327,224.55,25.869
+New York State,2002,AgeGroup,65-74,Total,Total,489.8734376,9363,74.27,25.652
+New York State,2002-2004,AgeGroup,65-74,Total,Total,1426.56084,27266,216.88,24.878
+New York State,2003,AgeGroup,65-74,Total,Total,482.3916581,9220,73.37,25.26
+New York State,2003-2005,AgeGroup,65-74,Total,Total,1345.77855,25722,205.13,23.469
+New York State,2004,AgeGroup,65-74,Total,Total,454.2957448,8683,69.23,23.724
+New York State,2004-2006,AgeGroup,65-74,Total,Total,1231.145131,23531,188.14,21.47
+New York State,2005,AgeGroup,65-74,Total,Total,409.0911469,7819,62.51,21.422
+New York State,2005-2007,AgeGroup,65-74,Total,Total,1122.528528,21455,171,19.594
+New York State,2006,AgeGroup,65-74,Total,Total,367.7582391,7029,56.37,19.258
+New York State,2006-2008,AgeGroup,65-74,Total,Total,1073.55688,20519,161.13,18.722
+New York State,2007,AgeGroup,65-74,Total,Total,345.6791415,6607,52.18,18.101
+New York State,2007-2009,AgeGroup,65-74,Total,Total,1056.762116,20198,154.87,18.429
+New York State,2008,AgeGroup,65-74,Total,Total,360.1194992,6883,52.66,18.806
+New York State,2008-2010,AgeGroup,65-74,Total,Total,1054.669311,20158,150.62,18.392
+New York State,2009,AgeGroup,65-74,Total,Total,350.9634753,6708,50.08,18.378
+New York State,2009-2011,AgeGroup,65-74,Total,Total,1041.955517,19915,145.37,18.187
+New York State,2010,AgeGroup,65-74,Total,Total,343.5863361,6567,47.99,17.992
+New York State,2010-2012,AgeGroup,65-74,Total,Total,1055.192512,20168,142.18,18.401
+New York State,2011,AgeGroup,65-74,Total,Total,347.405706,6640,47.36,18.192
+New York State,2011-2013,AgeGroup,65-74,Total,Total,1070.522312,20461,138.36,18.669
+New York State,2012,AgeGroup,65-74,Total,Total,364.2004698,6961,46.88,19.019
+New York State,2012-2014,AgeGroup,65-74,Total,Total,1091.136446,20855,134.64,19.028
+New York State,2013,AgeGroup,65-74,Total,Total,358.9161361,6860,44.27,18.795
+New York State,2013-2015,AgeGroup,65-74,Total,Total,1094.903496,20927,129.88,19.111
+New York State,2014,AgeGroup,65-74,Total,Total,368.0198398,7034,43.62,19.271
+New York State,2014-2016,AgeGroup,65-74,Total,Total,1131.475271,21626,129.45,19.732
+New York State,2015,AgeGroup,65-74,Total,Total,367.9675197,7033,42.07,19.268
+New York State,2015-2017,AgeGroup,65-74,Total,Total,1163.442874,22237,128.95,20.289
+New York State,2016,AgeGroup,65-74,Total,Total,395.4879114,7559,43.76,20.653
+New York State,2016-2018,AgeGroup,65-74,Total,Total,1198.445046,22906,129.4,20.9
+New York State,2017,AgeGroup,65-74,Total,Total,399.9874432,7645,43.1,20.945
+New York State,2018,AgeGroup,65-74,Total,Total,402.9696909,7702,42.57,21.101
+New York State,2000,AgeGroup,75-84,Total,Total,534.0302292,11331,130.98,30.959
+New York State,2000,AgeGroup,85+,Total,Total,300.0768219,6367,202.9,17.396
+New York State,2000-2002,AgeGroup,75-84,Total,Total,1593.890065,33819,385.35,30.857
+New York State,2000-2002,AgeGroup,85+,Total,Total,943.1659118,20012,629.69,18.259
+New York State,2001,AgeGroup,75-84,Total,Total,526.0652562,11162,127.13,30.581
+New York State,2001,AgeGroup,85+,Total,Total,315.8653778,6702,210.94,18.362
+New York State,2001-2003,AgeGroup,75-84,Total,Total,1597.519076,33896,381.73,30.955
+New York State,2001-2003,AgeGroup,85+,Total,Total,983.0379067,20858,646.51,19.048
+New York State,2002,AgeGroup,75-84,Total,Total,533.7945791,11326,127.29,31.03
+New York State,2002,AgeGroup,85+,Total,Total,327.2237121,6943,215.69,19.022
+New York State,2002-2004,AgeGroup,75-84,Total,Total,1569.052545,33292,371.6,30.376
+New York State,2002-2004,AgeGroup,85+,Total,Total,997.271172,21160,646.24,19.307
+New York State,2003,AgeGroup,75-84,Total,Total,537.6592405,11408,127.31,31.255
+New York State,2003,AgeGroup,85+,Total,Total,339.9488168,7213,219.73,19.762
+New York State,2003-2005,AgeGroup,75-84,Total,Total,1497.320659,31770,353.2,28.987
+New York State,2003-2005,AgeGroup,85+,Total,Total,990.7672296,21022,628.71,19.181
+New York State,2004,AgeGroup,75-84,Total,Total,497.5987256,10558,117.07,28.847
+New York State,2004,AgeGroup,85+,Total,Total,330.0986431,7004,210.87,19.137
+New York State,2004-2006,AgeGroup,75-84,Total,Total,1377.940324,29237,325.45,26.676
+New York State,2004-2006,AgeGroup,85+,Total,Total,943.590082,20021,584.61,18.267
+New York State,2005,AgeGroup,75-84,Total,Total,462.0626923,9804,108.87,26.86
+New York State,2005,AgeGroup,85+,Total,Total,320.7197696,6805,198.57,18.644
+New York State,2005-2007,AgeGroup,75-84,Total,Total,1261.38779,26764,299.42,24.442
+New York State,2005-2007,AgeGroup,85+,Total,Total,890.191772,18888,535.41,17.249
+New York State,2006,AgeGroup,75-84,Total,Total,418.278906,8875,99.42,24.315
+New York State,2006,AgeGroup,85+,Total,Total,292.7716692,6212,176.2,17.019
+New York State,2006-2008,AgeGroup,75-84,Total,Total,1177.920529,24993,281.84,22.804
+New York State,2006-2008,AgeGroup,85+,Total,Total,847.162066,17975,495.43,16.401
+New York State,2007,AgeGroup,75-84,Total,Total,381.0461921,8085,91.01,22.151
+New York State,2007,AgeGroup,85+,Total,Total,276.7003332,5871,161.71,16.085
+New York State,2007-2009,AgeGroup,75-84,Total,Total,1107.602543,23501,267.35,21.443
+New York State,2007-2009,AgeGroup,85+,Total,Total,827.7444987,17563,470.76,16.025
+New York State,2008,AgeGroup,75-84,Total,Total,378.5954312,8033,91.35,21.948
+New York State,2008,AgeGroup,85+,Total,Total,277.6900636,5892,158.04,16.098
+New York State,2008-2010,AgeGroup,75-84,Total,Total,1070.558349,22715,260.61,20.725
+New York State,2008-2010,AgeGroup,85+,Total,Total,818.5070153,17367,452.81,15.846
+New York State,2009,AgeGroup,75-84,Total,Total,347.9609198,7383,84.91,20.227
+New York State,2009,AgeGroup,85+,Total,Total,273.354102,5800,151.3,15.89
+New York State,2009-2011,AgeGroup,75-84,Total,Total,1013.766678,21510,248.12,19.644
+New York State,2009-2011,AgeGroup,85+,Total,Total,803.4254097,17047,432.35,15.568
+New York State,2010,AgeGroup,75-84,Total,Total,344.0019983,7299,84.28,19.997
+New York State,2010,AgeGroup,85+,Total,Total,267.4628498,5675,143.87,15.548
+New York State,2010-2012,AgeGroup,75-84,Total,Total,995.8101414,21129,244.07,19.278
+New York State,2010-2012,AgeGroup,85+,Total,Total,798.7595379,16948,417.88,15.464
+New York State,2011,AgeGroup,75-84,Total,Total,321.80376,6828,78.92,18.707
+New York State,2011,AgeGroup,85+,Total,Total,262.608458,5572,137.56,15.266
+New York State,2011-2013,AgeGroup,75-84,Total,Total,953.6759057,20235,233.42,18.463
+New York State,2011-2013,AgeGroup,85+,Total,Total,776.7969497,16482,396.1,15.038
+New York State,2012,AgeGroup,75-84,Total,Total,330.0043831,7002,80.88,19.131
+New York State,2012,AgeGroup,85+,Total,Total,268.6882302,5701,136.64,15.577
+New York State,2012-2014,AgeGroup,75-84,Total,Total,922.7114842,19578,224.88,17.863
+New York State,2012-2014,AgeGroup,85+,Total,Total,752.4778607,15966,374.66,14.568
+New York State,2013,AgeGroup,75-84,Total,Total,301.8677626,6405,73.65,17.548
+New York State,2013,AgeGroup,85+,Total,Total,245.5002616,5209,122.26,14.271
+New York State,2013-2015,AgeGroup,75-84,Total,Total,880.9542886,18692,213.26,17.07
+New York State,2013-2015,AgeGroup,85+,Total,Total,703.5097724,14927,343.32,13.632
+New York State,2014,AgeGroup,75-84,Total,Total,290.8393385,6171,70.42,16.907
+New York State,2014,AgeGroup,85+,Total,Total,238.2893689,5056,116.19,13.852
+New York State,2014-2016,AgeGroup,75-84,Total,Total,883.2165294,18740,211.75,17.099
+New York State,2014-2016,AgeGroup,85+,Total,Total,683.3852549,14500,327.36,13.23
+New York State,2015,AgeGroup,75-84,Total,Total,288.2471875,6116,69.23,16.756
+New York State,2015,AgeGroup,85+,Total,Total,219.720142,4662,105.2,12.773
+New York State,2015-2017,AgeGroup,75-84,Total,Total,889.3434317,18870,210.1,17.217
+New York State,2015-2017,AgeGroup,85+,Total,Total,658.2649555,13967,310.87,12.744
+New York State,2016,AgeGroup,75-84,Total,Total,304.1300034,6453,72.08,17.631
+New York State,2016,AgeGroup,85+,Total,Total,225.3757441,4782,106.15,13.066
+New York State,2016-2018,AgeGroup,75-84,Total,Total,895.2346839,18995,206.54,17.331
+New York State,2016-2018,AgeGroup,85+,Total,Total,635.5954171,13486,297.26,12.305
+New York State,2017,AgeGroup,75-84,Total,Total,296.9662408,6301,68.81,17.263
+New York State,2017,AgeGroup,85+,Total,Total,213.1690695,4523,99.58,12.392
+New York State,2018,AgeGroup,75-84,Total,Total,294.1384397,6241,65.83,17.099
+New York State,2018,AgeGroup,85+,Total,Total,197.0506035,4181,91.62,11.455
+Albany,2000-2018,AgeGroup,35+,Grand Total,Grand Total,489.358,8940,551.46,1.288
+Allegany,2000-2018,AgeGroup,35+,Grand Total,Grand Total,774.35,2276,892.86,0.328
+Bronx,2000-2018,AgeGroup,35+,Grand Total,Grand Total,620.746,40220,618.86,5.795
+Broome,2000-2018,AgeGroup,35+,Grand Total,Grand Total,739.702,9831,897.79,1.417
+Cattaraugus,2000-2018,AgeGroup,35+,Grand Total,Grand Total,817.692,4139,920.38,0.596
+Cayuga,2000-2018,AgeGroup,35+,Grand Total,Grand Total,875.431,4504,985.95,0.649
+Chautauqua,2000-2018,AgeGroup,35+,Grand Total,Grand Total,403.68,3724,492.9,0.537
+Chemung,2000-2018,AgeGroup,35+,Grand Total,Grand Total,724.437,4177,835.69,0.602
+Chenango,2000-2018,AgeGroup,35+,Grand Total,Grand Total,829.309,2782,946.21,0.401
+Clinton,2000-2018,AgeGroup,35+,Grand Total,Grand Total,663.807,3048,690.76,0.439
+Columbia,2000-2018,AgeGroup,35+,Grand Total,Grand Total,576.447,2601,670.7,0.375
+Cortland,2000-2018,AgeGroup,35+,Grand Total,Grand Total,752.886,2040,827.15,0.294
+Delaware,2000-2018,AgeGroup,35+,Grand Total,Grand Total,720.724,2564,887.27,0.369
+Dutchess,2000-2018,AgeGroup,35+,Grand Total,Grand Total,567.671,9801,596.16,1.412
+Erie,2000-2018,AgeGroup,35+,Grand Total,Grand Total,684.868,41126,795.86,5.926
+Essex,2000-2018,AgeGroup,35+,Grand Total,Grand Total,449.406,1244,522.17,0.179
+Franklin,2000-2018,AgeGroup,35+,Grand Total,Grand Total,671.754,1969,699.99,0.284
+Fulton,2000-2018,AgeGroup,35+,Grand Total,Grand Total,819.938,2992,937.64,0.431
+Genesee,2000-2018,AgeGroup,35+,Grand Total,Grand Total,736.597,2824,830.52,0.407
+Greene,2000-2018,AgeGroup,35+,Grand Total,Grand Total,642.688,2174,743.89,0.313
+Hamilton,2000-2018,AgeGroup,35+,Grand Total,Grand Total,558.988,228,665.15,0.033
+Herkimer,2000-2018,AgeGroup,35+,Grand Total,Grand Total,596.373,2615,706.84,0.377
+Jefferson,2000-2018,AgeGroup,35+,Grand Total,Grand Total,718.573,3965,745.79,0.571
+Kings,2000-2018,AgeGroup,35+,Grand Total,Grand Total,604.706,76738,623.41,11.057
+Lewis,2000-2018,AgeGroup,35+,Grand Total,Grand Total,606.885,1010,673.47,0.146
+Livingston,2000-2018,AgeGroup,35+,Grand Total,Grand Total,613.349,2300,655.82,0.331
+Madison,2000-2018,AgeGroup,35+,Grand Total,Grand Total,525.187,2227,568.22,0.321
+Monroe,2000-2018,AgeGroup,35+,Grand Total,Grand Total,588.811,26062,653.65,3.755
+Montgomery,2000-2018,AgeGroup,35+,Grand Total,Grand Total,941.9,3279,1162.65,0.472
+Nassau,2000-2018,AgeGroup,35+,Grand Total,Grand Total,559.025,48782,633.51,7.029
+New York County,2000-2018,AgeGroup,35+,Grand Total,Grand Total,389.999,34857,414.55,5.023
+Niagara,2000-2018,AgeGroup,35+,Grand Total,Grand Total,913.096,12973,1045.62,1.869
+Oneida,2000-2018,AgeGroup,35+,Grand Total,Grand Total,630.255,9709,738.12,1.399
+Onondaga,2000-2018,AgeGroup,35+,Grand Total,Grand Total,540.576,14982,601.55,2.159
+Ontario,2000-2018,AgeGroup,35+,Grand Total,Grand Total,609.16,4166,677.68,0.6
+Orange,2000-2018,AgeGroup,35+,Grand Total,Grand Total,735.89,13651,721.49,1.967
+Orleans,2000-2018,AgeGroup,35+,Grand Total,Grand Total,910.802,2350,975.65,0.339
+Oswego,2000-2018,AgeGroup,35+,Grand Total,Grand Total,862.433,5747,886.56,0.828
+Otsego,2000-2018,AgeGroup,35+,Grand Total,Grand Total,742.823,3065,898.45,0.442
+Putnam,2000-2018,AgeGroup,35+,Grand Total,Grand Total,533.33,2923,504.46,0.421
+Queens,2000-2018,AgeGroup,35+,Grand Total,Grand Total,531.008,66742,556.09,9.617
+Rensselaer,2000-2018,AgeGroup,35+,Grand Total,Grand Total,567.945,5274,611.37,0.76
+Richmond,2000-2018,AgeGroup,35+,Grand Total,Grand Total,652.631,16919,669.95,2.438
+Rockland,2000-2018,AgeGroup,35+,Grand Total,Grand Total,482.982,8373,522.79,1.206
+St. Lawrence,2000-2018,AgeGroup,35+,Grand Total,Grand Total,755.648,4831,827.11,0.696
+Saratoga,2000-2018,AgeGroup,35+,Grand Total,Grand Total,531.987,6831,548.04,0.984
+Schenectady,2000-2018,AgeGroup,35+,Grand Total,Grand Total,739.932,7289,854.37,1.05
+Schoharie,2000-2018,AgeGroup,35+,Grand Total,Grand Total,715.778,1508,809.15,0.217
+Schuyler,2000-2018,AgeGroup,35+,Grand Total,Grand Total,726.793,906,815.37,0.131
+Seneca,2000-2018,AgeGroup,35+,Grand Total,Grand Total,641.084,1417,715.37,0.204
+Steuben,2000-2018,AgeGroup,35+,Grand Total,Grand Total,688.585,4407,782.57,0.635
+Suffolk,2000-2018,AgeGroup,35+,Grand Total,Grand Total,700.67,59925,725.32,8.635
+Sullivan,2000-2018,AgeGroup,35+,Grand Total,Grand Total,711.453,3364,763.98,0.485
+Tioga,2000-2018,AgeGroup,35+,Grand Total,Grand Total,360.676,1182,399.44,0.17
+Tompkins,2000-2018,AgeGroup,35+,Grand Total,Grand Total,508.613,2405,546.8,0.347
+Ulster,2000-2018,AgeGroup,35+,Grand Total,Grand Total,686.307,7837,741.52,1.129
+Warren,2000-2018,AgeGroup,35+,Grand Total,Grand Total,631.501,2825,721.7,0.407
+Washington,2000-2018,AgeGroup,35+,Grand Total,Grand Total,672.547,2654,733.81,0.382
+Wayne,2000-2018,AgeGroup,35+,Grand Total,Grand Total,757.031,4241,795.95,0.611
+Westchester,2000-2018,AgeGroup,35+,Grand Total,Grand Total,511.483,30251,566.32,4.359
+Wyoming,2000-2018,AgeGroup,35+,Grand Total,Grand Total,728.458,1775,739.86,0.256
+Yates,2000-2018,AgeGroup,35+,Grand Total,Grand Total,694.813,1135,815.99,0.164
+NYS excluding NYC,2000-2018,AgeGroup,35+,Grand Total,Grand Total,630.778,431220,696.15,62.135
+New York City,2000-2018,AgeGroup,35+,Grand Total,Grand Total,544.573,235476,564.09,33.93
+New York State,2000-2018,AgeGroup,35+,Grand Total,Grand Total,597.325,666696,642.99,96.066
+New York State,2000-2018,Month,1,Grand Total,35+,53.994,60280,58.14,102.343
+New York State,2000-2018,Month,1,Grand Total,Grand Total,27.812,60702,31.37,103.059
+New York State,2000-2018,Month,10,Grand Total,35+,50.78,56671,54.66,96.216
+New York State,2000-2018,Month,10,Grand Total,Grand Total,26.156,57066,29.49,96.886
+New York State,2000-2018,Month,11,Grand Total,35+,48.87,54594,52.65,95.779
+New York State,2000-2018,Month,11,Grand Total,Grand Total,25.179,54986,28.42,96.467
+New York State,2000-2018,Month,12,Grand Total,35+,52.455,58556,56.47,99.416
+New York State,2000-2018,Month,12,Grand Total,Grand Total,27.046,59017,30.5,100.199
+New York State,2000-2018,Month,2,Grand Total,35+,47.781,53407,51.51,99.454
+New York State,2000-2018,Month,2,Grand Total,Grand Total,24.647,53848,27.83,100.276
+New York State,2000-2018,Month,3,Grand Total,35+,51.768,57780,55.73,98.098
+New York State,2000-2018,Month,3,Grand Total,Grand Total,26.678,58208,30.08,98.825
+New York State,2000-2018,Month,4,Grand Total,35+,49.466,55221,53.26,96.879
+New York State,2000-2018,Month,4,Grand Total,Grand Total,25.495,55638,28.75,97.611
+New York State,2000-2018,Month,5,Grand Total,35+,51.31,57247,55.21,97.194
+New York State,2000-2018,Month,5,Grand Total,Grand Total,26.458,57701,29.82,97.964
+New York State,2000-2018,Month,6,Grand Total,35+,48.002,53558,51.65,93.961
+New York State,2000-2018,Month,6,Grand Total,Grand Total,24.766,54012,27.91,94.758
+New York State,2000-2018,Month,7,Grand Total,35+,47.812,53302,51.41,90.496
+New York State,2000-2018,Month,7,Grand Total,Grand Total,24.629,53678,27.74,91.134
+New York State,2000-2018,Month,8,Grand Total,35+,47.369,52832,50.95,89.698
+New York State,2000-2018,Month,8,Grand Total,Grand Total,24.422,53245,27.52,90.399
+New York State,2000-2018,Month,9,Grand Total,35+,47.716,53248,51.35,93.418
+New York State,2000-2018,Month,9,Grand Total,Grand Total,24.581,53627,27.71,94.082
+New York State,2000-2018,AgeGroup,0-34,Grand Total,Grand Total,949.8103022,5032,5.6,0.725
+New York State,2000-2018,AgeGroup,35-44,Grand Total,Grand Total,2127.567457,28993,106.94,4.178
+New York State,2000-2018,AgeGroup,45-54,Grand Total,Grand Total,6566.451168,89483,326.21,12.894
+New York State,2000-2018,AgeGroup,55-64,Grand Total,Grand Total,11928.33577,135222,610.38,19.484
+New York State,2000-2018,AgeGroup,65-74,Grand Total,Grand Total,7641.198968,146047,1023.05,21.044
+New York State,2000-2018,AgeGroup,75-84,Grand Total,Grand Total,7389.091286,156781,1768.2,22.591
+New York State,2000-2018,AgeGroup,85+,Grand Total,Grand Total,5192.314037,110170,2863.35,15.875
